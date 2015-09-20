@@ -15,9 +15,13 @@ Le but principal de ce projet est d’extraire des pages web dans le domaine inf
 ######Les sources de corpus utilisées:
 
 J'ai choisi de travailler sur le domaine informatique. Le corpus a été obtenu à partir des liens suivants :
+
 	- http://www.ldlc.com
+
 	- http://www.zmaster.fr
+
 	- http://www.tplpc.com
+	
 Cette étape était faite avec le script PERL donné en cours « launch_crawler.pl»
 
 ######Le volume du corpus constitué :
