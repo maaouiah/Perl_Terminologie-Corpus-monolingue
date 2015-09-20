@@ -1,0 +1,229 @@
+	     			
+					 				
+				
+				
+				
+			 				
+				
+				
+				
+				
+				
+				
+				
+	
+	 		
+		
+		
+				 			
+			
+			
+		 			
+							 					
+					
+  Inscrivez-vous !
+  
+
+
+		 			
+			
+			
+							
+											
+						 				
+ 				
+
+					                        
+          
+          
+                                                                                                                  Menu
+                                     
+                                                                                                                                            						
+						 Accueil
+						
+						 Les Sujets et Les Articles
+
+ Informatique
+
+ Programmation C#
+
+ Sécurité & Hacking
+
+ Astuces Windows
+
+ Divx & P2P
+
+ GSM
+
+ Cryptographie
+
+ Webmaster
+
+ Cours Delphi Programmation
+
+ Hoax
+
+ MSN
+
+ Divers
+
+ News
+
+ Jeux Video
+
+ Android OS
+
+ Excel
+
+
+						
+						 Communauté
+
+ Forums
+
+ T'Chat IRC
+·
+ Proposer un article
+·
+ Messages Privés
+
+
+						
+						 Downloads et Liens Web
+
+ Téléchargements
+
+ Liens
+
+ Peer To Peer
+
+
+						
+						 Contenu
+
+ Content
+
+ Encyclopedie
+
+ Reviews
+
+ Top 10
+
+ FAQ
+
+
+						
+						 Infos
+
+ Statistiques
+
+ Search
+
+ Votre Compte
+
+
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Partenaires
+                                     
+                                                                                                                                            Ogame
+Angry Birds Solution
+  
+Aide Ogame
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+                        
+          
+          
+                                                                                                               Comment savoir si un contact vous à supprimé sur MSN  
+                                      
+                                                                                      	
+				  	zerocool a écrit : Le but de cette manipulation est de savoir si votre contact vous a supprimé de sa liste de contact (j'ai bien dis supprimé et pas bloqué).Pour le savoir pas besoin de logiciel. En vous rendant dans la liste de contact via le panneau de configuration de MSN. Vous retrouverez cette info indirectement.Pour aller au panneau de configurationOutils >> OptionsEnsuite il faut choisir l'onglet CONFIDENTIALITEA gauche vous retrouverez la liste de vos contacts qui peut vous voir en ligne, à droite ceux que vous avez bloqué.Maintenant en faisant un simple click droit sur un contact vous obtiendrez l'information. Si la case supprimé est grisée vous êtes toujours dans la liste de votre contact.Par contre si vous avez la possibilité de la supprimer la personne vous à retiré de sa liste de contact. 	
+
+                                      
+                                                                                      Posté le Mercredi 18 janvier 2006 à 17:35:39 par zmaster
+
+                                      
+                          
+                                      
+          
+          
+                  
+  Sujets associés
+"Comment savoir si un contact vous à supprimé sur MSN" | Connexion/Créer un compte | 2 commentaires | Rechercher Discussion
+Les commentaires sont la propriété de leurs auteurs. Nous ne sommes pas responsables de leurs contenus !
+
+Les commentaires anonymes ne sont pas autorisés, veuillez vous enregistrer
+ajagx (Score: 0)par Anonyme le Mercredi 17 janvier 2007 à 17:42:13
+1test11test21test31test41test51test61test71test81test91test10  62903
+
+odalk (Score: 0)par Anonyme le Jeudi 18 janvier 2007 à 08:29:55
+1test11test21test31test41test51test61test71test81test91test10  16236
+
+
+ 
+                        
+          
+          
+                                                                                                                  Liens connexes
+                                     
+                                                                                                                                            · Plus à propos de MSN· Nouvelles transmises par zmasterL'article le plus lu à propos de MSN:Comment savoir si un contact vous à supprimé sur MSN
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Estimer cet Article
+                                     
+                                                                                                                                            Score Moyen: 4.27Votes: 40Merci de prendre une seconde et de voter pour cet article:     
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Options
+                                     
+                                                                                                                                              Format imprimable  Format PDF  Envoyer cet article à un(e) ami(e)
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+News ©
+
+audit et mesure d'audience visiteurs internet par Conditions d'utilisation                         
+Tous les logos et marques sont des Propriétés respectives. Les commentaires sont la propriété respective de ceux qui les postent, tout le reste © 2006-2011 est personnel.
+
+
+
+
+                   Tous droits réservés. PHP-MaXiMuS est un logiciel libre en version GNU/GPL license  .Copyright 2005 PHP-MaXiMuS  .[ Page générée en 0.5566 sec ] [ (PHP: 73% - SQL: 27%) ]  [ Requêtes SQL: 64 ]  [ 164 pages vues la dernière heure ]       

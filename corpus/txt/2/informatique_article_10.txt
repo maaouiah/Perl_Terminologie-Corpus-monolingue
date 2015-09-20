@@ -1,0 +1,291 @@
+	     			
+					 				
+				
+				
+				
+			 				
+				
+				
+				
+				
+				
+				
+				
+	
+	 		
+		
+		
+				 			
+			
+			
+		 			
+							 					
+					
+  Inscrivez-vous !
+  
+
+
+		 			
+			
+			
+							
+											
+						 				
+ 				
+
+					                        
+          
+          
+                                                                                                                  Menu
+                                     
+                                                                                                                                            						
+						 Accueil
+						
+						 Les Sujets et Les Articles
+
+ Informatique
+
+ Programmation C#
+
+ Sécurité & Hacking
+
+ Astuces Windows
+
+ Divx & P2P
+
+ GSM
+
+ Cryptographie
+
+ Webmaster
+
+ Cours Delphi Programmation
+
+ Hoax
+
+ MSN
+
+ Divers
+
+ News
+
+ Jeux Video
+
+ Android OS
+
+ Excel
+
+
+						
+						 Communauté
+
+ Forums
+
+ T'Chat IRC
+·
+ Proposer un article
+·
+ Messages Privés
+
+
+						
+						 Downloads et Liens Web
+
+ Téléchargements
+
+ Liens
+
+ Peer To Peer
+
+
+						
+						 Contenu
+
+ Content
+
+ Encyclopedie
+
+ Reviews
+
+ Top 10
+
+ FAQ
+
+
+						
+						 Infos
+
+ Statistiques
+
+ Search
+
+ Votre Compte
+
+
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Partenaires
+                                     
+                                                                                                                                            Ogame
+Angry Birds Solution
+  
+Aide Ogame
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+                        
+          
+          
+                                                                                                               Les bips qu'émet votre PC  
+                                      
+                                                                                      	
+				  	Navez-vous jamais entendu votre ordinateur émettre détranges bips au démarrage ?            Navez-vous jamais entendu votre ordinateur émettre détranges bips au démarrage ?
+            Si oui, inquiétez vous en car ces bips sont faits pour vous avertir de différents problèmes matériel.   Leur interprétation est très simple une fois que lon a la table de correspondances entre les bips et les anomalies.   Elle peut vous évitez de rencontrer de graves problèmes comme larrêt de votre micro processeur et vous permettre de repérer très rapidement les problèmes sans avoir à vérifier chaque composant.
+                                          Nombre de bips
+
+                Nombre de bips courts
+
+                Nombre de bips longs
+
+                Problème
+
+                                            1 bip
+
+                1 bip court
+
+                Aucun 
+
+                Problème de mémoire vive. (RAM) 
+
+                                            3 bips
+
+                2 bips courts
+
+                1 bip long
+
+                Problème avec la carte graphique.
+
+                                            4 bips
+
+                3 bips courts
+
+                1 bip long
+
+                Problème de connexion entre votre écran et lunité centrale.
+
+                                            5 bips
+
+                5 bips courts
+
+                Aucun 
+
+                Le micro processeur de votre PC a de graves problèmes.
+
+                                            6 bips
+
+                6 bips courts
+
+                Aucun 
+
+                Problème de connexion entre votre clavier et votre UC.
+
+                                            7 bips
+
+                7 bips courts
+
+                Aucun 
+
+                Votre carte mère ne marche pas correctement.
+
+                                            Bips illimités
+
+                Illimités jusqu'à ce quil ny ait plus de touche enfoncés.
+
+                Aucun
+
+                Une des touches de votre clavier doit être bloquée.
+
+                            	
+
+                                      
+                                                                                      Posté le Lundi 04 octobre 2004 à 20:49:48 par zmaster
+
+                                      
+                          
+                                      
+          
+          
+                  
+  "Les bips qu'émet votre PC" | Connexion/Créer un compte | 1 commentaire | Rechercher Discussion
+Les commentaires sont la propriété de leurs auteurs. Nous ne sommes pas responsables de leurs contenus !
+
+Les commentaires anonymes ne sont pas autorisés, veuillez vous enregistrer
+Re: Les bips qu'émet votre PC (Score: 0)par Anonyme le Vendredi 26 octobre 2007 à 09:57:05
+Moi , mon pc il lance un bip une foi de temps en temps pendant que je joue , ou travail ou autre.... Est ce la RAM ?
+
+
+ 
+                        
+          
+          
+                                                                                                                  Liens connexes
+                                     
+                                                                                                                                            · Plus à propos de 1 Informatique· Nouvelles transmises par zmasterL'article le plus lu à propos de 1 Informatique:Liste des processus Windows SYSTEM, Client et Dangeureux
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Estimer cet Article
+                                     
+                                                                                                                                            Score Moyen: 4.71Votes: 14Merci de prendre une seconde et de voter pour cet article:     
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Options
+                                     
+                                                                                                                                              Format imprimable  Format PDF  Envoyer cet article à un(e) ami(e)
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+News ©
+
+audit et mesure d'audience visiteurs internet par Conditions d'utilisation                         
+Tous les logos et marques sont des Propriétés respectives. Les commentaires sont la propriété respective de ceux qui les postent, tout le reste © 2006-2011 est personnel.
+
+
+
+
+                   Tous droits réservés. PHP-MaXiMuS est un logiciel libre en version GNU/GPL license  .Copyright 2005 PHP-MaXiMuS  .[ Page générée en 0.2118 sec ] [ (PHP: 80% - SQL: 20%) ]  [ Requêtes SQL: 60 ]  [ 165 pages vues la dernière heure ]       

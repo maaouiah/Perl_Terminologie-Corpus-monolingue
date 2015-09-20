@@ -1,0 +1,4 @@
+	    	    	    	    	    	    	    	    	    Inverser lignes et colonnes dans un tableau Excel	    Date: Vendredi 17 juin 2011 à 00:11:18Sujet: Astuces Excel	    	    	    Sélectionnez la zone contenant votre tableau, faites un Copier (clic droit ou CTRL + C). Rendez-vous dans la feuille Excel ou vous voulez copier votre tableau inversé, faites clic droit > Coller spécial, dans la fenêtre qui s’ouvre, sélectionnez Transposé. Le tableau collé aura les lignes et les colonnes inversées par rapport au tableau Excel initial.	    	    	    	    
+
+	    	    	    Cet article provient de Tout sur l'informatique - Programmation C#, Sécurité, Divx, P2P	    http://www.zmaster.fr	    L'URL de cet article est:	    http://www.zmaster.fr/modules.php?name=News&file=article&sid=235	    	    
+	    	    

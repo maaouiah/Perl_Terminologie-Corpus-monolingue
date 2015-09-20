@@ -1,0 +1,58 @@
+use locale;
+use strict;
+use utf8;
+use Encode;
+
+my $ttPath="D:/Mesdoc~1/Recherches/Dvelop~1/treetagger";
+my $options="-token -lemma -sgml -no-unknown";
+my $parFile="french-utf8.par";
+my $win=1;
+
+my $text= qq |
+
+Des milliers de lycéens dans la rue contre la suppression d'un mois de vacances
+18 commentaires
+
+Une rumeur sur la suppression de vacances a déclenché vendredi matin des manifestations lycéennes et des violences urbaines en région parisienne et dans le Nord et l'Est de la France.
+Au Chesnay, dans les Yvelines, une dizaine de voitures ont été endommagées autour d’un lycée. Dans le Nord de la France, plusieurs milliers de lycéens ont manifesté dans des villes du Nord/Pas-de-Calais, de Picardie et de Champagne-Ardenne en raison de cette rumeur infondée selon laquelle le gouvernement voudrait supprimer un mois de vacances.
+Dix-huit jeunes manifestants ont été interpellés dans le Pas-de-Calais après des incidents à Lens et à Arras, où, selon la préfecture, ils auraient dégradé des bus, mis le feu à des conteneurs et sont soupçonnés d’outrage à agent.
+Par ailleurs, quatre jeunes ont été interpellés à proximité d’un lycée professionnel d’Amiens-Nord, après avoir jeté des cocktails Molotov et des briques sur la police, a indiqué la préfecture de la Somme. Il ne s’agit pas d’élèves, mais de «gens extérieurs qui étaient là pour casser», selon cette source.
+
+SMS et Facebook
+Ces manifestations sont parties d’une consigne, propagée par SMS et sur Facebook, appelant à bloquer l’accès aux établissements scolaires au motif que le président Nicolas Sarkozy voulait supprimer un mois de vacances, a-t-on expliqué au rectorat d’Amiens.
+Selon le rectorat de Lille, quelque 500 lycéens d’établissements professionnels ont manifesté à Douai et une centaine à Dunkerque, dans le département du Nord, où des établissements de Lille et Trith-Saint-Léger ont également été touchés.
+Près de 500 lycéens ont également protesté à Béthune (Pas-de-Calais), sans désordres, a précisé la préfecture du Pas-de-Calais, région où plus de 2.000 manifestants ont été dénombrés au total. Le mouvement a même touché plusieurs petites villes.
+Des consignes de fermeté ont été données aux forces de l’ordre, selon la préfecture. «Cela n’a ni queue ni tête. On ne sait pas d’où part cette rumeur infondée et ubuesque», a expliqué le rectorat de Lille, qui a dénoncé une «désinformation orchestrée».
+La rumeur se répand par SMS et le réseau social Facebook, et «fait tâche d’huile», selon la même source.
+
+Feu de poubelles
+En Picardie, une vingtaine d’établissements ont été touchés, dont cinq à Amiens qui concentraient la majorité des manifestants. Ils ont tenté de bloquer l’accès aux bâtiments et, pour certains, ont mis le feu à des poubelles, jeté des pierres, des oeufs ou des tomates.
+En Champagne-Ardenne, «plusieurs petits rassemblements» ont été recensés vendredi matin, mais sans débordements.
+Un rapport du comité de pilotage sur les rythmes scolaires proposait de raccourcir de deux semaines les vacances d’été et de porter la durée des vacances de la Toussaint à deux semaines, mais aucune décision n’a été prise.
+Le ministre de l’Education Luc Chatel avait dit en juillet à l’AFP vouloir entamer une «concertation» avec les syndicats enseignants pour annoncer «à l’automne» des décisions qui pourraient entrer en vigueur «dès la rentrée 2013».
+(Source AFP)
+
+|;
+
+
+my $command="$ttPath/bin/tree-tagger $ttPath/lib/$parFile $options";
+
+if ($win) {
+	$command=~s/\//\\/g;
+}
+
+open(PIPE,"|-:encoding(utf8)",$command);
+my @toks=tokenize($text);
+print  PIPE join("\n",@toks);
+my @output=<PIPE>;
+close(PIPE);
+
+print @output;
+
+# fonction de tokenisation minimaliste !
+sub tokenize {
+	$_=shift;
+	s/\s+/ /g;
+	s/[‘’´`]/'/g;	# on normalise les apostrophes
+	return grep {!/ /} split /\b(?!')/; # on coupe au niveau des séparateurs sauf pour '
+}

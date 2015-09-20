@@ -1,0 +1,1043 @@
+						<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Numerama : Actualit&eacute; informatique et num&eacute;rique</title>
+
+<meta name="description" content="Le magazine qui décrypte les loisirs informatiques et numériques : actualité et analyse, téléchargement, tests de matériel, dossiers, partage de fichiers et forum" />
+<meta name="keywords" content="actualité, informatique, numérique, loisirs, numerama, ratiatum, ratatium" />
+<meta name="revisit-after" content="2 days" />
+<meta name="copyright" content="PressTIC SARL" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+
+<meta name="robots" content="index, follow" />
+<link rel="alternate" type="application/rss+xml" title="Numerama RSS - Actualites" href="http://www.numerama.com/rss/news.rss" />
+<link rel="alternate" type="application/rss+xml" title="Numerama RSS - Telechargements" href="http://www.numerama.com/rss/telechargements.rss" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+
+	<link href="/img/css/ratiatum.v1353927267.css" type="text/css" rel="stylesheet" />
+	<link href="/img/css/header.v1361527493.css" type="text/css" rel="stylesheet" />
+
+<script type="text/javascript">	
+		var sys = new Object();
+</script>
+
+<script type="text/javascript">
+var generalT;
+function onwait(){
+	window.document.location.reload();
+}
+function waiting(){
+	generalT = window.setTimeout("onwait()",20*60*1000);
+}
+function stopwaitevnt(){
+	window.clearTimeout(generalT);
+}
+</script>
+
+<script src="/include/js/system.v1291721510.js" type="text/javascript"></script>
+<script src="/include/js/ratiatum.v1357751139.js" type="text/javascript"></script>
+<script src="/include/js/jquery.v1336656053.js" type="text/javascript"></script>
+<script src="/include/js/jquery.autocomplete.v1326460029.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    (function() {
+        var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+        
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+        
+        t.parentNode.insertBefore(s, t);
+    })();
+/* ]]> */
+</script>
+
+<script type='text/javascript'>
+var crtg_nid="1700";
+var crtg_cookiename="cto_bestof";
+var crtg_varname="crtg_content";
+function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);}}return'';}
+var crtg_content = crtg_getCookie(crtg_cookiename);var crtg_rnd=Math.floor(Math.random()*99999999999);
+var crtg_url=location.protocol+'//rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);crtg_url+='&cookieName='+escape(crtg_cookiename);crtg_url+='&rnd='+crtg_rnd;crtg_url+='&varName=' + escape(crtg_varname);
+var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;
+if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);</script>
+
+	
+	<script type='text/javascript'>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+	var gads = document.createElement('script');
+	gads.async = true;
+	gads.type = 'text/javascript';
+	var useSSL = 'https:' == document.location.protocol;
+	gads.src = (useSSL ? 'https:' : 'http:') + 
+	'//www.googletagservices.com/tag/js/gpt.js';
+	var node = document.getElementsByTagName('script')[0];
+	node.parentNode.insertBefore(gads, node);
+	})();
+	</script>
+	
+	<script type='text/javascript'>
+	googletag.cmd.push(function() {
+	googletag.defineSlot('/6304/Numerama_FR/Editorial', [[1, 1], [728, 90], [990, 90], [990, 200], [990, 250]], 'div-gpt-ad-1358775109294-0').addService(googletag.pubads());
+	googletag.defineSlot('/6304/Numerama_FR/Editorial', [[1, 1], [250, 250], [300, 250], [300, 600], [300, 1050]], 'div-gpt-ad-1358775109294-1').addService(googletag.pubads())
+	.setTargeting("pos", "ATF");
+	googletag.defineSlot('/6304/Numerama_FR/Editorial', [[1, 1], [250, 250], [300, 250]], 'div-gpt-ad-1358775109294-2').addService(googletag.pubads())
+	.setTargeting("pos", "BTF");
+	googletag.defineOutOfPageSlot('/6304/Numerama_FR/Editorial', 'div-gpt-ad-1358775109294-0-oop').addService(googletag.pubads());
+	googletag.pubads().setTargeting ("tag", []);
+	googletag.pubads().enableSingleRequest();
+	googletag.pubads().collapseEmptyDivs();
+	googletag.enableServices();
+	var separatorLabel = ';';
+        var separatorKeyword = '=';
+        var crtg_split = crtg_content.split(separatorLabel);
+        for (var i=1;i<crtg_split.length;i++)
+        {
+        googletag.pubads().setTargeting ("" + (crtg_split[i-1].split(separatorKeyword))[0] + "", "" + (crtg_split[i-1].split(separatorKeyword))[1] + "");
+        }
+	});
+	</script>
+	
+</head>
+<body class="ratbody" id="ratbody">
+	
+	<div id='div-gpt-ad-1358775109294-0-oop'>
+	<script type='text/javascript'>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1358775109294-0-oop'); });
+	</script>
+	</div>
+	
+
+	
+
+<div id="header_content">
+	<div  style="margin-left:auto;margin-right:auto;width:1012px;background-color:#fff;">
+		<div  style="background:#fff url(/img/design/ratiatum/bg_header_top.png) repeat-x scroll 0px 6px;">
+			<div style="width:1010px">
+				<div style="float:left;margin-left:0px;margin-top:0px;width:255px;">
+											<a href="http://www.numerama.com/"><img src="/img/design/ratiatum/header_logo2.png" alt="" /></a>
+									</div>
+				<div style="float:left;">
+						<div id="statusbar_general">
+		<div id="statusbar_bg_center">
+							<div id="status_login" style="padding:0px 0px 0px 0px;" visible="1">
+					<div style="float:left;margin-top:20px">
+						<div style="float:left;"><img src="/img/design/ratiatum/logo_search2.png" alt="" /></div>
+						<div style="float:left;border-left:0px;border-top:1px solid #CCC;border-right:1px solid #CCC;border-bottom:1px solid #CCC;padding:1px;margin:0px;height:28px">
+							<form id="form_search_all" style="padding:0px;margin:0px" method="post" action="/recherche/" onsubmit="rat8.search('form_search_all');return false;">
+								<input name="s" id="topsearch_all" type="text" style="font-size:18px;width:300px;height:28px;padding:0px;margin:0px;border: 0px;"  />
+																							</form>
+							
+								<script type="text/javascript">
+									$(document).ready(function() {
+										$("#topsearch_all").autocomplete("/rat8bp.php", {matchSubset:0,minChars:1,onItemSelect:selectItem,extraParams:{mode:'allsearch'} });
+										function selectItem(li) {
+											var formn = document.getElementById('form_search_all');
+											var vs = li.selectValue;
+											if (vs == '')return;
+											formn.action = formn.action.substr(0,formn.action.indexOf('recherche/')+10);
+											if(document.getElementById("checkhardhide")){
+											 	if(document.getElementById("checkhardhide").value=="1"){
+		 										 	var newstr = formn.action.substr(0,formn.action.indexOf('recherche/')) ;
+		 	 										newstr = newstr + 'comparer-les-prix/recherche/';
+		 										 	formn.action = newstr;
+		 										}
+											}
+											if(document.getElementById("checkforumhide")){
+											 	if(document.getElementById("checkforumhide").value=="1"){
+		 										 	var newstr = formn.action.substr(0,formn.action.indexOf('recherche/')) ;
+		 	 										newstr = newstr + 'f/s-';
+		 										 	formn.action = newstr + '.html';
+		 										}
+											}
+											formn.action = formn.action + vs;
+											formn.submit();
+										}
+	
+									});
+								</script>
+							
+						</div>
+						<div style="float:left;"><a onclick="rat8.search('form_search_all');return;"><img src="/img/design/ratiatum/btn_search_menu.png" alt="" /></a></div>
+						<div style="clear:both"></div>
+					</div>
+					<div style="float:right;font-size:12px">
+						<div style="float:left;"><a onmousedown="sys.API.ShowHideElement(document.getElementById('status_login'));sys.API.ShowHideElement(document.getElementById('quicklogin_form'));" style="color:#000">Connexion</a></div>
+						<div style="float:left;padding: 0px 5px;">|</div>
+						<div style="float:left;"><a href="/f/inscription.html" style="color:#000">Cr&eacute;er un compte</a></div>
+
+						<div style="clear:both"></div>
+											</div>
+					<div style="clear:both"></div>
+				</div>
+				
+				<div id="quicklogin_form" style="position:relative;padding:24px 0px 0px 4px;display:none;visibility:hidden;height:1px" visible="0">
+					<div id="infoh_login_bloc" style="position:absolute;left:330px;top:39px;display:none;visibility:hidden;height:1px;z-index:100">
+						<div id="infoh_login" style="background-color:#ffffff;border:1px solid #8391A5;width:180px;height:16px;color:#000;text-align:center;padding:2px"></div>
+					</div>
+					<div style="float:left;padding: 2px 0px 0px 4px;color:#000;font-weight:bold;">Identifiant</div>
+					<div style="float:left;padding-left: 4px;"><input type="text" tabindex="1" id="inpth_login" value="" style="height:19px;width:110px;border:1px solid #AAA;" onchange="stopwaitevnt()" /></div>
+					<div style="float:left;padding: 2px 0px 0px 4px;color:#000;font-weight:bold;">Mot de passe</div>
+					<div style="float:left;padding-left: 4px;"><input type="password" tabindex="2" id="inpth_pwd" value="" style="height:19px;width:110px;border:1px solid #AAA;" onkeydown="if(event.keyCode == 13)rat8.login();" onchange="stopwaitevnt()" /></div>
+					<div style="float:left;padding-left: 2px;"><a onmousedown="rat8.login()"><img src="/img/design/ratiatum/btn_ok.png" alt="" /></a></div>
+					<div style="float:left;padding-left: 15px;color:#000;font-weight:bold;font-size:10px">
+						<a onmousedown="sys.API.ShowHideElement(document.getElementById('status_login'));sys.API.ShowHideElement(document.getElementById('quicklogin_form'));sys.API.HideElement(document.getElementById('infoh_login_bloc'));" style="text-decoration:underline">Annuler</a><br />
+						<a href="/f/lostpass.html" style="text-decoration:underline">Identifiants oubli&eacute;s ?</a>
+					</div>
+					<div style="clear:both"></div>
+				</div>
+							
+
+
+		</div>
+		<div style="clear:both"></div>
+	</div>				</div>
+				<div style="clear:both;"></div>
+			</div>
+			<div id="header_menu" >
+				<div id="menunum">
+					<div id="menunumbloc">
+						<div class="firstlevel">
+							<a href="http://www.numerama.com/">Accueil</a>
+						</div>
+						<div class="firstlevel actif">
+							<a href="http://www.numerama.com/magazine/">Magazine</a>
+						</div>
+						<div class="firstlevel">
+							<a href="http://www.numerama.com/comparer-les-prix/tests/">Tests</a>
+						</div>
+						<div class="firstlevel transeffect comp ">
+							<a href="http://www.numerama.com/comparer-les-prix/">Achats<br />au meilleur prix</a>
+						</div>
+												<div class="firstlevel">
+							<a href="http://www.numerama.com/telecharger/">T&eacute;l&eacute;chargements</a>
+						</div>
+						<div class="firstlevel">
+							<a href="http://www.numerama.com/f/">Forums</a>
+						</div>
+                                                <div style="float:left;margin-top:5px;padding:0">
+                                                        <a href="http://emploi.numerama.com/"><img src="http://www.numerama.com/img/design/ratiatum/emploi.png" alt="" /></a>
+                                                </div>
+						                                                <div style="float: right;margin-right:5px;margin-top:8px">
+                                                        <div style="float:left;padding-top:5px">
+                                                                <iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=numerama&show_count=false&lang=fr" style="width:60px; height:20px;"></iframe>
+                                                        </div>
+                                                        <div style="float:left;padding:5px 0px 0px 5px"><a href="https://plus.google.com/u/0/101330197763441062911/posts" target="_blank"><img src="http://www.numerama.com/img/design/ratiatum/header_btn_google.png" alt="" /></a></div>
+                                                        <div style="float:left;padding:5px 0px 0px 5px"><a href="http://www.facebook.com/numerama" target="_blank"><img src="http://www.numerama.com/img/design/ratiatum/header_btn_facebook.png" alt="" /></a></div>
+                                                        <div style="float:left;padding:5px 0px 0px 5px"><a href="http://twitter.com/numerama" target="_blank"><img src="http://www.numerama.com/img/design/ratiatum/header_btn_twitter.png" alt="" /></a></div>
+                                                        <div style="float:left;padding:5px 0px 0px 5px"><a href="http://www.numerama.com/rss/news.rss" target="_blank"><img src="http://www.numerama.com/img/design/ratiatum/header_btn_rss.png" alt="" /></a></div>
+                                                        <div style="clear:both"></div>
+                                                </div>
+                                                <div style="clear:both"></div>
+					</div>
+				</div>
+			</div>
+			<div id="header_height"></div>
+		</div>
+	</div>
+</div>	<div id="general_content">
+
+			<div id="header_pub">
+			<table><tr><td width="49%"></td>
+				<td width="1%">	
+								
+		<div id='div-gpt-ad-1358775109294-0'>
+		<script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1358775109294-0'); });
+		</script>
+		</div>
+		
+					</td>
+				<td width="50%"></td>
+				</tr>													
+			</table>
+		</div>
+					<div id="header_search">
+			<div id="header_search_content">
+				<div style="float:left;padding-left:5px;padding-top:8px;color:#000;font-size:12px;">
+					<div style="float:left;font-size:12px;color:#DC0000">Vous &ecirc;tes ici :</div>
+																		<div style="float:left;padding-left:5px"><a href="/" style="text-decoration:underline">Numerama</a></div>
+																																																															<div style="float:left;padding-left:5px;padding-top:2px">&gt; </div>
+							<div style="float:left;padding-left:5px;padding-top:1px">Magazine</div>
+																<div style="clear:both"></div>
+				</div>
+				<div style="clear:both"></div>
+			</div>
+		</div>
+				
+			
+																	
+			
+			
+											
+									
+	
+					<table cellpadding="0" cellspacing="0" border="0"><tr><td style="vertical-align:top">
+<div style="float:left;width:705px;padding-right:0px;padding-left:4px;">
+
+		<div style="clear:both;height:10px">&nbsp;</div>
+	<div style="float:left;width:680px;padding-right:5px;padding-left:4px;">
+		<div style="color:#E00B0C;font-size:24px;font-weight:bold">MAGAZINE</div>
+						<div>
+			<div style="font-size:22px;color:#FF8A00;font-weight:bold">Actualit&eacute;s</div>
+		</div>
+		<div style="height:5px"></div>
+				<div style="font-size:12px;position:relative"> 			<div style="position:absolute">
+				<div style="float:left;" class="home_new_on"><a href="/magazine/">Derni&egrave;re minute</a></div>
+				<div style="float:left;" class="home_new_off"><a href="/magazine/populaire">Les plus populaires</a></div>
+				<div style="float:left;" class="home_new_off"><a href="/magazine/comment">Les plus comment&eacute;s</a></div>
+				<div style="clear:both"></div>
+			</div>
+			<div style="border-bottom:2px solid #94B133;height:23px"></div>
+		</div>
+		<div>
+										<div style="padding-top:15px">
+					<div style="float:left;width:80px;"><a href="/magazine/25912-une-extension-chrome-pour-copier-les-mp3-de-spotify-supprimee-par-google.html"><img src="http://images.numerama.com/img/fimg.php?width=70&amp;height=40&amp;url=http://www.numerama.com/media/attach/downloadify-spotify.png" alt="" style="border:1px solid #000" /></a></div>
+					<div style="float:left;width:508px">
+						<div style="font-size:18px;font-weight:bold"><a href="/magazine/25912-une-extension-chrome-pour-copier-les-mp3-de-spotify-supprimee-par-google.html">Une extension Chrome pour copier les MP3 de Spotify supprimée par Google</a></div>
+						<div style="font-size:11px;color:#888888;">
+							<a href="/magazine/musique-numerique" style="color:#E00B0C">Musique Numérique</a> | 
+							Publi&eacute; il y a  2 heures |
+							<a href="/magazine/25912-une-extension-chrome-pour-copier-les-mp3-de-spotify-supprimee-par-google.html#ac_newscomment" style="color:#21C515;font-weight:bold">2 commentaires</a>  |
+							0 lectures
+														<div style="font-size:12px;">
+								<div style="float:left;padding-left:5px"><img src="/img/design/ratiatum/ico_minitag.png" alt="" /></div>
+								<div style="float:left;padding-left:5px;width:460px;font-size:10px">
+																	
+									<a href="/magazine/tag/Copie privée">Copie privée</a>,																	
+									<a href="/magazine/tag/Google">Google</a>,																	
+									<a href="/magazine/tag/Google Chrome">Google Chrome</a>,																	
+									<a href="/magazine/tag/Spotify">Spotify</a>																</div>
+								<div style="clear:both"></div>
+							</div>
+													</div>
+					</div>
+					<div style="clear:both"></div>
+				</div>
+							<div style="padding-top:15px">
+					<div style="float:left;width:80px;"><a href="/magazine/25911-l-industrie-musicale-s-inquiete-vraiment-de-tout-et-de-n-importe-quoi.html"><img src="http://images.numerama.com/img/fimg.php?width=70&amp;height=40&amp;url=http://www.numerama.com/media/attach/partition.png" alt="" style="border:1px solid #000" /></a></div>
+					<div style="float:left;width:508px">
+						<div style="font-size:18px;font-weight:bold"><a href="/magazine/25911-l-industrie-musicale-s-inquiete-vraiment-de-tout-et-de-n-importe-quoi.html">L'industrie musicale s'inquiète vraiment de tout, et de n'importe quoi</a></div>
+						<div style="font-size:11px;color:#888888;">
+							<a href="/magazine/societe-20" style="color:#E00B0C">Société 2.0</a> | 
+							Publi&eacute; il y a  2 heures et 39 minutes |
+							<a href="/magazine/25911-l-industrie-musicale-s-inquiete-vraiment-de-tout-et-de-n-importe-quoi.html#ac_newscomment" style="color:#21C515;font-weight:bold">6 commentaires</a>  |
+							0 lectures
+														<div style="font-size:12px;">
+								<div style="float:left;padding-left:5px"><img src="/img/design/ratiatum/ico_minitag.png" alt="" /></div>
+								<div style="float:left;padding-left:5px;width:460px;font-size:10px">
+																	
+									<a href="/magazine/tag/Droit d'auteur">Droit d'auteur</a>,																	
+									<a href="/magazine/tag/Industrie musicale">Industrie musicale</a>,																	
+									<a href="/magazine/tag/Commerce électronique">Commerce électronique</a>,																</div>
+								<div style="clear:both"></div>
+							</div>
+													</div>
+					</div>
+					<div style="clear:both"></div>
+				</div>
+							<div style="padding-top:15px">
+					<div style="float:left;width:80px;"><a href="/magazine/25910-un-depute-ps-veut-alerter-les-parents-d-eleves-sur-34les-dangers-d-internet34.html"><img src="http://images.numerama.com/img/fimg.php?width=70&amp;height=40&amp;url=http://www.numerama.com/media/attach/jacquescresta.png" alt="" style="border:1px solid #000" /></a></div>
+					<div style="float:left;width:508px">
+						<div style="font-size:18px;font-weight:bold"><a href="/magazine/25910-un-depute-ps-veut-alerter-les-parents-d-eleves-sur-34les-dangers-d-internet34.html">Un député PS veut alerter les parents d'élèves sur &#34;les dangers d'Internet&#34;</a></div>
+						<div style="font-size:11px;color:#888888;">
+							<a href="/magazine/societe-20" style="color:#E00B0C">Société 2.0</a> | 
+							Publi&eacute; il y a  3 heures et 46 minutes |
+							<a href="/magazine/25910-un-depute-ps-veut-alerter-les-parents-d-eleves-sur-34les-dangers-d-internet34.html#ac_newscomment" style="color:#21C515;font-weight:bold">17 commentaires</a>  |
+							0 lectures
+														<div style="font-size:12px;">
+								<div style="float:left;padding-left:5px"><img src="/img/design/ratiatum/ico_minitag.png" alt="" /></div>
+								<div style="float:left;padding-left:5px;width:460px;font-size:10px">
+																	
+									<a href="/magazine/tag/CNIL">CNIL</a>,																	
+									<a href="/magazine/tag/CSA">CSA</a>,																	
+									<a href="/magazine/tag/UNAF">UNAF</a>,																	
+									<a href="/magazine/tag/Education">Education</a>,																	
+									<a href="/magazine/tag/Vincent Peillon">Vincent Peillon</a>,																</div>
+								<div style="clear:both"></div>
+							</div>
+													</div>
+					</div>
+					<div style="clear:both"></div>
+				</div>
+							<div style="padding-top:15px">
+					<div style="float:left;width:80px;"><a href="/magazine/25909-taxation-des-livres-d-occasion-gaymard-en-plein-conflit-d-interets.html"><img src="http://images.numerama.com/img/fimg.php?width=70&amp;height=40&amp;url=http://www.numerama.com/media/attach/hgaymard.jpg" alt="" style="border:1px solid #000" /></a></div>
+					<div style="float:left;width:508px">
+						<div style="font-size:18px;font-weight:bold"><a href="/magazine/25909-taxation-des-livres-d-occasion-gaymard-en-plein-conflit-d-interets.html">Taxation des livres d'occasion : Gaymard en plein conflit d'intérêts</a></div>
+						<div style="font-size:11px;color:#888888;">
+							<a href="/magazine/societe-20" style="color:#E00B0C">Société 2.0</a> | 
+							Publi&eacute; il y a  4 heures et 24 minutes |
+							<a href="/magazine/25909-taxation-des-livres-d-occasion-gaymard-en-plein-conflit-d-interets.html#ac_newscomment" style="color:#21C515;font-weight:bold">11 commentaires</a>  |
+							0 lectures
+														<div style="font-size:12px;">
+								<div style="float:left;padding-left:5px"><img src="/img/design/ratiatum/ico_minitag.png" alt="" /></div>
+								<div style="float:left;padding-left:5px;width:460px;font-size:10px">
+																	
+									<a href="/magazine/tag/Politique">Politique</a>,																	
+									<a href="/magazine/tag/Livres">Livres</a>,																	
+									<a href="/magazine/tag/SNE">SNE</a>,																</div>
+								<div style="clear:both"></div>
+							</div>
+													</div>
+					</div>
+					<div style="clear:both"></div>
+				</div>
+							<div style="padding-top:15px">
+					<div style="float:left;width:80px;"><a href="/magazine/25908-pres-de-4-ans-de-prison-pour-le-gerant-d-un-site-bittorrent-en-allemagne.html"><img src="http://images.numerama.com/img/fimg.php?width=70&amp;height=40&amp;url=http://www.numerama.com/media/attach/bittorrentpeer.jpg" alt="" style="border:1px solid #000" /></a></div>
+					<div style="float:left;width:508px">
+						<div style="font-size:18px;font-weight:bold"><a href="/magazine/25908-pres-de-4-ans-de-prison-pour-le-gerant-d-un-site-bittorrent-en-allemagne.html">Près de 4 ans de prison pour le gérant d'un site BitTorrent en Allemagne</a></div>
+						<div style="font-size:11px;color:#888888;">
+							<a href="/magazine/peer-to-peer" style="color:#E00B0C">Peer-to-Peer</a> | 
+							Publi&eacute; il y a  19 heures et 53 minutes |
+							<a href="/magazine/25908-pres-de-4-ans-de-prison-pour-le-gerant-d-un-site-bittorrent-en-allemagne.html#ac_newscomment" style="color:#21C515;font-weight:bold">9 commentaires</a>  |
+							2721 lectures
+														<div style="font-size:12px;">
+								<div style="float:left;padding-left:5px"><img src="/img/design/ratiatum/ico_minitag.png" alt="" /></div>
+								<div style="float:left;padding-left:5px;width:460px;font-size:10px">
+																	
+									<a href="/magazine/tag/BitTorrent">BitTorrent</a>,																	
+									<a href="/magazine/tag/P2P">P2P</a>,																	
+									<a href="/magazine/tag/Piratage">Piratage</a>,																	
+									<a href="/magazine/tag/Allemagne">Allemagne</a>,																</div>
+								<div style="clear:both"></div>
+							</div>
+													</div>
+					</div>
+					<div style="clear:both"></div>
+				</div>
+							<div style="padding-top:15px">
+					<div style="float:left;width:80px;"><a href="/magazine/25907-une-appli-mobile-pour-tester-sa-vue-sans-ophtalmo.html"><img src="http://images.numerama.com/img/fimg.php?width=70&amp;height=40&amp;url=" alt="" style="border:1px solid #000" /></a></div>
+					<div style="float:left;width:508px">
+						<div style="font-size:18px;font-weight:bold"><a href="/magazine/25907-une-appli-mobile-pour-tester-sa-vue-sans-ophtalmo.html">Une appli mobile pour tester sa vue sans ophtalmo</a></div>
+						<div style="font-size:11px;color:#888888;">
+							<a href="/magazine/societe-20" style="color:#E00B0C">Société 2.0</a> | 
+							Publi&eacute; il y a  20 heures et 27 minutes |
+							<a href="/magazine/25907-une-appli-mobile-pour-tester-sa-vue-sans-ophtalmo.html#ac_newscomment" style="color:#21C515;font-weight:bold">12 commentaires</a>  |
+							4036 lectures
+														<div style="font-size:12px;">
+								<div style="float:left;padding-left:5px"><img src="/img/design/ratiatum/ico_minitag.png" alt="" /></div>
+								<div style="float:left;padding-left:5px;width:460px;font-size:10px">
+																	
+									<a href="/magazine/tag/Smartphone">Smartphone</a>,																	
+									<a href="/magazine/tag/science">science</a>,																	
+									<a href="/magazine/tag/Santé">Santé</a>,																</div>
+								<div style="clear:both"></div>
+							</div>
+													</div>
+					</div>
+					<div style="clear:both"></div>
+				</div>
+							<div style="padding-top:15px">
+					<div style="float:left;width:80px;"><a href="/magazine/25906-bittorrent-explique-que-c-est-lui-qui-fait-baisser-le-trafic-bittorrent-pas-netflix.html"><img src="http://images.numerama.com/img/fimg.php?width=70&amp;height=40&amp;url=http://www.numerama.com/media/attach/utorrent-logo.png" alt="" style="border:1px solid #000" /></a></div>
+					<div style="float:left;width:508px">
+						<div style="font-size:18px;font-weight:bold"><a href="/magazine/25906-bittorrent-explique-que-c-est-lui-qui-fait-baisser-le-trafic-bittorrent-pas-netflix.html">BitTorrent explique que c'est lui qui fait baisser le trafic BitTorrent. Pas Netflix</a></div>
+						<div style="font-size:11px;color:#888888;">
+							<a href="/magazine/telecoms" style="color:#E00B0C">Télécoms</a> | 
+							Publi&eacute; il y a  21 heures et 32 minutes |
+							<a href="/magazine/25906-bittorrent-explique-que-c-est-lui-qui-fait-baisser-le-trafic-bittorrent-pas-netflix.html#ac_newscomment" style="color:#21C515;font-weight:bold">2 commentaires</a>  |
+							3242 lectures
+														<div style="font-size:12px;">
+								<div style="float:left;padding-left:5px"><img src="/img/design/ratiatum/ico_minitag.png" alt="" /></div>
+								<div style="float:left;padding-left:5px;width:460px;font-size:10px">
+																	
+									<a href="/magazine/tag/BitTorrent">BitTorrent</a>,																	
+									<a href="/magazine/tag/Netflix">Netflix</a>,																	
+									<a href="/magazine/tag/P2P">P2P</a>,																	
+									<a href="/magazine/tag/Piratage">Piratage</a>,																	
+									<a href="/magazine/tag/Réseau">Réseau</a>,																	
+									<a href="/magazine/tag/uTorrent">uTorrent</a>,																	
+									<a href="/magazine/tag/µTorrent">µTorrent</a>,																	
+									<a href="/magazine/tag/streaming">streaming</a>,																</div>
+								<div style="clear:both"></div>
+							</div>
+													</div>
+					</div>
+					<div style="clear:both"></div>
+				</div>
+							<div style="padding-top:15px">
+					<div style="float:left;width:80px;"><a href="/magazine/25905-disney-s-en-remet-a-ea-pour-les-jeux-star-wars.html"><img src="http://images.numerama.com/img/fimg.php?width=70&amp;height=40&amp;url=http://www.numerama.com/media/attach/swdarkvador.jpg" alt="" style="border:1px solid #000" /></a></div>
+					<div style="float:left;width:508px">
+						<div style="font-size:18px;font-weight:bold"><a href="/magazine/25905-disney-s-en-remet-a-ea-pour-les-jeux-star-wars.html">Disney s'en remet à EA pour les jeux Star Wars</a></div>
+						<div style="font-size:11px;color:#888888;">
+							<a href="/magazine/jeux-video" style="color:#E00B0C">Jeux Vidéo</a> | 
+							Publi&eacute; il y a  22 heures et 40 minutes |
+							<a href="/magazine/25905-disney-s-en-remet-a-ea-pour-les-jeux-star-wars.html#ac_newscomment" style="color:#21C515;font-weight:bold">9 commentaires</a>  |
+							2319 lectures
+														<div style="font-size:12px;">
+								<div style="float:left;padding-left:5px"><img src="/img/design/ratiatum/ico_minitag.png" alt="" /></div>
+								<div style="float:left;padding-left:5px;width:460px;font-size:10px">
+																	
+									<a href="/magazine/tag/Disney">Disney</a>,																	
+									<a href="/magazine/tag/Electronic Arts">Electronic Arts</a>,																	
+									<a href="/magazine/tag/Walt Disney">Walt Disney</a>,																	
+									<a href="/magazine/tag/Jeux Vidéo">Jeux Vidéo</a>,																	
+									<a href="/magazine/tag/Star Wars">Star Wars</a>,																</div>
+								<div style="clear:both"></div>
+							</div>
+													</div>
+					</div>
+					<div style="clear:both"></div>
+				</div>
+									<div style="padding-top:20px;border-bottom:1px solid #CFCFCF"></div>
+			<div style="height:10px"></div>
+			<div style="font-size:16px;color:#FF8A00;font-weight:bold">Derniers tests r&eacute;f&eacute;renc&eacute;s</div>
+			<div style="height:10px"></div>
+							<div style="float:left;width:210px;text-align:center">
+					<div><a href="/comparer-les-prix/773044-acer-aspire-v5-431-10074g50mauu.html"><img src="http://images.numerama.com/img/s/h773044-100-100-acer-aspire-v5-431-10074g50mauu.jpg" alt=" " style="border:1px solid #000" /></a></div>
+					<div style="padding-top:5px;font-weight:bold;font-size:12px"><a href="/comparer-les-prix/773044-acer-aspire-v5-431-10074g50mauu.html">Acer Aspire V5-431-10074G50MAUU</a></div>
+				</div>
+							<div style="float:left;width:210px;text-align:center">
+					<div><a href="/comparer-les-prix/724355--injustice-les-dieux-sont-parmi-nous.html"><img src="http://images.numerama.com/img/s/h724355-100-100--injustice-les-dieux-sont-parmi-nous.jpg" alt=" " style="border:1px solid #000" /></a></div>
+					<div style="padding-top:5px;font-weight:bold;font-size:12px"><a href="/comparer-les-prix/724355--injustice-les-dieux-sont-parmi-nous.html"> Injustice : Les Dieux Sont Parmi Nous</a></div>
+				</div>
+							<div style="float:left;width:210px;text-align:center">
+					<div><a href="/comparer-les-prix/728685-vivitek-hd5085.html"><img src="http://images.numerama.com/img/s/h728685-100-100-vivitek-hd5085.jpg" alt=" " style="border:1px solid #000" /></a></div>
+					<div style="padding-top:5px;font-weight:bold;font-size:12px"><a href="/comparer-les-prix/728685-vivitek-hd5085.html">Vivitek HD5085</a></div>
+				</div>
+						<div style="clear:both"></div>
+			<div style="height:10px"></div>
+			<div style="text-align:right;font-size:12px"><a href="/comparer-les-prix/">Voir le guide d'achat &raquo;</a></div>
+			<div style="border-top:1px solid #CFCFCF;padding-bottom:10px;"></div>			
+										<div style="padding-top:15px">
+					<div style="float:left;width:80px;"><a href="/magazine/25902-ecoutes-telecoms-tres-contestee-la-pnij-ouvrira-en-septembre.html"><img src="http://images.numerama.com/img/fimg.php?width=70&amp;height=40&amp;url=http://www.numerama.com/media/attach/pnij-schema.png" alt="" style="border:1px solid #000" /></a></div>
+					<div style="float:left;width:508px">
+						<div style="font-size:18px;font-weight:bold"><a href="/magazine/25902-ecoutes-telecoms-tres-contestee-la-pnij-ouvrira-en-septembre.html">Ecoutes télécoms : très contestée, la PNIJ ouvrira en septembre</a></div>
+						<div style="font-size:11px;color:#888888;">
+							<a href="/magazine/societe-20" style="color:#E00B0C">Société 2.0</a> | 
+							Publi&eacute; il y a  1 jours et 1 heures |
+							<a href="/magazine/25902-ecoutes-telecoms-tres-contestee-la-pnij-ouvrira-en-septembre.html#ac_newscomment" style="color:#21C515;font-weight:bold">17 commentaires</a>  |
+							2926 lectures
+														<div style="font-size:12px;">
+								<div style="float:left;padding-left:5px"><img src="/img/design/ratiatum/ico_minitag.png" alt="" /></div>
+								<div style="float:left;padding-left:5px;width:460px;font-size:10px">
+																	
+									<a href="/magazine/tag/FAI">FAI</a>,																	
+									<a href="/magazine/tag/Vie privée">Vie privée</a>,																	
+									<a href="/magazine/tag/Sécurité">Sécurité</a>,																	
+									<a href="/magazine/tag/PNIJ">PNIJ</a>,																</div>
+								<div style="clear:both"></div>
+							</div>
+													</div>
+					</div>
+					<div style="clear:both"></div>
+				</div>
+							<div style="padding-top:15px">
+					<div style="float:left;width:80px;"><a href="/magazine/25901-le-chili-rejette-la-legitimite-du-rapport-annuel-americain-sur-le-piratage.html"><img src="http://images.numerama.com/img/fimg.php?width=70&amp;height=40&amp;url=http://www.numerama.com/media/attach/camara_de_diputados_de_chile.jpg" alt="" style="border:1px solid #000" /></a></div>
+					<div style="float:left;width:508px">
+						<div style="font-size:18px;font-weight:bold"><a href="/magazine/25901-le-chili-rejette-la-legitimite-du-rapport-annuel-americain-sur-le-piratage.html">Le Chili rejette la légitimité du rapport annuel américain sur le piratage</a></div>
+						<div style="font-size:11px;color:#888888;">
+							<a href="/magazine/societe-20" style="color:#E00B0C">Société 2.0</a> | 
+							Publi&eacute; il y a  1 jours et 1 heures |
+							<a href="/magazine/25901-le-chili-rejette-la-legitimite-du-rapport-annuel-americain-sur-le-piratage.html#ac_newscomment" style="color:#21C515;font-weight:bold">10 commentaires</a>  |
+							2518 lectures
+														<div style="font-size:12px;">
+								<div style="float:left;padding-left:5px"><img src="/img/design/ratiatum/ico_minitag.png" alt="" /></div>
+								<div style="float:left;padding-left:5px;width:460px;font-size:10px">
+																	
+									<a href="/magazine/tag/Piratage">Piratage</a>,																	
+									<a href="/magazine/tag/Etats-Unis">Etats-Unis</a>,																	
+									<a href="/magazine/tag/Chili">Chili</a>,																</div>
+								<div style="clear:both"></div>
+							</div>
+													</div>
+					</div>
+					<div style="clear:both"></div>
+				</div>
+							<div style="padding-top:15px">
+					<div style="float:left;width:80px;"><a href="/magazine/25898-xbox-720-la-connexion-internet-ne-serait-plus-requise.html"><img src="http://images.numerama.com/img/fimg.php?width=70&amp;height=40&amp;url=http://www.numerama.com/media/attach/xbox720.jpg" alt="" style="border:1px solid #000" /></a></div>
+					<div style="float:left;width:508px">
+						<div style="font-size:18px;font-weight:bold"><a href="/magazine/25898-xbox-720-la-connexion-internet-ne-serait-plus-requise.html">Xbox 720 : la connexion Internet ne serait plus requise</a></div>
+						<div style="font-size:11px;color:#888888;">
+							<a href="/magazine/jeux-video" style="color:#E00B0C">Jeux Vidéo</a> | 
+							Publi&eacute; il y a  1 jours et 2 heures |
+							<a href="/magazine/25898-xbox-720-la-connexion-internet-ne-serait-plus-requise.html#ac_newscomment" style="color:#21C515;font-weight:bold">12 commentaires</a>  |
+							3912 lectures
+														<div style="font-size:12px;">
+								<div style="float:left;padding-left:5px"><img src="/img/design/ratiatum/ico_minitag.png" alt="" /></div>
+								<div style="float:left;padding-left:5px;width:460px;font-size:10px">
+																	
+									<a href="/magazine/tag/Microsoft">Microsoft</a>,																	
+									<a href="/magazine/tag/Jeux Vidéo">Jeux Vidéo</a>,																	
+									<a href="/magazine/tag/Xbox 720">Xbox 720</a>,																</div>
+								<div style="clear:both"></div>
+							</div>
+													</div>
+					</div>
+					<div style="clear:both"></div>
+				</div>
+						<div style="height:20px"></div>
+			<div style="text-align:right;font-size:12px"><a href="/magazine/tout">Toutes les actualit&eacute;s  &raquo;</a></div>
+		</div>
+	</div>
+
+</div>
+</td><td style="border-left:1px solid #C7C7C7;border-top:1px solid #C7C7C7;background-color:#EDEDED;vertical-align:top">
+<div style="float:left;width:300px">
+		<div style="background-color:#FFF;">
+			<div style="padding:5px 0px 0px 8px"><img src="/img/design/ratiatum/title_comp.png" alt="" /></div>
+			<div style="padding:10px 0px 0px 8px">
+				<div style="float:left;"><img src="/img/design/ratiatum/logo_search.png" alt="" /></div>
+				<div style="float:left">
+					<form id="form_hsearch" method="post" action="/comparer-les-prix/recherche/" onsubmit="rat8.hsearch('form_hsearch');return false;">
+						<input name="s" type="text" style="color:#DC0000;font-weight:bold;width:160px;height:19px;border-left:0px;border-top:1px solid #AAA;border-right:1px solid #AAA;border-bottom:1px solid #AAA;padding-left:5px" value="Chercher un produit" onkeydown="if(event.keyCode == 13){rat8.search('form_hsearch');return;}"  onfocus="if(this.value=='Chercher un produit')this.value='';return;" />
+					</form>
+				</div>
+				<div style="float:left;padding-left:6px"><a onmousedown="rat8.search('form_hsearch');return;"><img src="/img/design/ratiatum/btn_search.png" alt="" /></a></div>
+				<div style="clear:both"></div>
+			</div>
+			<div style="background-image: url(/img/design/ratiatum/bg_comp_home3.png);background-repeat: no-repeat;background-position: bottom left;height:60px">
+				<div style="padding:10px 0px 5px 0px;">
+
+					<table cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:55px;cursor: pointer" onclick="document.location='http://www.numerama.com/comparer-les-prix/'">&nbsp;</td>
+							<td style="cursor: pointer">
+						<div> avis de la presse (tests) r&eacute;f&eacute;renc&eacute;s</div>
+						<div> produits d&eacute;taill&eacute;s</div>
+						<div> prix compar&eacute;s</div>
+							</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+		</div>
+	<div style="height:5px;background-color:#006F98"></div>
+		<div>
+					
+		<div id='div-gpt-ad-1358775109294-1'>
+		<script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1358775109294-1'); });
+		</script>
+		</div>
+		
+		</div>
+	<div style="height:5px;background-color:#006F98"></div>
+	
+<div style="padding: 5px;background-color:#fff">
+		<div style="width:300px;font-size:12px">
+			<div>
+				<div style="float:left;color:#726F6F;font-weight:bold">Votre emploi informatique avec</div>
+				<div style="float:left;margin-left:20px"><img src="/img/design/ratiatum/emploi_rj.png" alt="" /></div>
+				<div style="clear:both"></div>
+			</div>
+						<div style="margin-top:10px">
+				<div style="float:left;margin:5px"><a href="http://emploi.numerama.com"><img src="/img/design/ratiatum/emploi_dot.png" alt="" /></a></div>
+				<div style="float:left;width:250px"><a href="http://emploi.numerama.com/emploi/informatique/D%C3%A9veloppement/Chief+Technology+Officer+HF/18771" style="color:#000">Chief Technology Officer H/F</a></div>
+				<div style="clear:both"></div>
+			</div>
+						<div style="margin-top:10px">
+				<div style="float:left;margin:5px"><a href="http://emploi.numerama.com"><img src="/img/design/ratiatum/emploi_dot.png" alt="" /></a></div>
+				<div style="float:left;width:250px"><a href="http://emploi.numerama.com/emploi/informatique/D%C3%A9veloppement/Ing%C3%A9nieur+Dev+Web+%28RubyRails%29+-+HF/18175" style="color:#000">Ing&eacute;nieur Dev Web (Ruby/Rails) - H/F</a></div>
+				<div style="clear:both"></div>
+			</div>
+						<div style="margin-top:10px">
+				<div style="float:left;margin:5px"><a href="http://emploi.numerama.com"><img src="/img/design/ratiatum/emploi_dot.png" alt="" /></a></div>
+				<div style="float:left;width:250px"><a href="http://emploi.numerama.com/emploi/informatique/D%C3%A9veloppement/D%C3%A9veloppeur+web+Frontend%2C+HF/18761" style="color:#000">D&eacute;veloppeur web Frontend, H/F</a></div>
+				<div style="clear:both"></div>
+			</div>
+						<div style="margin-top:10px">
+				<div style="float:left;margin:5px"><a href="http://emploi.numerama.com"><img src="/img/design/ratiatum/emploi_dot.png" alt="" /></a></div>
+				<div style="float:left;width:250px"><a href="http://emploi.numerama.com/emploi/informatique/Design/Graphiste+2D++Illustrateur+HF/18760" style="color:#000">Graphiste 2D / Illustrateur H/F</a></div>
+				<div style="clear:both"></div>
+			</div>
+						<div style="margin-top:10px">
+				<div style="float:left"><a href="http://emploi.numerama.com"><img src="/img/design/ratiatum/emploi_btn_liste.png" alt="" /></a></div>
+				<div style="float:left;margin-left:5px"><a href="https://remixjobs.com/employer/wizard?utm_source=affiliate&utm_medium=numerama&utm_campaign=numerama#_r=numerama"><img src="/img/design/ratiatum/emploi_btn_offre.png" alt="" /></a></div>
+				<div style="clear:both"></div>
+			</div>
+
+		</div>
+</div>
+	
+		<div style="height:27px;background-image: url(/img/design/ratiatum/bg_modulenews.png);background-repeat: repeat-x;background-position:top left;">
+		<div style="color:#fff;font-weight:bold;font-size:13px;padding:4px 0px 0px 5px">Derniers articles publi&eacute;s</div>
+	</div>
+		<div style="padding:4px;background-color:#EDEDED">
+		<a style="color:#004659" href="/magazine/25912-une-extension-chrome-pour-copier-les-mp3-de-spotify-supprimee-par-google.html">Une extension Chrome pour copier les MP3 de Spotify supprimée par Google</a>
+	</div>
+		<div style="padding:4px;background-color:#D8DEE4">
+		<a style="color:#004659" href="/magazine/25911-l-industrie-musicale-s-inquiete-vraiment-de-tout-et-de-n-importe-quoi.html">L'industrie musicale s'inquiète vraiment de tout, et de n'importe quoi</a>
+	</div>
+		<div style="padding:4px;background-color:#EDEDED">
+		<a style="color:#004659" href="/magazine/25910-un-depute-ps-veut-alerter-les-parents-d-eleves-sur-34les-dangers-d-internet34.html">Un député PS veut alerter les parents d'élèves sur &#34;les dangers d'Internet&#34;</a>
+	</div>
+		<div style="padding:4px;background-color:#D8DEE4">
+		<a style="color:#004659" href="/magazine/25909-taxation-des-livres-d-occasion-gaymard-en-plein-conflit-d-interets.html">Taxation des livres d'occasion : Gaymard en plein conflit d'intérêts</a>
+	</div>
+		<div style="padding:4px;background-color:#EDEDED">
+		<a style="color:#004659" href="/magazine/25908-pres-de-4-ans-de-prison-pour-le-gerant-d-un-site-bittorrent-en-allemagne.html">Près de 4 ans de prison pour le gérant d'un site BitTorrent en Allemagne</a>
+	</div>
+		<div style="padding:4px;background-color:#D8DEE4">
+		<a style="color:#004659" href="/magazine/25907-une-appli-mobile-pour-tester-sa-vue-sans-ophtalmo.html">Une appli mobile pour tester sa vue sans ophtalmo</a>
+	</div>
+		
+		<div style="height:27px;background-image: url(/img/design/ratiatum/bg_modulehard.png);background-repeat: repeat-x;background-position:top left;">
+		<div style="color:#fff;font-weight:bold;font-size:13px;padding:4px 0px 0px 5px">Trouver les meilleurs prix avec Numerama</div>
+	</div>
+		<div style="padding:5px">
+		<div style="float:left"><img src="/img/design/ratiatum/logo_search.png" alt="" /></div>
+		<div style="float:left">
+			<form id="form_module_hsearch" method="post" action="/comparer-les-prix/recherche/" onsubmit="rat8.search('form_module_hsearch');return false;">
+				<input name="s" id="module_hsearch" type="text" style="width:146px;height:19px;border-left:0px;border-top:1px solid #AAA;border-right:1px solid #AAA;border-bottom:1px solid #AAA;" onkeydown="if(event.keyCode == 13){rat8.search('form_module_hsearch');return;}"  onchange="stopwaitevnt()" />
+			</form>
+		</div>
+		<div style="float:left;padding-left:6px"><a onmousedown="rat8.search('form_module_hsearch');return;"><img src="/img/design/ratiatum/btn_search2.png" alt="" /></a></div>
+		<div style="clear:both"></div>
+				
+					<script type="text/javascript">
+						$(document).ready(function() {
+							$("#module_hsearch").autocomplete("/rat8bp.php", {matchSubset:0,minChars:3,onItemSelect:selectItem,extraParams:{mode:'hardsearch'} });
+							function selectItem(li) {
+								var formn = document.getElementById('form_module_hsearch');
+								var vs = li.selectValue;
+								if (vs == '')return;
+								formn.action = formn.action + vs;
+								formn.submit();
+							}
+						});
+					</script>
+				
+	</div>
+			<div style="width:300px">
+			<div style="float:left;width:42px;"><a href="/comparer-les-prix/164459-bose-wave-music-system-gris-graphite--soundlink.html"><img src="http://images.numerama.com/img/s/h164459-35-37-bose-wave-music-system-gris-graphite--soundlink.jpg" alt="Bose Wave Music System Gris graphite + Soundlink" /></a></div>
+			<div style="float:left;width:184px;padding-right:5px;text-align:justify">
+				<div style="font-weight:bold"><a style="color:#4B9400" href="/comparer-les-prix/164459-bose-wave-music-system-gris-graphite--soundlink.html">Bose Wave Music System Gris graphite + Soundlink</a></div>
+				<div style="font-size:11px">
+					<a href="/comparer-les-prix/mini-chaine-hifi" style="color:#000">Mini-chaîne Hifi</a>
+				</div>
+			</div>
+			<div style="float:left;width:65px;">
+				<div style="float:right;text-align:right;font-size:10px;color:#8A8A8A">
+										<img src="/img/design/ratiatum/star7_on.png" alt="" /><img src="/img/design/ratiatum/star7_on.png" alt="" /><img src="/img/design/ratiatum/star7_on.png" alt="" /><img src="/img/design/ratiatum/star7_off.png" alt="" /><img src="/img/design/ratiatum/star7_off.png" alt="" /><br />
+										&agrave; partir de
+					<span style="color:#000;font-size:12px">160.85 &euro;</span>
+				</div>
+				<div style="clear:both"></div>
+			</div>
+			<div style="clear:both"></div>
+			<div style="border-top: 1px dashed #B1BECA;height:1px">&nbsp;</div>
+		</div>
+			<div style="width:300px">
+			<div style="float:left;width:42px;"><a href="/comparer-les-prix/634491-archos-arnova-10quot-4go.html"><img src="http://images.numerama.com/img/s/h634491-35-37-archos-arnova-10quot-4go.jpg" alt="Archos Arnova 10&quot; - 4Go" /></a></div>
+			<div style="float:left;width:184px;padding-right:5px;text-align:justify">
+				<div style="font-weight:bold"><a style="color:#4B9400" href="/comparer-les-prix/634491-archos-arnova-10quot-4go.html">Archos Arnova 10&quot; - 4Go</a></div>
+				<div style="font-size:11px">
+					<a href="/comparer-les-prix/tablette" style="color:#000">Tablette</a>
+				</div>
+			</div>
+			<div style="float:left;width:65px;">
+				<div style="float:right;text-align:right;font-size:10px;color:#8A8A8A">
+										<img src="/img/design/ratiatum/star7_on.png" alt="" /><img src="/img/design/ratiatum/star7_on.png" alt="" /><img src="/img/design/ratiatum/star7_on.png" alt="" /><img src="/img/design/ratiatum/star7_off.png" alt="" /><img src="/img/design/ratiatum/star7_off.png" alt="" /><br />
+										&agrave; partir de
+					<span style="color:#000;font-size:12px">151.90 &euro;</span>
+				</div>
+				<div style="clear:both"></div>
+			</div>
+			<div style="clear:both"></div>
+			<div style="border-top: 1px dashed #B1BECA;height:1px">&nbsp;</div>
+		</div>
+			<div style="width:300px">
+			<div style="float:left;width:42px;"><a href="/comparer-les-prix/722597-samsung-galaxy-tab-2-10quot-p7510-16go-wi-fi-blanc.html"><img src="http://images.numerama.com/img/s/h722597-35-37-samsung-galaxy-tab-2-10quot-p7510-16go-wi-fi-blanc.jpg" alt="Samsung Galaxy Tab 2 10&quot; P7510 16Go Wi-Fi - Blanc" /></a></div>
+			<div style="float:left;width:184px;padding-right:5px;text-align:justify">
+				<div style="font-weight:bold"><a style="color:#4B9400" href="/comparer-les-prix/722597-samsung-galaxy-tab-2-10quot-p7510-16go-wi-fi-blanc.html">Samsung Galaxy Tab 2 10&quot; P7510 16Go Wi-Fi - Blanc</a></div>
+				<div style="font-size:11px">
+					<a href="/comparer-les-prix/tablette" style="color:#000">Tablette</a>
+				</div>
+			</div>
+			<div style="float:left;width:65px;">
+				<div style="float:right;text-align:right;font-size:10px;color:#8A8A8A">
+										&agrave; partir de
+					<span style="color:#000;font-size:12px">282.90 &euro;</span>
+				</div>
+				<div style="clear:both"></div>
+			</div>
+			<div style="clear:both"></div>
+			<div style="border-top: 1px dashed #B1BECA;height:1px">&nbsp;</div>
+		</div>
+			<div style="width:300px">
+			<div style="float:left;width:42px;"><a href="/comparer-les-prix/721573-samsung-galaxy-tab-2-10quot-p5100-16go-wi-fi3g-gris.html"><img src="http://images.numerama.com/img/s/h721573-35-37-samsung-galaxy-tab-2-10quot-p5100-16go-wi-fi3g-gris.jpg" alt="Samsung Galaxy Tab 2 10&quot; P5100 16Go Wi-Fi/3G - Gris" /></a></div>
+			<div style="float:left;width:184px;padding-right:5px;text-align:justify">
+				<div style="font-weight:bold"><a style="color:#4B9400" href="/comparer-les-prix/721573-samsung-galaxy-tab-2-10quot-p5100-16go-wi-fi3g-gris.html">Samsung Galaxy Tab 2 10&quot; P5100 16Go Wi-Fi/3G - Gris</a></div>
+				<div style="font-size:11px">
+					<a href="/comparer-les-prix/tablette" style="color:#000">Tablette</a>
+				</div>
+			</div>
+			<div style="float:left;width:65px;">
+				<div style="float:right;text-align:right;font-size:10px;color:#8A8A8A">
+										&agrave; partir de
+					<span style="color:#000;font-size:12px">387.00 &euro;</span>
+				</div>
+				<div style="clear:both"></div>
+			</div>
+			<div style="clear:both"></div>
+			<div style="border-top: 1px dashed #B1BECA;height:1px">&nbsp;</div>
+		</div>
+			<div style="width:300px">
+			<div style="float:left;width:42px;"><a href="/comparer-les-prix/598564-archos-101-internet-tablet-16go.html"><img src="http://images.numerama.com/img/s/h598564-35-37-archos-101-internet-tablet-16go.jpg" alt="Archos 101 Internet Tablet 16Go" /></a></div>
+			<div style="float:left;width:184px;padding-right:5px;text-align:justify">
+				<div style="font-weight:bold"><a style="color:#4B9400" href="/comparer-les-prix/598564-archos-101-internet-tablet-16go.html">Archos 101 Internet Tablet 16Go</a></div>
+				<div style="font-size:11px">
+					<a href="/comparer-les-prix/tablette" style="color:#000">Tablette</a>
+				</div>
+			</div>
+			<div style="float:left;width:65px;">
+				<div style="float:right;text-align:right;font-size:10px;color:#8A8A8A">
+										<img src="/img/design/ratiatum/star7_on.png" alt="" /><img src="/img/design/ratiatum/star7_on.png" alt="" /><img src="/img/design/ratiatum/star7_on.png" alt="" /><img src="/img/design/ratiatum/star7_on.png" alt="" /><img src="/img/design/ratiatum/star7_off.png" alt="" /><br />
+										&agrave; partir de
+					<span style="color:#000;font-size:12px">171.34 &euro;</span>
+				</div>
+				<div style="clear:both"></div>
+			</div>
+			<div style="clear:both"></div>
+			<div style="border-top: 1px dashed #B1BECA;height:1px">&nbsp;</div>
+		</div>
+		
+	<div style="height:27px;background-image: url(/img/design/ratiatum/bg_modulelog.png);background-repeat: repeat-x;background-position:top left;">
+		<div style="color:#fff;font-weight:bold;font-size:13px;padding:4px 0px 0px 5px">Logiciels &agrave; t&eacute;l&eacute;charger</div>
+	</div>
+	<div>
+		<div style="float:left"><img src="/img/design/ratiatum/logo_search.png" alt="" /></div>
+		<div style="float:left">
+			<form id="form_module_lsearch" method="post" action="/telecharger/recherche/" onsubmit="rat8.lsearch('form_module_lsearch');return false;">
+				<input name="s" type="text" style="width:146px;height:19px;border-left:0px;border-top:1px solid #AAA;border-right:1px solid #AAA;border-bottom:1px solid #AAA;" onkeydown="if(event.keyCode == 13){rat8.search('form_module_lsearch');return;}"  onchange="stopwaitevnt()" />
+			</form>
+		</div>
+		<div style="float:left;padding-left:6px"><a onmousedown="rat8.search('form_module_lsearch');return;"><img src="/img/design/ratiatum/btn_search2.png" alt="" /></a></div>
+		<div style="clear:both"></div>
+	</div>
+	<div style="height:5px"></div>
+			<div style="width:300px">
+			<div style="float:left;width:42px;"><a href="/telecharger/7687-ie7pro.html"><img src="http://images.numerama.com/img/s/t7687-35-37-ie7pro.jpg" alt="IE7pro" /></a></div>
+			<div style="float:left;width:184px;padding-right:5px;text-align:justify">
+				<div style="font-weight:bold"><a style="color:#0078CC" href="/telecharger/7687-ie7pro.html">IE7pro</a></div>
+				<div style="font-size:11px">
+					<a href="/telecharger/navigateur-web" style="color:#000;font-style:italic"> Navigateur Web</a> - Add-on pour Internet Explorer 7
+				</div>
+			</div>
+			<div style="float:left;width:65px;">
+				<div style="float:right;text-align:right;padding-top:3px">
+					<a style="color:#4B9400" href="/telecharger/7687-ie7pro.html"><img src="/img/design/ratiatum/down_new_ico.png" alt="" /></a>
+				</div>
+				<div style="clear:both"></div>
+			</div>
+			<div style="clear:both"></div>
+			<div style="border-top: 1px dashed #B1BECA;height:1px">&nbsp;</div>
+		</div>
+			<div style="width:300px">
+			<div style="float:left;width:42px;"><a href="/telecharger/21729-ultradefrag.html"><img src="http://images.numerama.com/img/s/t21729-35-37-ultradefrag.png" alt="UltraDefrag" /></a></div>
+			<div style="float:left;width:184px;padding-right:5px;text-align:justify">
+				<div style="font-weight:bold"><a style="color:#0078CC" href="/telecharger/21729-ultradefrag.html">UltraDefrag</a></div>
+				<div style="font-size:11px">
+					<a href="/telecharger/disque-dur" style="color:#000;font-style:italic"> Disque dur</a> - Défragmentez vos disques durs.
+				</div>
+			</div>
+			<div style="float:left;width:65px;">
+				<div style="float:right;text-align:right;padding-top:3px">
+					<a style="color:#4B9400" href="/telecharger/21729-ultradefrag.html"><img src="/img/design/ratiatum/down_new_ico.png" alt="" /></a>
+				</div>
+				<div style="clear:both"></div>
+			</div>
+			<div style="clear:both"></div>
+			<div style="border-top: 1px dashed #B1BECA;height:1px">&nbsp;</div>
+		</div>
+			<div style="width:300px">
+			<div style="float:left;width:42px;"><a href="/telecharger/19325-phpedit.html"><img src="http://images.numerama.com/img/s/t19325-35-37-phpedit.png" alt="PHPEdit" /></a></div>
+			<div style="float:left;width:184px;padding-right:5px;text-align:justify">
+				<div style="font-weight:bold"><a style="color:#0078CC" href="/telecharger/19325-phpedit.html">PHPEdit</a></div>
+				<div style="font-size:11px">
+					<a href="/telecharger/editeur-de-site" style="color:#000;font-style:italic"> Editeur de site</a> - Développez facilement en PHP
+				</div>
+			</div>
+			<div style="float:left;width:65px;">
+				<div style="float:right;text-align:right;padding-top:3px">
+					<a style="color:#4B9400" href="/telecharger/19325-phpedit.html"><img src="/img/design/ratiatum/down_new_ico.png" alt="" /></a>
+				</div>
+				<div style="clear:both"></div>
+			</div>
+			<div style="clear:both"></div>
+			<div style="border-top: 1px dashed #B1BECA;height:1px">&nbsp;</div>
+		</div>
+			<div style="width:300px">
+			<div style="float:left;width:42px;"><a href="/telecharger/9119-express-scribe.html"><img src="http://images.numerama.com/img/s/t9119-35-37-express-scribe.gif" alt="Express Scribe" /></a></div>
+			<div style="float:left;width:184px;padding-right:5px;text-align:justify">
+				<div style="font-weight:bold"><a style="color:#0078CC" href="/telecharger/9119-express-scribe.html">Express Scribe</a></div>
+				<div style="font-size:11px">
+					<a href="/telecharger/texte-et-tableurs" style="color:#000;font-style:italic"> Texte et tableurs</a> - Assistant à la retranscription écrite
+				</div>
+			</div>
+			<div style="float:left;width:65px;">
+				<div style="float:right;text-align:right;padding-top:3px">
+					<a style="color:#4B9400" href="/telecharger/9119-express-scribe.html"><img src="/img/design/ratiatum/down_new_ico.png" alt="" /></a>
+				</div>
+				<div style="clear:both"></div>
+			</div>
+			<div style="clear:both"></div>
+			<div style="border-top: 1px dashed #B1BECA;height:1px">&nbsp;</div>
+		</div>
+			<div style="width:300px">
+			<div style="float:left;width:42px;"><a href="/telecharger/6527-pandion.html"><img src="http://images.numerama.com/img/s/t6527-35-37-pandion.jpg" alt="Pandion" /></a></div>
+			<div style="float:left;width:184px;padding-right:5px;text-align:justify">
+				<div style="font-weight:bold"><a style="color:#0078CC" href="/telecharger/6527-pandion.html">Pandion</a></div>
+				<div style="font-size:11px">
+					<a href="/telecharger/communication" style="color:#000;font-style:italic"> Communication</a> - Messagerie instantanée pour Jabber
+				</div>
+			</div>
+			<div style="float:left;width:65px;">
+				<div style="float:right;text-align:right;padding-top:3px">
+					<a style="color:#4B9400" href="/telecharger/6527-pandion.html"><img src="/img/design/ratiatum/down_new_ico.png" alt="" /></a>
+				</div>
+				<div style="clear:both"></div>
+			</div>
+			<div style="clear:both"></div>
+			<div style="border-top: 1px dashed #B1BECA;height:1px">&nbsp;</div>
+		</div>
+		<div style="height:5px;background-color:#006F98"></div>
+
+	<div><a href="/magazine/d/8072-Les-labels-communautaires-dont-vous-etes-producteurs.html"><img src="/img/dossiers/labelscommunautaires-s.png" alt="" width="300" height="75" /></a></div>
+	<div style="padding-top:10px"><a href="/magazine/d/8071-Comparatif-les-bases-de-donnees-musicales.html"><img src="/img/dossiers/5969-miniban.png" alt="" width="300" height="75" /></a></div>
+	<div style="padding-top:10px"><a href="/magazine/d/8070-Guide-Ajouter-un-lecteur-sur-MySpace.html"><img src="/img/dossiers/guidemyspace.png" alt="" width="300" height="75" /></a></div>
+	<div style="height:10px;"></div>
+</div>
+</td></tr></table>									
+		
+		
+						
+		
+										
+		
+			<div style="clear:both"></div>
+<div id="ramafooter" style="padding-top:10px;position:relative">
+	<div style="position:absolute;left:25px;">
+		<div style="float: left;"><img src="/img/design/ratiatum/logo_footer.png" alt="" /></div>
+		<div style="float: left; width: 6px; height: 23px;"></div>
+		<div style="float: left;"><a href="http://www.matoumba.com"><img src="/img/design/ratiatum/logo_mat_footer.png" alt="Matoumba" /></a></div>
+		<div style="float: left; width: 6px; height: 23px;"></div>
+		<div style="float: left;"><a href="http://www.entreprenantes.com"><img src="/img/design/ratiatum/logo_enantes_footer.png" alt="EntrepreNantes" /></a></div>
+		<div style="clear: both;"></div>
+	</div>
+	<div style="border:3px double #000;width:99%;margin-top:23px">
+		<div style="background-color:#000;color:#FFF;font-size:12px;padding:5px;text-align:left">
+						<div style="float:left;width:860px;">
+				<div style="text-align:center;width:800px;padding-top:10px">
+					<a href="/contact/" style="text-decoration:underline">Nous contacter</a> |
+					<a href="/contact/publicite.html" style="text-decoration:underline">R&eacute;gie publicitaire</a> |
+					<a href="/mentions-legales.html" style="text-decoration:underline">Mentions l&eacute;gales</a>
+				</div>
+				<div style="height:15px"></div>
+				<div style="float:left;width:175px;padding-left:10px">
+					<span style="font-weight:bold"><a href="/magazine/">Magazine</a></span><br /><br />
+					<a href="/magazine/Peer-to-Peer">Peer-to-Peer</a><br />
+					<a href="/magazine/Jeux-Video">Jeux vid&eacute;o</a><br />
+					<a href="/magazine/Musique-Numerique">Musique num&eacute;rique</a><br />
+					<a href="/magazine/TV-Numerique">TV &amp; Cin&eacute;ma</a><br />
+					<a href="/magazine/High-Tech">Gadgets num&eacute;riques</a><br />
+					<a href="/magazine/Telecoms">T&eacute;l&eacute;coms</a><br />
+					<a href="/magazine/Societe-20">Soci&eacute;t&eacute; 2.0</a><br />
+				</div>
+				<div style="float:left;width:215px">
+												<span style="font-weight:bold"><a href="/comparer-les-prix/">Guide d'achat</a></span><br /><br />
+	<a href="/comparer-les-prix/h/hifi-photo-television">Hifi, Photo &amp; T&eacute;l&eacute;vision</a><br />
+	<a href="/comparer-les-prix/h/informatique">Informatique</a><br />
+	<a href="/comparer-les-prix/appareil-photo-numerique">Appareils photo</a><br />
+	<a href="/comparer-les-prix/ordinateur-portable">Ordinateur portable</a><br />
+	<a href="/comparer-les-prix/televiseur-tv">T&eacute;l&eacute;viseurs</a><br />
+	<a href="/comparer-les-prix/h/electromenager">Electrom&eacute;nager</a><br />
+	<a href="/comparer-les-prix/h/livres-musique-films">Livres, Musique &amp; Films</a><br />
+	<a href="/comparer-les-prix/h/consoles-jeux-video">Consoles &amp; Jeux-Vid&eacute;o</a><br />
+	<a href="/comparer-les-prix/h/telephones-gps">T&eacute;l&eacute;phones &amp; GPS</a><br />
+	<a href="/comparer-les-prix/h/auto-moto">Auto-Moto</a><br />
+									</div>
+				<div style="float:left;width:155px">
+					<span style="font-weight:bold"><a href="/telecharger/">T&eacute;l&eacute;charger</a></span><br /><br />
+					<a href="/telecharger/h/Bureautique">Bureautique</a><br />
+					<a href="/telecharger/h/Securite">S&eacute;curit&eacute;</a><br />
+					<a href="/telecharger/h/Internet">Internet</a><br />
+					<a href="/telecharger/h/Jeux">Jeux vid&eacute;o</a><br />
+					<a href="/telecharger/h/Multimedia">Multim&eacute;dia</a><br />
+					<a href="/telecharger/h/Peer-to-Peer-P2P">Peer-to-Peer</a><br />
+					<a href="/telecharger/h/Systeme">Syst&egrave;me</a><br />
+					<a href="/telecharger/h/Utilitaires">Utilitaires</a><br />
+				</div>
+				<div style="float:left;width:205px">
+					<span style="font-weight:bold"><a href="/forum/">Communaut&eacute;</a></span><br /><br />
+					<a href="/f/">Forums</a><br />
+					<a href="/f/liste_tags.html">Recherche par mots cl&eacute;s</a><br />
+					<a href="/marque/">Recherche par marques</a><br />
+					<a href="/f/inscription.html">Cr&eacute;er mon compte</a><br />
+				</div>
+				<div style="clear:both"></div>
+			</div>
+						<div style="float:left;width:125px">
+				<div style="float:right;padding-left:5px"><a href="http://www.numerama.com/rss/news.rss"><img src="/img/design/ratiatum/rss_footer.png" alt="" /></a></div>
+				<div style="float:right;padding-top:5px;text-decoration:underline"><a href="http://www.numerama.com/rss/news.rss">Flux RSS</a></div>
+				<div style="clear:both"></div>
+				<div style="float:right;padding-top:10px">
+                			<div><a href="http://www.matoumba.com/linkio.php?addurl=http://www.numerama.com/rss/news.rss" target="_blank"><img src="/img/design/icons/mat_ico.gif" alt="" border="0" height="19" width="96" /></a></div>
+					<div><a href="http://www.wikio.fr/subscribe?url=http://www.numerama.com/rss/news.rss" target="_blank"><img src="/img/design/icons/w_ico.gif" alt="" border="0" height="19" width="96" /></a></div>
+					<div><a href="http://www.netvibes.com/subscribe.php?url=http://www.numerama.com/rss/news.rss" target="_blank"><img src="/img/design/icons/nv_ico.gif" alt="" border="0" height="19" width="96" /></a></div>
+					<div><a href="http://www.bloglines.com/sub/http://www.numerama.com/rss/news.rss" target="_blank"><img src="/img/design/icons/bl_ico.gif" alt="" border="0" height="19" width="96" /></a></div>
+					<div><a href="http://fusion.google.com/add?feedurl=http://www.numerama.com/rss/news.rss" target="_blank"><img src="/img/design/icons/gr_ico.gif" alt="" border="0" height="19" width="96" /></a></div>
+					<div><a href="http://add.my.yahoo.com/rss?url=http://www.numerama.com/rss/news.rss" target="_blank"><img src="/img/design/icons/y_ico.gif" alt="" border="0" height="19" width="96" /></a></div>
+					<div><a href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http://www.numerama.com/rss/news.rss" target="_blank"><img src="/img/design/icons/ng_ico.gif" alt="" border="0" height="19" width="96" /></a></div>
+				</div>
+				<div style="clear:both"></div>
+				<div style="height:10px"></div>
+				<div style="float:right;padding-left:5px"></div>
+				<div style="float:right;padding-top:2px;text-decoration:underline"><a href="http://www.numerama.com/rss/news.rss">Flux Actualit&eacute;s</a></div>
+				<div style="clear:both"></div>
+				<div style="float:right;padding-left:5px"></div>
+				<div style="float:right;padding-top:2px;text-decoration:underline"><a href="http://www.numerama.com/rss/telechargements.rss">Flux Logiciels</a></div>
+				<div style="clear:both"></div>
+			</div>
+			<div style="clear:both"></div>
+			<div style="height:10px"></div>
+		</div>
+	</div>
+	<div style="">
+		<div style="float:left"></div>
+		<div style="float:right;text-align:right;width:260px;padding-right:5px">
+			Numerama est un site du r&eacute;seau <a href="http://www.presstic.com/" style="color:#000;text-decoration:underline">PressTIC</a><br />
+					</div>
+		<div style="float:right">
+					
+			<script type="text/javascript">
+				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+				document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<script type="text/javascript">
+				var pageTracker = _gat._getTracker("UA-1473055-2");
+				pageTracker._initData();
+				pageTracker._trackPageview();
+			</script>
+			<a href="http://www.xiti.com/xiti.asp?s=82382" title="WebAnalytics" target="_top">
+				<script type="text/javascript">
+				<!--
+				Xt_param = 's=82382&p=Home_Article';
+				try {Xt_r = top.document.referrer;}
+				catch(e) {Xt_r = document.referrer; }
+				Xt_h = new Date();
+				Xt_i = '<img width="39" height="25" border="0" alt="" ';
+				Xt_i += 'src="http://logv18.xiti.com/hit.xiti?'+Xt_param;
+				Xt_i += '&hl='+Xt_h.getHours()+'x'+Xt_h.getMinutes()+'x'+Xt_h.getSeconds();
+				if(parseFloat(navigator.appVersion)>=4)
+				{Xt_s=screen;Xt_i+='&r='+Xt_s.width+'x'+Xt_s.height+'x'+Xt_s.pixelDepth+'x'+Xt_s.colorDepth;}
+				document.write(Xt_i+'&ref='+Xt_r.replace(/[<>"]/g, '').replace(/&/g, '$')+'" title="Internet Audience">');
+				//-->
+				</script>
+			</a>
+			
+		</div>
+		<div style="clear:both"></div>
+	</div>
+</div>
+
+</div> 
+
+
+<div id="ramapopup" style="position: absolute;top: 0;left: 0;background: #FFF;z-index: 8500;"></div><div id="ramapopupall" style="position: absolute;top: 0;left: 0;"></div>
+</body>
+</html>	

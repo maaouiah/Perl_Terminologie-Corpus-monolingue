@@ -1,0 +1,228 @@
+	     			
+					 				
+				
+				
+				
+			 				
+				
+				
+				
+				
+				
+				
+				
+	
+	 		
+		
+		
+				 			
+			
+			
+		 			
+							 					
+					
+  Inscrivez-vous !
+  
+
+
+		 			
+			
+			
+							
+											
+						 				
+ 				
+
+					                        
+          
+          
+                                                                                                                  Menu
+                                     
+                                                                                                                                            						
+						 Accueil
+						
+						 Les Sujets et Les Articles
+
+ Informatique
+
+ Programmation C#
+
+ Sécurité & Hacking
+
+ Astuces Windows
+
+ Divx & P2P
+
+ GSM
+
+ Cryptographie
+
+ Webmaster
+
+ Cours Delphi Programmation
+
+ Hoax
+
+ MSN
+
+ Divers
+
+ News
+
+ Jeux Video
+
+ Android OS
+
+ Excel
+
+
+						
+						 Communauté
+
+ Forums
+
+ T'Chat IRC
+·
+ Proposer un article
+·
+ Messages Privés
+
+
+						
+						 Downloads et Liens Web
+
+ Téléchargements
+
+ Liens
+
+ Peer To Peer
+
+
+						
+						 Contenu
+
+ Content
+
+ Encyclopedie
+
+ Reviews
+
+ Top 10
+
+ FAQ
+
+
+						
+						 Infos
+
+ Statistiques
+
+ Search
+
+ Votre Compte
+
+
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Partenaires
+                                     
+                                                                                                                                            Ogame
+Angry Birds Solution
+  
+Aide Ogame
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+                        
+          
+          
+                                                                                                               Cryptographie de Cesar  
+                                      
+                                                                                      	
+				  	Jules Cesar est sans aucun doute le cryptographe le plus célébre de l'antiquité.                                                                                                                                                                           La methode de cryptographie               qu'il a inventée est très simple (il suffit de décaler               les lettres de 3 rangs dans l'alphabet) et très rapide ,               le chiffre de César a été très souvent               utilisé et l'est encore même de nos jours. La methode               est par substitution car chaque lettre du texte chiffré se               substitue à une lettre de texte clair. Vous pouvez crypter               un texte avec le chiffre de Cesar grace au script qui est a droite.
+             
+             
+ 	
+
+                                      
+                                                                                      Posté le Vendredi 15 octobre 2004 à 19:12:29 par zmaster
+
+                                      
+                          
+                                      
+          
+          
+                  
+  "Cryptographie de Cesar" | Connexion/Créer un compte | 1 commentaire | Rechercher Discussion
+Les commentaires sont la propriété de leurs auteurs. Nous ne sommes pas responsables de leurs contenus !
+
+Les commentaires anonymes ne sont pas autorisés, veuillez vous enregistrer
+Re: Cryptographie de Cesar (Score: 0)par Anonyme le Lundi 18 juin 2007 à 03:31:34
+Sacré Jules !
+
+
+ 
+                        
+          
+          
+                                                                                                                  Liens connexes
+                                     
+                                                                                                                                            · Plus à propos de 7 Cryptographie· Nouvelles transmises par zmasterL'article le plus lu à propos de 7 Cryptographie:La cryptographie DES (Data Encryption Standard)
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Estimer cet Article
+                                     
+                                                                                                                                            Score Moyen: 4.43Votes: 16Merci de prendre une seconde et de voter pour cet article:     
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Options
+                                     
+                                                                                                                                              Format imprimable  Format PDF  Envoyer cet article à un(e) ami(e)
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+News ©
+
+audit et mesure d'audience visiteurs internet par Conditions d'utilisation                         
+Tous les logos et marques sont des Propriétés respectives. Les commentaires sont la propriété respective de ceux qui les postent, tout le reste © 2006-2011 est personnel.
+
+
+
+
+                   Tous droits réservés. PHP-MaXiMuS est un logiciel libre en version GNU/GPL license  .Copyright 2005 PHP-MaXiMuS  .[ Page générée en 0.22 sec ] [ (PHP: 82% - SQL: 18%) ]  [ Requêtes SQL: 60 ]  [ 158 pages vues la dernière heure ]       

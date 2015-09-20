@@ -1,0 +1,235 @@
+	     			
+					 				
+				
+				
+				
+			 				
+				
+				
+				
+				
+				
+				
+				
+	
+	 		
+		
+		
+				 			
+			
+			
+		 			
+							 					
+					
+  Inscrivez-vous !
+  
+
+
+		 			
+			
+			
+							
+											
+						 				
+ 				
+
+					                        
+          
+          
+                                                                                                                  Menu
+                                     
+                                                                                                                                            						
+						 Accueil
+						
+						 Les Sujets et Les Articles
+
+ Informatique
+
+ Programmation C#
+
+ Sécurité & Hacking
+
+ Astuces Windows
+
+ Divx & P2P
+
+ GSM
+
+ Cryptographie
+
+ Webmaster
+
+ Cours Delphi Programmation
+
+ Hoax
+
+ MSN
+
+ Divers
+
+ News
+
+ Jeux Video
+
+ Android OS
+
+ Excel
+
+
+						
+						 Communauté
+
+ Forums
+
+ T'Chat IRC
+·
+ Proposer un article
+·
+ Messages Privés
+
+
+						
+						 Downloads et Liens Web
+
+ Téléchargements
+
+ Liens
+
+ Peer To Peer
+
+
+						
+						 Contenu
+
+ Content
+
+ Encyclopedie
+
+ Reviews
+
+ Top 10
+
+ FAQ
+
+
+						
+						 Infos
+
+ Statistiques
+
+ Search
+
+ Votre Compte
+
+
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Partenaires
+                                     
+                                                                                                                                            Ogame
+Angry Birds Solution
+  
+Aide Ogame
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+                        
+          
+          
+                                                                                                               Palette de couleurs WPF C# .NET  
+                                      
+                                                                                      	
+				  	WPF (Windows Presentation Foundation) propose une palette de couleurs identique à celle du framework .NET de Microsoft, des Windows Forms et de Microsoft Internet Explorer.
+Voici une liste de couleurs prédéfinies associant un nom et une valeur hexadécimale.
+ Cette palette des couleurs est très utile lors de la création d'interface en WPF et permet d'éviter d'avoir à tester chaque couleur une à une.
+
+ 	
+
+                                      
+                                                                                      Posté le Dimanche 18 septembre 2011 à 15:51:07 par zmaster
+
+                                      
+                          
+                                      
+          
+          
+                  
+  "Palette de couleurs WPF C# .NET" | Connexion/Créer un compte | 3 commentaires | Rechercher Discussion
+Les commentaires sont la propriété de leurs auteurs. Nous ne sommes pas responsables de leurs contenus !
+
+Les commentaires anonymes ne sont pas autorisés, veuillez vous enregistrer
+eddy (Score: 1)par mggq (axixil04@gmail.com) le Samedi 15 octobre 2011 à 04:10:30(Profil Utilisateur | Envoyer un message) http://www.lenwatches.net 
+A thoughtful insight and ideas I will use on my website. You''ve obviously spent some time on this. Congratulations!
+
+Ashley (Score: 1)par mggq (axixil04@gmail.com) le Samedi 15 octobre 2011 à 04:10:10(Profil Utilisateur | Envoyer un message) http://www.lenwatches.net 
+I believe you have noted some very interesting points, regards for the post. 
+
+Re: Palette de couleurs WPF C# .NET (Score: 1)par mggq (axixil04@gmail.com) le Samedi 15 octobre 2011 à 04:03:14(Profil Utilisateur | Envoyer un message) http://www.lenwatches.net 
+rolex replicasrolex replica watchesreplica rolex watches for salereplica bvlgarireplica breitlingreplica cartier
+
+
+ 
+                        
+          
+          
+                                                                                                                  Liens connexes
+                                     
+                                                                                                                                            · Plus à propos de Programmation C# .NET· Nouvelles transmises par zmasterL'article le plus lu à propos de Programmation C# .NET:Palette de couleurs WPF C# .NET
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Estimer cet Article
+                                     
+                                                                                                                                            Score Moyen: 5Votes: 1Merci de prendre une seconde et de voter pour cet article:     
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Options
+                                     
+                                                                                                                                              Format imprimable  Format PDF  Envoyer cet article à un(e) ami(e)
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+News ©
+
+audit et mesure d'audience visiteurs internet par Conditions d'utilisation                         
+Tous les logos et marques sont des Propriétés respectives. Les commentaires sont la propriété respective de ceux qui les postent, tout le reste © 2006-2011 est personnel.
+
+
+
+
+                   Tous droits réservés. PHP-MaXiMuS est un logiciel libre en version GNU/GPL license  .Copyright 2005 PHP-MaXiMuS  .[ Page générée en 0.8249 sec ] [ (PHP: 91% - SQL: 9%) ]  [ Requêtes SQL: 69 ]  [ 142 pages vues la dernière heure ]       

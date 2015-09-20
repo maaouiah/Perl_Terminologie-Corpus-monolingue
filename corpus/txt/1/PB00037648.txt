@@ -1,0 +1,330 @@
+
+			VOS IDENTIFIANTS
+Fermer
+			
+		
+	
+
+ 	Informatique
+
+Image & Son
+
+Téléphonie & GPS
+
+Jeux & Consoles
+
+Consommables
+
+Connectique
+
+Logiciels
+
+
+			Mon panierMon panier0 article :0,00 €
+							
+
+quantité : 
+
+					Nous vous proposons également : Prix unitaireQuantitéPOURSUIVRE MES ACHATSVOIR MON PANIER											
+				
+			
+		
+	
+
+Mon compteMon compte		Connexion			Mot de passe oublié ?		
+ConnexionS'enregistrer - simple et rapideCréer un compte	
+
+
+
+
+						10 jours pour changer d'avis
+Paiement en plusieurs fois*
+Paiement en ligne sécurisé
+Débit à l'expédition*
+Packs Garanties & Services
+
+		
+	
+		                                                 Rechercher                                                 			Tous les articles			Faq		            Rechercher        	
+
+
+Accueil
+Informatique
+Pièces informatique
+Carte graphique
+Carte graphique interne
+
+	Imprimé le  15/05/2012 à 15:42zoom		
+	
+Photos non contractuelles
+Point of View GeForce 7600 GS 256 MoPoint of View GeForce 7600 GS - 256 Mo TV-Out/DVI - PCI Express (NVIDIA GeForce 7600 GS) + Jeux
+
+Note client : 9 / 10 (3 avis)3 avis - donnez le vôtre		Suggestion de produits équivalents :
+												Fermer				
+
+					Fermer				
+
+VoircommanderMSI R6670-MD1GD5 1 Go (AMD Radeon HD 6670)1 Go HDMI/DVI - PCI Express (AMD Radeon HD 6670)79€95TTC
+
+VoircommanderASUS ENGT440 DC SL/DI/1GD3 NVIDIA GeForce GT440 1 GB1 Go HDMI/DVI - PCI Express (NVIDIA GeForce avec CUDA GT 440)79€95TTC
+
+VoircommanderSapphire Radeon HD 6670 1 GB DDR51 Go HDMI/DVI - PCI Express (AMD Radeon HD 6670)79€95TTC
+
+VoircommanderASUS EAH6670 DC SL/DI/1GD3 1 Go1 Go HDMI/DVI - PCI Express (AMD Radeon HD 6670)82€95TTC
+
+			
+		
+			
+		
+	
+
+Ce produit ne fait plus partie de notre catalogue.
+
+
+		Fermer	
+
+		FermerEnvoyer cette fiche à un ami			Vous souhaitez faire connaître ce produit à un ami ? Renseignez ses coordonnées dans le formulaire suivant. Un mail lui sera envoyé et il aura la possibilité de venir consulter cette fiche article.Votre ami(e) Nom  Email  VousNom  Email  Message(facultatif)envoyer
+		
+	
+		FermerEtre prévenu d'une baisse de prix			Pour être prévenu par mail d'une baisse de prix de cet article, renseignez vos coordonnées ainsi que le montant en euros du seuil de déclenchement de votre alerte.Seuil d'alerte (Montant en euros)Votre adresse emailenvoyer		
+	
+		FermerEtre prévenu de la disponibilité			Pour être prévenu par mail de la disponibilité de cet article, renseignez vos coordonnées.Votre adresse email : envoyer		
+	
+
+
+			
+		Descriptif Point of View GeForce 7600 GS 256 Mo :
+Descriptif
+Fiche technique
+Ce qu'en pensent nos clients
+Haut de page
+			Voir les autres produits Point of ViewCarte graphique interne Point of View		
+Comment remplacer un produit encensé par la critique, reconnu pour ses performances et son rapport qualité prix ? Tout simplement en repoussant encore les limites atteintes. Nvidia semble passé maître dans cet exercice et propose aujourd'hui une nouvelle puce graphique milieu de gamme qui affiche clairement ses ambitions : faire encore plus, toujours mieux.Architecture GeForce 7Le 7600 GS se devait de proposer une évolution majeure en terme de puissance afin de faire face à la concurrence mais aussi de démontrer que ce changement de génération ne se résumait pas à une simple histoire de mise à jour technologique. Ainsi, les pipelines de pixels passent de 8 à 12 et les unités de vertex de 3 à 5. Dans le même temps la finesse de gravure est abaissée à 0,09 µ. Cette somme de modifications techniques laisse présager le meilleur et les premiers tests sont sans équivoque : les gains dans les jeux comme les applications multimédias sont très élevés.La force de la polyvalenceLes cartes graphiques de dernière génération ne se doivent plus seulement d'offrir une accélération 3D époustouflante, leur puissance de calcul est mise à profit dans de nombreuses applications multimédias et en particulier pour la lecture vidéo. La technologie Nvidia PureVideo a été mise au point dans ce but et assure une image d'une qualité irréprochable dans les plus hautes résolutions comme avec les sources les plus variées.Nvidia : un savoir-faireNvidia a développé avec sa nouvelle série GeForce 7 un ensemble de technologies visant à améliorer, encore une fois, les graphismes dans les jeux vidéo. Compatible Micorsoft directX 9.0 cette carte pourra aussi s'appuyer sur tout le savoir-faire Nvidia :Moteur CineFX 4.0 améliorant le rendu des effets spéciaux les plus complexes sans faire pâtir la vitesse d'affichageTechnologie Nvidia SLI permettant de coupler deux cartes graphiquesTechnologie Nvidia Intellisample 4.0 développée pour accélérer les traitements d'antialiasing avec transparence et ainsi rendre possible la création de graphismes ultra réalistesSitué dans le milieu de gamme, le GeForce 7600 GS saura satisfaire les joueurs exigeants mais pourra également laisser s'exprimer le penchant cinéphile des utilisateurs en transformant chaque PC en lecteur vidéo haut de gamme.
+
+	
+
+		Fiche technique Point of View GeForce 7600 GS 256 Mo :
+Descriptif
+Fiche technique
+Ce qu'en pensent nos clients
+Haut de page
+Sélectionnez vos critères
+  
+
+Informations générales
+
+		
+                                    Marque
+            
+                            Point of View
+
+                                    Modèle
+            
+                            150813P
+
+Chipset graphique
+
+		
+                                    Chipset graphique
+            
+                            NVIDIA GeForce 7600 GS
+
+                                    Fréquence du chipset
+            
+                            400 MHz
+
+                                    Nombre de GPU
+            
+                            1
+
+                                    Bus
+            
+                            PCI Express 16x
+
+Mémoire
+
+		
+                                    Taille mémoire vidéo
+            
+                            256 Mo
+
+                                    Interface mémoire
+            
+                            128 bit(s)
+
+                                    Fréquence mémoire vidéo
+            
+                            400 MHz
+
+                                    Type de mémoire
+            
+                            DDR2
+
+                                    Technologie de mémoire partagée
+            
+                            Aucune
+
+                                    Taille (max) de la mémoire vidéo partagée
+            
+                            0 Mo
+
+Architecture
+
+		
+                                    Nombre de pipelines
+            
+                            8
+
+                                    Nombre de vertex
+            
+                            4
+
+                                    Support Direct X (version)
+            
+                            9.0c
+
+Affichage
+
+		
+                                    Bi Ecran
+            
+                            Oui
+
+                                    HD Ready
+            
+                            Non
+
+                                    Tuner TV
+            
+                            Non
+
+Connectique
+
+		
+                                    Sorties vidéo
+            
+                            DVI Femelle, VGA (D-sub 15 Femelle), S-Vidéo (mini-DIN 4 Femelle)
+
+                                    Norme de Sortie DVI
+            
+                            1 x DVI-I (DVI-Integrated)
+
+                                    DVI Dual-Link
+            
+                            Non
+
+Design
+
+		
+                                    Type de refroidissement
+            
+                            Actif (fansink)
+
+voir les produits correspondants
+Produit référencé le : 03/04/2006 | Dernière modification le : 07/07/2009	
+
+		Ce qu'en pensent nos clients : Descriptif
+Fiche technique
+Ce qu'en pensent nos clients
+Haut de page
+Note client : 3 avis - donnez le vôtre                                                                            par Gervan,le 22 juinMieux qu'une 6600gt.Bonne carte si vous upgradez une config ancienne à base de geforce 5xxx ou plus ancien. Les performances mesurées d'origine sont à 8500 points sous 3dmark2003 et 9600 points une fois la carte overclockée. L'overclock est plutôt limité (440 mhz pour le core et  430 mhz pour les 256mo de memoire), j'en attendais un peu plus mais pour le prix, on ...Lire la suite &rsaquo;Trouvez-vous cette critique utile ? ouinon56% d'avis positifs
+
+
+
+
+                                                                            par Benedicte C.,le 15 juilletTrès bon produitJ'ai cette carte depuis peu et je suis très satisfait de celle ci.Je l'ai essayé sur plusieur jeux comme Prince Of Persia les 2 royaumes , counter et résultat aucun bugg une très bonne qualité. Je ne suis pas deçu de mon achat. Si vous voulez une bonne carte graphique a un prix abordable il faut pas hésiter.Lire la suite &rsaquo;Trouvez-vous cette critique utile ? ouinon56% d'avis positifs
+
+
+
+
+                                                                            par Laurent P.,le 22 maiC'est d'enfer!J'ai longtemps hésité avant de me procurer cette carte et bien j'en suis pas décu du tout,le prix m'a fait croire qu'elle n'était pas assez performante,je dois dire que je me suis trompé.Je l'ai testé sur un jeu récent,le dernier Ghost Recon,je tourne à fond sans ramer donc elle est bien plus puissante qu'une 6600 GT.Le seul défaut que j'ai ...Lire la suite &rsaquo;Trouvez-vous cette critique utile ? ouinon56% d'avis positifs
+
+
+
+
+
+	
+
+
+			
+
+	
+
+
+						Débit à l'expéditionNous ne prélevons pas votre carte bancaire avant la préparation de votre commande !
+Paiement en 3 foisPar carte bancaire à partir de 100 euros TTC
+Livraison outre-merNous livrons dans les DOM-TOM en HT !
+Livraison expressLivré demain avant 13h !
+
+Moyens de paiement acceptés :
+
+
+
+
+
+
+
+
+Aide
+Nos services
+Retourner un article
+Modes de livraison
+Le groupe LDLC
+Devenez affilié !
+CGV
+Offres d'emploi
+Une question, un besoin précis ? Découvrez toutes nos rubriques d'aide
+
+
+		
+	
+Dans la même thématique : 
+point of view 7600gs ????
+ | 
+geforce 7 (7600gs)
+ | 
+prix jeu geforce 7600
+Liens relatifs :
+Vente TRENDnet
+Acheter HP 72 - C9397A (Noir)
+Achat ViewSonic
+Vente Point Of View GeForce 8800 GT + jeu
+Pelikan PromoPack compatible BCI-3 pas cher
+					Commandez facile avec LDLC.com, spécialiste de la vente à distance de produits informatiques (Souris PC Logitech Sans-fil, Ecran PC ASUSTeK LED, Appareil photo compact Sony Ecran LCD, TV Ecran plat Samsung LED), Ordinateur portable et High Tech. Si vous hésitez sur l'achat de matériel informatique (Smartphone LG Ecran tactile, Cartouche imprimante HP Noir, Câble HDMI Générique, Clé USB Corsair 32 Go), de pièces détachées ou encore de périphériques, référez-vous aux avis de nos clients et aux différents tests. Profitez également de tous nos services pour acheter en toute sérénité : les packs Garanties & Services (classique, confort, expert), les options de livraison (relais colis, retrait dans nos points de vente...livraison dom tom) et les modes de paiement sécurisés (CB, en trois fois...). Enfin, pour répondre à toutes vos questions, rendez-vous sur votre espace d'aide. Abonnez-vous à notre newsletter pour être informé de nos offres promotionnelles toute l'année. Découvrez notre espace Bonnes Affaires pour plus de petits prix, et des remises exceptionnelles durant les soldes. Pour tous vos cadeaux de Noël, de Saint Valentin, comme les produits suivants : Appareil photo Reflex Canon Vidéo HD, imprimante multifonction laser, processeur intel core i7, boitier pc gamer, camera ip wifi...pensez à LDLC.com pour retrouver tout le matériel high-tech au meilleur prix. Accès direct : camescope numerique haute definition, videoprojecteur HD, webcam usb, microphone usb, autoradio usb, netbook intel atom, souris hello kitty, sony xperia, samsung galaxy s2.
+
+		
+	
+LDLC.comworkwork18 chemin des Cuers69574DardillyFrancework04 27 46 6000
+
+
+FranceChoix du paysFrance
+Belgique
+Suisse
+
+
+
+Groupe LDLC.comLes autres sites du groupe LDLC.com :LDLC-Pro.comVotre espace de vente dédiée aux professionnels (artisans, PME/PMI, administration, revendeurs...)
+MagineaDes produits actuels et tendance pour aménager votre maison et son extérieur.
+AnikopL'innovation gestion au service du point de vente.
+PlugsquareVente d'instruments et d'équipement musical.
+Hardware.frLe Guide du Hardware & de l'optimisation PC.
+
+
+
+Nos boutiques                            Boutique de Lyon                                LDLC.com Boutique Lyon                                work                                                                    work                                    22 et 24, rue de la Gare
+                                    69009                                     LYON                                    France                                                                work04 26 68 49 00                                Ouverture du Mardi au Samedi de 10h30 à 19h00.                                Voir le site de la boutique                            
+                            Boutique de Paris                                LDLC.com Boutique Paris                                work                                                                    work                                    12 et 14, rue de l'Eglise
+                                    75015                                     PARIS                                    France                                                                work01 45 78 78 28                                Ouverture du Mardi au Samedi de 10h00 à 19h00.                                Voir le site de la boutique                            
+
+
+
+Aide
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,311 @@
+	     			
+					 				
+				
+				
+				
+			 				
+				
+				
+				
+				
+				
+				
+				
+	
+	 		
+		
+		
+				 			
+			
+			
+		 			
+							 					
+					
+  Inscrivez-vous !
+  
+
+
+		 			
+			
+			
+							
+											
+						 				
+ 				
+
+					                        
+          
+          
+                                                                                                                  Menu
+                                     
+                                                                                                                                            						
+						 Accueil
+						
+						 Les Sujets et Les Articles
+
+ Informatique
+
+ Programmation C#
+
+ Sécurité & Hacking
+
+ Astuces Windows
+
+ Divx & P2P
+
+ GSM
+
+ Cryptographie
+
+ Webmaster
+
+ Cours Delphi Programmation
+
+ Hoax
+
+ MSN
+
+ Divers
+
+ News
+
+ Jeux Video
+
+ Android OS
+
+ Excel
+
+
+						
+						 Communauté
+
+ Forums
+
+ T'Chat IRC
+·
+ Proposer un article
+·
+ Messages Privés
+
+
+						
+						 Downloads et Liens Web
+
+ Téléchargements
+
+ Liens
+
+ Peer To Peer
+
+
+						
+						 Contenu
+
+ Content
+
+ Encyclopedie
+
+ Reviews
+
+ Top 10
+
+ FAQ
+
+
+						
+						 Infos
+
+ Statistiques
+
+ Search
+
+ Votre Compte
+
+
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Partenaires
+                                     
+                                                                                                                                            Ogame
+Angry Birds Solution
+  
+Aide Ogame
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+                        
+          
+          
+                                                                                                                &nbsp Supprimer un fichier sur le repository SVN et le garder en local  
+                                      
+                                                                                      Avec Tortoise: MAJ + clic droit sur le fichier a supprimer et sélectionner « «Delete (keep local) » dans le menu.  En ligne de commande : svn delete --keep-local nom_fichier 
+                                      
+                                                                                      Transmis par zmaster le Samedi 16 juillet 2011 à 14:10:42  (902 lectures)(Suite... | 18 commentaires | Score: 0)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Solution aux problèmes de connexion à MSN sur un FreeWifi  
+                                      
+                                                                                      Les problèmes de connexion à MSN sur les réseaux semi-public tel que les Freewifi sont nombreux. Il arrive que la connexion à internet fonctionne parfaitement mais pas celle à Windows Live Messenger (MSN).L'option "Dépanner" d'MSN détecte souvent une anomalie au niveau de la Passerelle par défaut ou des Ports principaux.Il existe des solutions pour résoudre ces problèmes, l'une d'elle est le changement de la MTU. 
+                                      
+                                                                                      Transmis par zmaster le Jeudi 21 octobre 2010 à 17:29:41  (2159 lectures)(Suite... | 5150 octets de plus | 8 commentaires | Score: 4.33)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Changer et visualiser rapidement le contenu des onglets Firefox  
+                                      
+                                                                                      Depuis la version 3.6 de Firefox, une option existe pour prévisualiser les onglets et en changer, à la manière du ALT+TAB de Windows.Le changement d'onglet peut maintenant se faire en prévisualisant le contenu des onglets. 
+                                      
+                                                                                      Transmis par zmaster le Mardi 17 août 2010 à 18:05:00  (1194 lectures)(Suite... | 2021 octets de plus | Score: 5)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Economisez de l'énergie - Windows XP  
+                                      
+                                                                                      The_Punisher a écrit : Nous savons tous quand ce moment l'énergie nous devons économiser l'énergie et nous pouvons même réduire la consommation de nos ordinateurs pour y arriver.Windows XP offre certaines fonctionnalités de gestion de l'énergie qui peuvent vous aider à réduire votre facture d'électricité et à prolonger la durée de vie de votre équipement. 
+                                      
+                                                                                      Transmis par zmaster le Samedi 07 août 2010 à 13:31:30  (1265 lectures)(Suite... | 1391 octets de plus | commentaires ? | Score: 4.4)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Installation dune machine virtuelle VMware   
+                                      
+                                                                                      VMware Server permet de simuler un PC sur votre PC. Cela permet par exemple de faire tourner Linux sur votre Windows XP sans jouer avec les partitions de windows mais en utilisant un disque virtuel. VMware permet de faire fonctionner plusieurs systèmes d'exploitation en même temps sur une seule et même machine physique grâce à la technologie de virtualisation.Pour faire simple si vous virtualisez Linux Debian grâce à une machine virtuelle sur Windows XP, vous aurez sur votre bureau une banale fenêtre d'application, mais à l'intérieure de cette fenêtre, il y aura une Linux Debian comme si vous l'aviez installée normalement sur votre ordinateur.Il y a de nombreux avantages a utiliser des machines virtuelles :- Pas besoin de redémarrer votre ordinateur pour changer d'OS- Vous ne risquez pas de supprimer les données de vos partitions puisque tout se passe sur un disque virtuel- Vous pouvez tester facilement et rapidement différents OS 
+                                      
+                                                                                      Transmis par zmaster le Lundi 07 juillet 2008 à 07:05:00  (25599 lectures)(Suite... | 13102 octets de plus | 11 commentaires | Score: 4.71)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Installer OCamlSDL (librairie graphique) sous Linux  
+                                      
+                                                                                      OCamlSDL est une librairie graphique pour OCaml qui s'inspire de la célèbre librairie C : SDL.   Pour installer OCamlSDL sous votre linux, il vous faudra installer plusieurs packages mais il n'est pas évident de deviner lesquels sont à installer. Le instructions de ce mini tuto marchent pour les distributions Debian et Ubuntu, je n'ai pas testé sur les autres mais il ne devrait pas avoir de différences. 
+                                      
+                                                                                      Transmis par zmaster le Lundi 11 février 2008 à 20:13:02  (3661 lectures)(Suite... | 1653 octets de plus | commentaires ? | Score: 3)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Récupérer ses marques pages Firefox après un plantage  
+                                      
+                                                                                      Perdre ces marques pages firefox à cause d'un plantage c'est souvent très énervant car on pense qu'il n'y a aucun moyens de les récupérer.Mais en réalité,  on peut facilement récupérer ses anciens marques pages car Firefox les fais lui meme des sauvegardes de secours (backups). 
+                                      
+                                                                                      Transmis par zmaster le Jeudi 24 janvier 2008 à 14:55:58  (10072 lectures)(Suite... | 1514 octets de plus | 4 commentaires | Score: 4.55)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Les Raccourcis clavier d'EMACS  
+                                      
+                                                                                      Cet article rescence les raccourcis claviers les plus fréquemment utilisés avec Emacs. Ils vous feront gagner un temps précieux.Emacs est un éditeur de texte très puissant qui peut a peu près tout faire, il peut etre utilisé pour naviguer sur internet ou encore pour jouer à Tetris. 
+                                      
+                                                                                      Transmis par zmaster le Samedi 22 décembre 2007 à 05:05:00  (18726 lectures)(Suite... | 16677 octets de plus | commentaires ? | Score: 4.58)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Effacer la liste des éléments récents du menu Démarrer - Windows Vista   
+                                      
+                                                                                      The_Punisher a écrit : Vista viens de sortir donc les astuces sortent aussi en voici une ! 
+                                      
+                                                                                      Transmis par zmaster le Samedi 17 mars 2007 à 16:34:49  (5407 lectures)(Suite... | 1145 octets de plus | 4 commentaires | Score: 5)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Binder des fichiers (Archives SFX)  
+                                      
+                                                                                      MasterChief5 a écrit : Bonjour tout le monde !  Ici nous apprendrons a binder ( ou encore wrapper ) des fichiers. Ceux qui ne savent pas ce qu'est binder, ce n'est pas grave car je vous l'explique dans 5 secondes... 
+                                      
+                                                                                      Transmis par zmaster le Dimanche 18 février 2007 à 19:51:18  (17784 lectures)(Suite... | 4534 octets de plus | 14 commentaires | Score: 4.28)
+
+                                      
+                          
+                                      
+          
+          
+                  
+  1 | 2 |3 |4 |
+
+News ©
+
+audit et mesure d'audience visiteurs internet par Conditions d'utilisation                         
+Tous les logos et marques sont des Propriétés respectives. Les commentaires sont la propriété respective de ceux qui les postent, tout le reste © 2006-2011 est personnel.
+
+
+
+
+                   Tous droits réservés. PHP-MaXiMuS est un logiciel libre en version GNU/GPL license  .Copyright 2005 PHP-MaXiMuS  .[ Page générée en 0.3002 sec ] [ (PHP: 83% - SQL: 17%) ]  [ Requêtes SQL: 61 ]  [ 186 pages vues la dernière heure ]       

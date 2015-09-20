@@ -1,0 +1,379 @@
+
+			VOS IDENTIFIANTS
+Fermer
+			
+		
+	
+
+ 	Informatique
+
+Image & Son
+
+Téléphonie & GPS
+
+Jeux & Consoles
+
+Consommables
+
+Connectique
+
+Logiciels
+
+
+			Mon panierMon panier0 article :0,00 €
+							
+
+quantité : 
+
+					Nous vous proposons également : Prix unitaireQuantitéPOURSUIVRE MES ACHATSVOIR MON PANIER											
+				
+			
+		
+	
+
+Mon compteMon compte		Connexion			Mot de passe oublié ?		
+ConnexionS'enregistrer - simple et rapideCréer un compte	
+
+
+
+
+						10 jours pour changer d'avis
+Paiement en plusieurs fois*
+Paiement en ligne sécurisé
+Débit à l'expédition*
+Packs Garanties & Services
+
+		
+	
+		                                                 Rechercher                                                 			Tous les articles			Faq		            Rechercher        	
+
+
+Accueil
+Informatique
+Pièces informatique
+Processeur
+
+	Imprimé le  15/05/2012 à 15:07zoom		
+	
+Photos non contractuelles
+Intel Core i7 950Processeur Quad Core Socket 1366 QPI 4.8 GT/s Cache L3 8 Mo 0.045 µm (version boîte - garantie Intel 3 ans)
+Succombez à la puissance du Core i7 !
+Note client : 10 / 10 (13 avis)13 avis - donnez le vôtre		Grâce à un multicoeur plus rapide et plus rationnel, qui concentre la puissance là où il faut, les nouveaux processeurs Intel Core i7 impriment un élan formidable à la micro-informatique.Lire la suite					
+Etre informé d'une baisse de prix
+Ajouter à mes préférés
+Imprimer la fiche produit
+Envoyer cette fiche à un ami
+Ce produit a été ajouté à vos préférés.
+
+	
+
+279€96TTCEtre informé de la disponibilitéNon disponibleNon disponible
+Option non disponible
+Option non disponible
+En option, paiement en 3 fois
+En option, paiement par crédit Cofinoga
+
+Disponibilités en boutiqueLDLC Paris (15ème)
+LDLC Lyon (9ème)
+
+
+
+		Fermer	
+
+		FermerEnvoyer cette fiche à un ami			Vous souhaitez faire connaître ce produit à un ami ? Renseignez ses coordonnées dans le formulaire suivant. Un mail lui sera envoyé et il aura la possibilité de venir consulter cette fiche article.Votre ami(e) Nom  Email  VousNom  Email  Message(facultatif)envoyer
+		
+	
+		FermerEtre prévenu d'une baisse de prix			Pour être prévenu par mail d'une baisse de prix de cet article, renseignez vos coordonnées ainsi que le montant en euros du seuil de déclenchement de votre alerte.Seuil d'alerte (Montant en euros)Votre adresse emailenvoyer		
+	
+		FermerEtre prévenu de la disponibilité			Pour être prévenu par mail de la disponibilité de cet article, renseignez vos coordonnées.Votre adresse email : envoyer		
+	
+
+
+			
+		Descriptif Intel Core i7 950 :
+Descriptif
+Fiche technique
+Ce qu'en pensent nos clients
+Haut de page
+			Voir les autres produits IntelProcesseur Intel		
+Partagez cette fiche :			                                                                                                                    		
+Un virtuose de l'informatique
+Grâce à un multicœur plus rapide et plus rationnel, qui concentre la puissance là où il faut, les nouveaux processeurs Intel Core i7 impriment un élan formidable à la micro-informatique. Ce sont les meilleures puces pour PC de bureau de la planète. Avec eux, le multitâche est encore plus rapide, et vos moyens pour la création numérique n'ont jamais été aussi puissants. Grâce au tandem des technologies Intel Turbo Boost et Hyper-Threading (HT), vous disposez également de performances très largement à la hauteur de toutes vos autres activités.
+    Technologie Intel Turbo Boost    Elle maximise la rapidité des applications lourdes en stimulant la dynamique de leurs performances, en corrélation avec l'intensité de l'activité pratiquée.²
+    Technologie Hyper-Threading    Elle renforce le rendement de traitement pour les logiciels fortement parallélisés. Le processeur peut ainsi gérer de front jusqu'à huit flux d'instruction séquentiels (multitâche) et unités d'exécution (logiciels parallélisés).³
+    Mémoire Intel Smart Cache    Avec son fonctionnement rationalisé, cette mémoire cache est plus performante. Elle est optimisée pour les best-sellers des jeux parallélisés.
+    Bus Intel QPI (QuickPath Interconnect)    Il a été pensé dans une optique de débit en hausse et de latence en baisse. Il parvient ainsi à des débits maximums bien supérieurs à ceux autorisés par le FSB.
+    Contrôleur mémoire intégré    Il permet la gestion concomitante de trois canaux de mémoire vive DDR3 à 1066 MHz, soit des débits jusqu'à 25,6 Go/s. Sa faible latence et sa bande passante élargie se traduisent par de superbes performances pour les applications qui manipulent intensivement les données.
+    Fonction Intel HD Boost    Elle stimule toute une palette d'applications multimédias et, plus généralement, celles qui sollicitent fortement le processeur. L'émission des instructions SSE 128 bits intervient à raison d'une par cycle d'horloge, soit un nouveau seuil de rendement de traitement pour les logiciels optimisés SSE4.
+
+
+	
+
+		Fiche technique Intel Core i7 950 :
+Descriptif
+Fiche technique
+Ce qu'en pensent nos clients
+Haut de page
+Sélectionnez vos critères
+  
+
+Informations générales
+
+		
+                                    Marque
+            
+                            Intel
+
+                                    Modèle
+            
+                            BX80601950
+
+Principales caractéristiques
+
+		
+                                    Modèle de processeur
+            
+                            Intel Core i7
+
+                                    Support du processeur
+            
+                            1366
+
+                                    Fréquence CPU
+            
+                            3,06 GHz
+
+                                    Fréquence du bus
+            
+                            QPI 4.8 GT/s
+
+                                    Nombre de core
+            
+                            4
+
+                                    Plateforme (Proc.)
+            
+                            Intel Nehalem
+
+Architecture
+
+		
+                                    Finesse de gravure
+            
+                            0,045 Micron
+
+                                    TDP
+            
+                            130 W
+
+                                    Cache L1
+            
+                            256 ko
+
+                                    Cache L2
+            
+                            1 Mo
+
+                                    Cache L3
+            
+                            8 Mo
+
+Technologies avancées
+
+		
+                                    Intel Speedstep
+            
+                            Oui
+
+                                    MMX
+            
+                            Oui
+
+                                    3D Now!
+            
+                            Non
+
+                                    SSE
+            
+                            Oui
+
+                                    SSE2
+            
+                            Oui
+
+                                    SSE3
+            
+                            Oui
+
+                                    SSSE3
+            
+                            Oui
+
+                                    SSE4
+            
+                            Oui
+
+                                    SSE4A
+            
+                            Non
+
+                                    EM64T
+            
+                            Oui
+
+                                    AMD64
+            
+                            Non
+
+Conditionnement
+
+		
+                                    Utilisation type
+            
+                            Ordinateur de bureau
+
+                                    Version Boîte
+            
+                            Oui
+
+voir les produits correspondants
+Produit référencé le : 08/06/2009 | Dernière modification le : 14/05/2012	
+
+		Ce qu'en pensent nos clients : Descriptif
+Fiche technique
+Ce qu'en pensent nos clients
+Haut de page
+Voir tous les avisNote client : 13 avis - donnez le vôtre                                                                            par FREDERIC N,le 10 févrierUn bolide de course du calculQue dire? Je suis passé d'une configuration Amd X64 à un I7 950. Incomparable! C'est comme si vous passiez du vélo à la moto la plus sportive! Un bonheur pour le travail, pas de soucis de plantage (j'ai essayé mais meme pas arrivé) Le tout monté sur un chipset X58 avec 12gO DD3 et un refroidissemnt liquide! Quel bonheur pour faire des animations 3 ...Lire la suite &rsaquo;Trouvez-vous cette critique utile ? ouinon56% d'avis positifs
+
+
+
+
+                                                                            par skorpion,le 25 novembreLe proc qu'il te faut, un monstre.J'ai bien fait d'attendre une dizaine d'année pour acheter ma 1ère config. Je suis très satisfait de ce I7 950 monté par ldlc sur ma Rampage III gene équipée d'une Sapphire ToxicHD 6870, sans parler de ce Kit g.skill 12Go (3x4)...peu importe l'OS, l'overclock...une config à ce prix, on est à l'aise c'est sur ! mais ça faisait 10ans aussi, donc ...Lire la suite &rsaquo;Trouvez-vous cette critique utile ? ouinon56% d'avis positifs
+
+
+
+
+                                                                            par Yzn,le 9 novembreEpoustouflant.Si l'on met de coté les notions "plaisir d'avoir", "frime", "moi j'ai, moi j'ai...", notions dans lesquelles j'aime bien tomber moi-aussi :) difficile de croire qu'un particulier principalement gamer comme moi puisse avoir besoin de plus puissant.Puissant il l'est en l'état et en a beaucoup "sous le pied" pour les overclockeurs.Lire la suite &rsaquo;Trouvez-vous cette critique utile ? ouinon56% d'avis positifs
+
+
+
+
+
+	
+		Produits équivalents disponibles :Haut de page												Fermer				
+
+					Fermer				
+
+Intel Xeon X3450Processeur Quad Core Socket 1156 DMI 2.5 GT/s Cache L3 8 Mo 0.045 micron (version boîte/sans ventilateur - garantie Intel 3 ans)269€96TTC
+
+Intel Xeon E5607 (2.26 GHz)Processeur Quad Core Socket 1366 QPI 4.8 GT/s Cache 8 Mo 0.032 micron (version boîte/sans ventilateur - garantie Intel 3 ans)289€96TTC
+
+Intel Core i7-2600 (3.4 GHz)Processeur Quad Core Socket 1155 Cache L3 8 Mo Intel HD Graphics 2000 0.032 micron (version boîte - garantie Intel 3 ans)269€95TTC
+
+Intel Core i7-3770 (3.4 GHz)Processeur Quad Core Socket 1155 Cache L3 8 Mo Intel HD Graphics 4000 0.022 micron (version boîte - garantie Intel 3 ans)287€95TTC
+
+
+			
+		
+			
+		
+
+	
+
+
+			
+
+	
+
+
+						Débit à l'expéditionNous ne prélevons pas votre carte bancaire avant la préparation de votre commande !
+Paiement en 3 foisPar carte bancaire à partir de 100 euros TTC
+Livraison outre-merNous livrons dans les DOM-TOM en HT !
+Livraison expressLivré demain avant 13h !
+
+Moyens de paiement acceptés :
+
+
+
+
+
+
+
+
+Aide
+Nos services
+Retourner un article
+Modes de livraison
+Le groupe LDLC
+Devenez affilié !
+CGV
+Offres d'emploi
+Une question, un besoin précis ? Découvrez toutes nos rubriques d'aide
+
+
+		
+	
+Dans la même thématique : 
+i7 950
+ | 
+processeur i7
+ | 
+prix processeur i7
+ | 
+core i7 950
+ | 
+achat i7 
+ | 
+acheter i7
+ | 
+intel core i7 950
+ | 
+i7 achat
+ | 
+i7-950
+ | 
+achat processeur intel i7 
+Liens relatifs :
+Vente Eaton
+Acheter Netgear WNR854T + WN311T
+Achat Kingston KVR667D2U5/1G
+Achat NZXT Sentry Mesh
+PC SOFT pas cher
+					Commandez facile avec LDLC.com, spécialiste de la vente à distance de produits informatiques (Souris PC Logitech Sans-fil, Ecran PC ASUSTeK LED, Appareil photo compact Sony Ecran LCD, TV Ecran plat Samsung LED), Ordinateur portable et High Tech. Si vous hésitez sur l'achat de matériel informatique (Smartphone LG Ecran tactile, Cartouche imprimante HP Noir, Câble HDMI Générique, Clé USB Corsair 32 Go), de pièces détachées ou encore de périphériques, référez-vous aux avis de nos clients et aux différents tests. Profitez également de tous nos services pour acheter en toute sérénité : les packs Garanties & Services (classique, confort, expert), les options de livraison (relais colis, retrait dans nos points de vente...livraison dom tom) et les modes de paiement sécurisés (CB, en trois fois...). Enfin, pour répondre à toutes vos questions, rendez-vous sur votre espace d'aide. Abonnez-vous à notre newsletter pour être informé de nos offres promotionnelles toute l'année. Découvrez notre espace Bonnes Affaires pour plus de petits prix, et des remises exceptionnelles durant les soldes. Pour tous vos cadeaux de Noël, de Saint Valentin, comme les produits suivants : Appareil photo Reflex Canon Vidéo HD, imprimante multifonction laser, processeur intel core i7, boitier pc gamer, camera ip wifi...pensez à LDLC.com pour retrouver tout le matériel high-tech au meilleur prix. Accès direct : camescope numerique haute definition, videoprojecteur HD, webcam usb, microphone usb, autoradio usb, netbook intel atom, souris hello kitty, sony xperia, samsung galaxy s2.
+
+		
+	
+LDLC.comworkwork18 chemin des Cuers69574DardillyFrancework04 27 46 6000
+
+
+FranceChoix du paysFrance
+Belgique
+Suisse
+
+
+
+Groupe LDLC.comLes autres sites du groupe LDLC.com :LDLC-Pro.comVotre espace de vente dédiée aux professionnels (artisans, PME/PMI, administration, revendeurs...)
+MagineaDes produits actuels et tendance pour aménager votre maison et son extérieur.
+AnikopL'innovation gestion au service du point de vente.
+PlugsquareVente d'instruments et d'équipement musical.
+Hardware.frLe Guide du Hardware & de l'optimisation PC.
+
+
+
+Nos boutiques                            Boutique de Lyon                                LDLC.com Boutique Lyon                                work                                                                    work                                    22 et 24, rue de la Gare
+                                    69009                                     LYON                                    France                                                                work04 26 68 49 00                                Ouverture du Mardi au Samedi de 10h30 à 19h00.                                Voir le site de la boutique                            
+                            Boutique de Paris                                LDLC.com Boutique Paris                                work                                                                    work                                    12 et 14, rue de l'Eglise
+                                    75015                                     PARIS                                    France                                                                work01 45 78 78 28                                Ouverture du Mardi au Samedi de 10h00 à 19h00.                                Voir le site de la boutique                            
+
+
+
+Aide
+
+
+
+
+
+
+
+
+

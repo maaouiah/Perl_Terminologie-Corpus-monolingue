@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE html PUBLIC
+    '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+
+<!-- PHP Maximus Cms XHTML 1.0 Transitional valide -->
+
+<title> Tout sur l&#039;informatique - Programmation C#, S&eacute;curit&eacute;, Divx, P2P </title>
+<meta http-equiv='content-type' content='text/html; charset=ISO-8859-1' />
+<meta http-equiv='content-script-type' content='text/javascript' />
+<meta http-equiv='content-style-type' content='text/css' />
+<meta http-equiv='expires' content='0' />
+<meta http-equiv='pragma' content='no-cache' />
+<meta http-equiv='identifier-url' content='http://www.zmaster.fr' />
+<meta http-equiv='Content-Type' content='text/html; charset=ISO-8859-1' />
+<meta name='resource-type' content='document' />
+<meta name='distribution' content='global' />
+<meta name='author' content='Tout sur l&#039;informatique - Programmation C#, S&eacute;curit&eacute;, Divx, P2P' />
+<meta name='copyright' content='Copyright (c) by Tout sur l&#039;informatique - Programmation C#, S&eacute;curit&eacute;, Divx, P2P' />
+<meta name='owner' content='www.zmaster.fr' />
+<meta name='language' content='fr' />
+<meta http-equiv='content-language' content='fr, fr-be, fr-ca, fr-lu, fr-ch, en-en' />
+<meta name='keywords' content='informatique, gratuit, P2P, Peer, to, emule, edonkey, 2000, hacking, shareaza, Imesh, serveurs, serveur, liste, met, carding, programmation, algo, delphi, caml, failles, sql, hacking, telechargement, rapide, speed, download, upload, FTP, gratuitement, crack, cracking, hack, hacker, facile, apprendre, hotmail, msn, windows, MDP, password, pass, mot de passe, trouver, firefox, IE, mozilla' />
+<meta name='description' content='Articles sur l&#039;informatique, le hacking, le P2P, les divx, les astuces windows XP, les GSM, Emule, la cryptographie, les jeux video, edonkey et plein d autre chose comme hacker allopass.' />
+<meta name='generator' content='PHP Maximus CMS - Copyright by http://www.php-maximus.org. This is a free software, and you may redistibute it under the GPL (http://www.php-maximus.org/gpl.html. PHP Maximus come with absolutely no warrantly, for details, see the licence' />
+<meta name='robots' content='index, follow' />
+<meta name='revisit-after' content='1 days' />
+<meta name='rating' content='general' />
+<!-- Powered by PHP Maximus CMS -->
+<script type="text/javascript">
+<!--
+function openwindow(){
+	window.open ("modules/Reviews/copyright.php","Copyright","toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=no,copyhistory=no,width=400,height=200");
+}
+//-->
+</script>
+
+<link rel='alternate' type='application/rss+xml' title='RSS' href='backend.php' />
+<style type='text/css'> @import url(kernel/style.css); </style><style type='text/css'> @import url(themes/fiapple211/style/style.css); </style>
+	<script type="text/javascript">
+		window.google_analytics_uacct = "UA-22314208-2";
+	</script>
+	<script type="text/javascript">
+				  var _gaq = _gaq || [];
+				  _gaq.push(['_setAccount', 'UA-22314208-2']);
+				  _gaq.push(['_trackPageview']);
+
+				  (function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				  })();
+			</script>
+
+</head>
+
+<body leftmargin="1" topmargin="1" marginwidth="1" marginheight="1"><a name='max_top'></a>	     
+	<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+		<td><img src="themes/fiapple211/forums/images/spacer.gif" alt="" width="12" height="10" /></td>
+		<td width="100%">
+			<table border="0" cellpadding="0" cellspacing="0" width="320"><tr> 
+				<td><img src="themes/fiapple211/forums/images/spacer.gif" alt="" width="80" height="1" /></td>
+				<td><img src="themes/fiapple211/forums/images/spacer.gif" alt="" width="80" height="1" /></td>
+				<td><img src="themes/fiapple211/forums/images/spacer.gif" alt="" width="80" height="1" /></td>
+				<td><img src="themes/fiapple211/forums/images/spacer.gif" alt="" width="80" height="1" /></td>
+			</tr><tr>
+ 				<td><a href="index.php"><img src="themes/fiapple211/forums/images/top_bar_home.gif" width="80" height="26" border="0" alt="Home"title="Home"></a></td>
+				<td><a href="informatique_downloads.html"><img src="themes/fiapple211/forums/images/top_bar_downloads.gif" width="80" height="26" border="0" alt="Downloads" title="Downloads"></a></td>
+				<td><a href="modules.php?name=Your_Account"><img src="themes/fiapple211/forums/images/top_bar_account.gif" width="80" height="26" border="0" alt="Account" title="Account"></a></td>
+				<td><a href="modules.php?name=Forums"><img src="themes/fiapple211/forums/images/top_bar_forum.gif" width="80" height="26" border="0" alt="Forum" title="Forum"></a></td>
+				<td><a href="informatique_search.html"><img src="themes/fiapple211/forums/images/top_bar_search.gif" width="80" height="26" border="0" alt="Search" title="Search"></a></td>
+				<td><a href="informatique_faq.html"><img src="themes/fiapple211/forums/images/top_bar_faq.gif" width="80" height="26" border="0" alt="FAQ" title="FAQ"></a></td>
+				<td><a href="modules.php?name=Members_List"><img src="themes/fiapple211/forums/images/top_bar_memberlist.gif" width="80" height="26" border="0" alt="Members_List" title="Members_List"></a></td>
+				<td><a href="modules.php?name=Your_Account&op=logout"><img src="themes/fiapple211/forums/images/top_bar_logout.gif" width="80" height="26" border="0" alt="Logout" title="Logout"></a></td>	</tr></table></td></tr></table>
+	<table border="0" cellpadding="0" cellspacing="0" class="ttb"><tr> 
+		<td><img src="themes/fiapple211/forums/images/tt12_l.gif" width="10" height="12" alt="" /></td>
+		<td class="tt12bkg"><img src="themes/fiapple211/forums/images/spacer.gif" width="200" height="12" alt="" /></td>
+		<td><img src="themes/fiapple211/forums/images/tt12_r.gif" width="10" height="12" alt="" /></td>
+	</tr></table>
+	<table class="bodyline" width="100%" cellspacing="0" cellpadding="10" border="0"><tr><td align="center" valign="top">
+		<table border="0" cellpadding="0" cellspacing="0" class="scrn"><tr> 
+			<td><img src="themes/fiapple211/forums/images/scrn_tl.gif" alt="" width="14" height="14" /></td>
+			<td width="100%" class="scrntbkg"><img src="themes/fiapple211/forums/images/spacer.gif" alt="" width="10" height="14" /></td>
+			<td><img src="themes/fiapple211/forums/images/scrn_tr.gif" alt="" width="14" height="14" /></td>
+		</tr><tr> 
+			<td class="scrnlbkg"><img src="themes/fiapple211/forums/images/spacer.gif" alt="" width="14" height="60" /></td>
+			<td class="scrnm"><br />
+				<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr> 
+					<td width="400" height="70"><a href="index.php"><img src="themes/fiapple211/forums/images/logx.gif" border="0" alt="Tout sur l&#039;informatique - Programmation C#, S&eacute;curit&eacute;, Divx, P2P" width="400"></a></td>
+					<td width="100%" height="70" align="center"><script type="text/javascript"><!--
+google_ad_client = "pub-9151534799510047";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text_image";
+//2006-11-17: TSI haut
+google_ad_channel = "0496904164";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "008000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr><tr><td align="left">&nbsp;&nbsp;<a href="modules.php?name=Your_Account&op=new_user">Inscrivez-vous !</a></td><td align="right"><script type="text/javascript">
+
+<!--   // Array ofmonth Names
+var monthNames = new Array( "Janvier","Février","Mars","Avril","Mai","Juin","Juillet","Août","Septembre","Octobre","Novembre","Décembre");
+var now = new Date();
+thisYear = now.getYear();
+if(thisYear < 1900) {thisYear += 1900}; // corrections if Y2K display problem
+document.write(now.getDate() + " " + monthNames[now.getMonth()] + " " + thisYear);
+// -->
+
+</script>&nbsp;&nbsp;</td></tr></table></td><td class="scrnrbkg"><img src="themes/fiapple211/forums/images/spacer.gif" alt="" width="14" height="60" /></td>
+		</tr><tr> 
+			<td><img src="themes/fiapple211/forums/images/scrn_bl.gif" alt="" width="14" height="14" /></td>
+			<td width="100%" class="scrnbbkg"><img src="themes/fiapple211/forums/images/spacer.gif" alt="" width="10" height="14" /></td>
+			<td><img src="themes/fiapple211/forums/images/scrn_br.gif" alt="" width="14" height="14" /></td>
+		</tr></table>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+			<td><img src="themes/fiapple211/forums/images/spacer.gif" width="200" height="8" alt="" /></td>
+		</tr></table>
+		<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
+			<tr valign="top">
+				<td colspan="3"><img src="themes/fiapple211/forums/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+			</tr>
+			<tr>
+ 				<td width="1%" align="left"><a href='index.php?g&amp;bloc=900&amp;actif=1'><img src='images/blocks/gauche.png' border='0' alt="Fermer ce volet" title="Fermer ce volet" /></a></td>
+ 				<td width="95%"></td><td width="5%" align="right"><a href='index.php?g&amp;bloc=901&amp;actif=1'><img src='images/blocks/droite.png' border='0' alt="Fermer ce volet" title="Fermer ce volet" /></a></td></tr></table>
+		<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center"><tr valign="top">
+			<td valign="top" width="7" background="themes/fiapple211/forums/images/spacer.gif"></td>
+<td valign="top" width="100%">
+
+<!-- Web Site under PHP Maximus CMS Copyrights -->
+
+<div class='opentable'><table border="0" width="95%" cellpadding="2" cellspacing="4" align="center">
+    <tr><td colspan="2"><center><font class='title'>Bienvenue dans la rubrique des comptes rendus</font></center><br /><br /><br /><center><b>Reviews Section Title</b><br /><br />Reviews Section Long Description</center><br />
+<br />
+<br />
+<center>[ <a href="informatique_reviews_sortby_A.html">A</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_B.html">B</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_C.html">C</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_D.html">D</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_E.html">E</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_F.html">F</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_G.html">G</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_H.html">H</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_I.html">I</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_J.html">J</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_K.html">K</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_L.html">L</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_M.html">M</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_N.html">N</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_O.html">O</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_P.html">P</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_Q.html">Q</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_R.html">R</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_S.html">S</a> ]
+<br />
+[ <a href="informatique_reviews_sortby_T.html">T</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_U.html">U</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_V.html">V</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_W.html">W</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_X.html">X</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_Y.html">Y</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_Z.html">Z</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_1.html">1</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_2.html">2</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_3.html">3</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_4.html">4</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_5.html">5</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_6.html">6</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_7.html">7</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_8.html">8</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_9.html">9</a>&nbsp;|&nbsp;
+<a href="informatique_reviews_sortby_0.html">0</a> ]</center><br /><br />
+
+
+<center>[ <a href="informatique_reviews_new.html">Écrire un compte rendu</a> ]</center>
+
+<br />
+</td></tr><tr><td width="50%" bgcolor="#C3D1E3"><b>10 comptes rendus les plus populaires</b></td><td width="50%" bgcolor="#C3D1E3"><b>10 comptes rendus les plus r&eacute;cents</b></td></tr><tr><td width="50%" bgcolor="#C3D1E3">1) <a href="informatique_reviews_0.html"></a></td><td width="50%" bgcolor="#C3D1E3">1) <a href="informatique_reviews_0.html"></a></td></tr><tr><td width="50%" bgcolor="#C3D1E3">2) <a href="informatique_reviews_0.html"></a></td><td width="50%" bgcolor="#C3D1E3">2) <a href="informatique_reviews_0.html"></a></td></tr><tr><td width="50%" bgcolor="#C3D1E3">3) <a href="informatique_reviews_0.html"></a></td><td width="50%" bgcolor="#C3D1E3">3) <a href="informatique_reviews_0.html"></a></td></tr><tr><td width="50%" bgcolor="#C3D1E3">4) <a href="informatique_reviews_0.html"></a></td><td width="50%" bgcolor="#C3D1E3">4) <a href="informatique_reviews_0.html"></a></td></tr><tr><td width="50%" bgcolor="#C3D1E3">5) <a href="informatique_reviews_0.html"></a></td><td width="50%" bgcolor="#C3D1E3">5) <a href="informatique_reviews_0.html"></a></td></tr><tr><td width="50%" bgcolor="#C3D1E3">6) <a href="informatique_reviews_0.html"></a></td><td width="50%" bgcolor="#C3D1E3">6) <a href="informatique_reviews_0.html"></a></td></tr><tr><td width="50%" bgcolor="#C3D1E3">7) <a href="informatique_reviews_0.html"></a></td><td width="50%" bgcolor="#C3D1E3">7) <a href="informatique_reviews_0.html"></a></td></tr><tr><td width="50%" bgcolor="#C3D1E3">8) <a href="informatique_reviews_0.html"></a></td><td width="50%" bgcolor="#C3D1E3">8) <a href="informatique_reviews_0.html"></a></td></tr><tr><td width="50%" bgcolor="#C3D1E3">9) <a href="informatique_reviews_0.html"></a></td><td width="50%" bgcolor="#C3D1E3">9) <a href="informatique_reviews_0.html"></a></td></tr><tr><td width="50%" bgcolor="#C3D1E3">10) <a href="informatique_reviews_0.html"></a></td><td width="50%" bgcolor="#C3D1E3">10) <a href="informatique_reviews_0.html"></a></td></tr><tr><td colspan="2"><br /></td></tr><tr><td colspan="2"><br /><center>Il y a 0 comptes rendus dans la base de donn&eacute;es.</center></td></tr></table></div>
+
+<!-- Web Site under PHP Maximus CMS Copyrights -->
+
+<div align='right'><a href='javascript:openwindow()'>Reviews &copy;</a></div></td><td valign="top" width="165"></td></tr></table><table width="100%" border="0" cellpadding="4"><tr><td><br><center><br><center>
+<p><a href="http://www.xiti.com/xiti.asp?s=112837" title="Mesurez votre audience">
+<script type="text/javascript">
+<!--
+Xt_param = 's=112837&p=';
+Xt_r = document.referrer;
+Xt_h = new Date();
+Xt_i = '<img width="39" height="25" border="0" ';
+Xt_i += 'src="http://logv22.xiti.com/hit.xiti?'+Xt_param;
+Xt_i += '&hl='+Xt_h.getHours()+'x'+Xt_h.getMinutes()+'x'+Xt_h.getSeconds();
+if(parseFloat(navigator.appVersion)>=4)
+{Xt_s=screen;Xt_i+='&r='+Xt_s.width+'x'+Xt_s.height+'x'+Xt_s.pixelDepth+'x'+Xt_s.colorDepth;}
+document.write(Xt_i+'&ref='+Xt_r.replace(/[<>"]/g, '').replace(/&/g, '$')+'" title="Analyse d\'audience">');
+//-->
+</script>
+<noscript>
+audit et mesure d'audience visiteurs internet par <img width="39" height="25" src="http://logv22.xiti.com/hit.xiti?s=112837&amp;p=" alt="Analyse d'audience" />
+</noscript></a>
+<a href="charte.htm" target="_blank">Conditions d'utilisation</a>
+                         </p></center>
+
+<!-- Start Footer PHP Maximus CMS -->
+Tous les logos et marques sont des Propriétés respectives. Les commentaires sont la propriété respective de ceux qui les postent, tout le reste © 2006-2011 est personnel.
+</center></td></tr></table></td></tr></table><table border="0" cellpadding="0" cellspacing="0" class="ttb"><tr><td><img src="themes/fiapple211/forums/images/tb12_l.gif" width="10" height="12" alt="" /></td><td class="tb12bkg"><img src="themes/fiapple211/forums/images/spacer.gif" width="200" height="12" alt="" /></td><td><img src="themes/fiapple211/forums/images/tb12_r.gif" width="10" height="12" alt="" /></td></tr></table><font class="footmsg"><center><!-- PHP Maximus Statistics -->         <script type="text/javascript"><!--
+         writeCookie();
+         function writeCookie()
+         {
+            var today = new Date();
+            var the_date = new Date();
+            var the_cookie_date = (the_date.getTime() + (1000 * 60 * 60 * 24 * 31));
+            var the_cookie = "msa_resolution="+ screen.width +"x"+ screen.height +"x"+ screen.colorDepth;
+            var the_cookie = the_cookie + ";expires=" + the_cookie_date;
+            document.cookie=the_cookie;
+         }
+         //--></script>
+
+          
+
+<!-- End Footer by PHP Maximus CMS -->
+<font size='1'>Tous droits réservés. PHP-MaXiMuS est un logiciel libre en version <a href='http://www.gnu.org' target='blank'><font class='footmsg_l'>GNU/GPL license</font> </a > .<br />
+Copyright 2005 <a href='http://php-maximus.fr' target='blank'>PHP-MaXiMuS </a > .</font><br />
+<font size='1'>[ Page générée en <b>0.1935</b> sec ]</font><font size='1'> [ (PHP: <b>84%</b> - SQL: <b>16%</b>) ]</font> <font size='1'> [ Requêtes SQL: <b>42</b> ]</font> <font size='1'> [ <b>167</b> pages vues la dernière heure ]</font> <br />&nbsp;<a href='#max_top'><img src='images/powered/top.gif' alt='Top' title='Top' border='0' /></a>&nbsp;<font size='1'><img src='images/powered/maxcacheoff.gif' alt='Max Cache Off' title='Max Cache Off' border='0' /></font>&nbsp;<a href='modules.php?name=Copyrights'><img src='images/powered/copyright.gif' alt='Copyright' title='Copyright' border='0' /></a>&nbsp;<a href='modules.php?name=Copyrights&amp;op=legalsmentions'><img src='images/powered/mentions-legales.gif' alt='Mentions légales' title='Mentions légales' border='0' /></a>&nbsp;<a href='http://www.php-maximus.org' target='new'><img src='images/powered/Maximus.gif' alt='PHP Maximus CMS' title='PHP Maximus CMS' border='0' /></a><br /><br /> </body>
+</html>

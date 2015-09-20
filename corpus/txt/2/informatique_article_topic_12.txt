@@ -1,0 +1,234 @@
+	     			
+					 				
+				
+				
+				
+			 				
+				
+				
+				
+				
+				
+				
+				
+	
+	 		
+		
+		
+				 			
+			
+			
+		 			
+							 					
+					
+  Inscrivez-vous !
+  
+
+
+		 			
+			
+			
+							
+											
+						 				
+ 				
+
+					                        
+          
+          
+                                                                                                                  Menu
+                                     
+                                                                                                                                            						
+						 Accueil
+						
+						 Les Sujets et Les Articles
+
+ Informatique
+
+ Programmation C#
+
+ Sécurité & Hacking
+
+ Astuces Windows
+
+ Divx & P2P
+
+ GSM
+
+ Cryptographie
+
+ Webmaster
+
+ Cours Delphi Programmation
+
+ Hoax
+
+ MSN
+
+ Divers
+
+ News
+
+ Jeux Video
+
+ Android OS
+
+ Excel
+
+
+						
+						 Communauté
+
+ Forums
+
+ T'Chat IRC
+·
+ Proposer un article
+·
+ Messages Privés
+
+
+						
+						 Downloads et Liens Web
+
+ Téléchargements
+
+ Liens
+
+ Peer To Peer
+
+
+						
+						 Contenu
+
+ Content
+
+ Encyclopedie
+
+ Reviews
+
+ Top 10
+
+ FAQ
+
+
+						
+						 Infos
+
+ Statistiques
+
+ Search
+
+ Votre Compte
+
+
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Partenaires
+                                     
+                                                                                                                                            Ogame
+Angry Birds Solution
+  
+Aide Ogame
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+                        
+          
+          
+                                                                                                                &nbsp Liste des extensions de nom de domaine par pays  
+                                      
+                                                                                      Voici la liste des extensions de nom de domaine correspondant a chaque pays.C'est utile si l'on veut savoir la "nationalité" du site. 
+                                      
+                                                                                      Transmis par zmaster le Mardi 29 novembre 2005 à 02:25:00  (8409 lectures)(Suite... | 7711 octets de plus | 11 commentaires | Score: 3.91)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Accélérer l'affichage des pages - Firefox  
+                                      
+                                                                                      Par défaut, Firefox attend 250 millisecondes avant de commencer à afficher les pages Web que vous visitez. Or, si votre ordinateur est assez rapide, vous pouvez faire en sorte que les pages soient affichées même si toutes les données ne sont pas encore reçues. 
+                                      
+                                                                                      Transmis par robotx le Dimanche 27 novembre 2005 à 07:05:00  (3982 lectures)(Suite... | 750 octets de plus | 3 commentaires | Score: 3.4)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp HTML : justifier le texte d'un paragraphe  
+                                      
+                                                                                      adam2 a écrit : Vous avez créé un site et vous souhaitez en améliorer la présentation en alignant les bords gauche et droit d'un paragraphe. Pour cela, vous devez justifier le texte. Malheureusement, la plupart des logiciels de création de sites ne proposent pas cette option. En effet, la version du langage HTML interprétée par les navigateurs de version 4 et inférieure permettait d'aligner le texte à gauche, à droite ou au centre, mais pas de le justifier. 
+                                      
+                                                                                      Transmis par zmaster le Mardi 15 novembre 2005 à 05:25:00  (6259 lectures)(Suite... | 1062 octets de plus | commentaires ? | Score: 3.66)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Changer l'heure (hiver/été) de votre forum PhpBB ou phpnuke  
+                                      
+                                                                                      Pour que votre forum soit à la bonne heure, il vous faut changer le timezone de tous les utilisateurs, pour cela il faut se rendre dans la zone d'administration Mysql (le plus souvent phpmyadmin) puis dans la section SQL qui permet de lancer des requêtes. 
+                                      
+                                                                                      Transmis par zmaster le Mercredi 02 novembre 2005 à 21:14:32  (5153 lectures)(Suite... | 1616 octets de plus | commentaires ? | Score: 5)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Mettre de la musique en streaming sur son site web  
+                                      
+                                                                                      Le streaming est un principe utilisé principalement pour l'envoi de contenu en « direct » (ou en léger différé). Il permet de commencer la lecture d'un flux audio ou vidéo à mesure qu'il est diffusé. On peut ainsi écouter un morceau de musique ou regarder une video sans l'avoir téléchargé entiérement.Je vais vous expliquer ici comment proposer a vos visiteurs de la musique en Streaming. 
+                                      
+                                                                                      Transmis par zmaster le Jeudi 30 juin 2005 à 17:21:39  (11938 lectures)(Suite... | 2050 octets de plus | 6 commentaires | Score: 4.52)
+
+                                      
+                          
+                                      
+          
+          
+                  
+  News ©
+
+audit et mesure d'audience visiteurs internet par Conditions d'utilisation                         
+Tous les logos et marques sont des Propriétés respectives. Les commentaires sont la propriété respective de ceux qui les postent, tout le reste © 2006-2011 est personnel.
+
+
+
+
+                   Tous droits réservés. PHP-MaXiMuS est un logiciel libre en version GNU/GPL license  .Copyright 2005 PHP-MaXiMuS  .[ Page générée en 0.342 sec ] [ (PHP: 85% - SQL: 15%) ]  [ Requêtes SQL: 57 ]  [ 256 pages vues la dernière heure ]       

@@ -1,0 +1,319 @@
+	     			
+					 				
+				
+				
+				
+			 				
+				
+				
+				
+				
+				
+				
+				
+	
+	 		
+		
+		
+				 			
+			
+			
+		 			
+							 					
+					
+  Inscrivez-vous !
+  
+
+
+		 			
+			
+			
+							
+											
+						 				
+ 				
+
+					                        
+          
+          
+                                                                                                                  Menu
+                                     
+                                                                                                                                            						
+						 Accueil
+						
+						 Les Sujets et Les Articles
+
+ Informatique
+
+ Programmation C#
+
+ Sécurité & Hacking
+
+ Astuces Windows
+
+ Divx & P2P
+
+ GSM
+
+ Cryptographie
+
+ Webmaster
+
+ Cours Delphi Programmation
+
+ Hoax
+
+ MSN
+
+ Divers
+
+ News
+
+ Jeux Video
+
+ Android OS
+
+ Excel
+
+
+						
+						 Communauté
+
+ Forums
+
+ T'Chat IRC
+·
+ Proposer un article
+·
+ Messages Privés
+
+
+						
+						 Downloads et Liens Web
+
+ Téléchargements
+
+ Liens
+
+ Peer To Peer
+
+
+						
+						 Contenu
+
+ Content
+
+ Encyclopedie
+
+ Reviews
+
+ Top 10
+
+ FAQ
+
+
+						
+						 Infos
+
+ Statistiques
+
+ Search
+
+ Votre Compte
+
+
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Partenaires
+                                     
+                                                                                                                                            Ogame
+Angry Birds Solution
+  
+Aide Ogame
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+                        
+          
+          
+                                                                                                                &nbsp Visual Studio C# : Impossible de modifier le code en mode Debug sur 64 bits  
+                                      
+                                                                                      Après avoir installé Windows Seven 64bits, j'ai décidé de réinstaller Microsoft Visual Studio 2008 sur mon PC 64 bits, je me suis retrouvé avec les configurations de base et je ne pouvais plus éditer mon code C# en mode Debug.Lorsque j'essayais de modifier le code, j'obtenais le message suivant : "Les modifications des plateformes 64 bits ne sont pas autorisées."Pour résoudre ce problème et de nouveau pouvoir modifier son code C# durant le Debug, il faut modifier la plateforme cible et la passer de "Any CPU" à "x86" lorsque vous voulez débuger votre code source.Le changement de configuration est simple et peut se faire à partie de la comboBox à droite de "Debug".Ce changement de configuration n'est utile que pour le mode Debug, vous pouvez ensuite configurer votre plateforme cible en Any CPU lorsque vous compilez une Release. 
+                                      
+                                                                                      Transmis par zmaster le Samedi 28 janvier 2012 à 21:09:34  (286 lectures)(commentaires ? | Score: 0)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp C# Erreur Impossible de résoudre la référence à ''Microsoft.CSharp''  
+                                      
+                                                                                      Si vous tombez sur l'erreur suivante en lançant un projet C# dans Visual Studio, c'est que vous avez du créer votre projet avec la version 4.0 du framework .NET.Erreur anglaise : "The primary reference "Microsoft.CSharp", which is a framework     assembly, could not be  resolved in the currently targeted framework.  ".NETFramework,Version=v3.5". To resolve this problem, either remove the  reference "Microsoft.CSharp" or retarget your application to a  framework version which contains "Microsoft.CSharp"Erreur française :"Impossible de résoudre la référence primaire "Microsoft.CSharp", qui est  un assembly framework, dans le framework actuellement ciblé.  ".NETFramework,Version=v3.5". Pour résoudre ce problème, supprimez la  référence "Microsoft.CSharp" ou reciblez votre application vers une  version de framework qui contient "Microsoft.CSharp".Cette erreur provient du fait que la plupart des templates de projets de Visual Studio 2010 (avec le framework .NET 4) inclus automatiquement une référence à l'assembly "Microsoft.CSharp".Il suffit donc de supprimer la référence, ce qui n'aura normalement aucune incidence sur le comportement de votre projet si vous n'utilisez pas les fonctionnalités liées. 
+                                      
+                                                                                      Transmis par zmaster le Mardi 24 janvier 2012 à 21:06:48  (258 lectures)(commentaires ? | Score: 0)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Le projet importé ''C:Microsoft.CSharp.targets'' n'a pas été trouvé  
+                                      
+                                                                                      Si vous essayez d'ouvrir un projet crée sous Microsoft Visual Studio 2008 ou 2010 avec une version plus ancienne de Visual Studio, vous avez peut être déjà rencontré le message d'erreur suivant au lancement de Visual Studio : "Le projet importé "C:Microsoft.CSharp.targets" n'a pas été trouvé" (orignal : The imported project "C:Microsoft.CSharp.targets" was not found).Pour résoudre ce problème, ouvrez le fichier .csproj de votre projet avec le bloc-note Windows (ou notepad++) et retrouvez la ligne suivante :<Import Project="$(MSBuildToolsPath)Microsoft.CSharp.targets" />Modifiez ensuite le chemin MSBuildToolsPath en MSBuildBinPath, ce qui vous donnera :<Import Project="$(MSBuildBinPath)Microsoft.CSharp.targets" />Le problème doit normalement être résolu. 
+                                      
+                                                                                      Transmis par zmaster le Mardi 24 janvier 2012 à 19:27:50  (239 lectures)(commentaires ? | Score: 0)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp C# Caster un entier (int) ou un string en Enum  
+                                      
+                                                                                      Faire un cast d'un entier (int) ou d'une chaine de caractères (string) vers un Enum C# est très facile.Les énumérations sont très utiles en C# mais il n'est pas toujours possible de conserver le type Enum et l'on n'est parfois obligé de passer par un int puisque les valeurs d'une énumération sont associées à des int. 
+                                      
+                                                                                      Transmis par zmaster le Lundi 19 septembre 2011 à 18:24:40  (650 lectures)(Suite... | 1547 octets de plus | commentaires ? | Score: 0)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Palette de couleurs WPF C# .NET  
+                                      
+                                                                                      WPF (Windows Presentation Foundation) propose une palette de couleurs identique à celle du framework .NET de Microsoft, des Windows Forms et de Microsoft Internet Explorer.
+Voici une liste de couleurs prédéfinies associant un nom et une valeur hexadécimale.
+ Cette palette des couleurs est très utile lors de la création d'interface en WPF et permet d'éviter d'avoir à tester chaque couleur une à une.
+ 
+                                      
+                                                                                      Transmis par zmaster le Dimanche 18 septembre 2011 à 15:51:07  (6583 lectures)(Suite... | 727 octets de plus | 3 commentaires | Score: 5)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Solution Project Error PRJ0002 from nmt.exe avec Visual Studio  
+                                      
+                                                                                      Solution pour l’erreur de compilation Visual Studio : Project : error PRJ0002 : Error result 31 returned from '<sdk path> bin  mt.exe'.Cette erreur semble toucher beaucoup de monde, des utilisateurs de Microsoft Visual Studio 2005  aux utilisateurs de Visual Studio Pro 2010.
+ 
+                                      
+                                                                                      Transmis par zmaster le Vendredi 13 mai 2011 à 21:35:32  (1174 lectures)(Suite... | 66886 octets de plus | 8 commentaires | Score: 0)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp C# Trier un dictionnaire (Dictionary) par valeur  
+                                      
+                                                                                      Trier un dictionnaire par valeur peut être utile en C# si on n'a un dictionary de clés et de valeurs. Par exemple : la clé peut être un mot (string) et la valeur un entier (int) représentant la fréquence d'apparition de ce mot dans un texte.La collection Dictionnary peut facilement être triée par clés mais le tri par valeur est un peu plus compliqué. 
+                                      
+                                                                                      Transmis par zmaster le Lundi 02 mai 2011 à 00:58:03  (1643 lectures)(Suite... | 6268 octets de plus | commentaires ? | Score: 5)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp C# WPF Ne pas afficher le Tab Header d'un TabControl  
+                                      
+                                                                                      Quand on créé des applications WPF en C#, on peut avoir besoin d'utiliser un groupe d'onglet (TabControl) mais ne pas vouloir afficher les Tab Headers qui contiennent le nom des onglets et permettent de swapper d'un onglet a un autre.
+ 
+Il n'existe pas a proprement parler d'option d'affichage WPF permettant de ne pas afficher les entêtes des onglets (tab header) mais on peut tout de même utiliser une astuce pour ne pas en afficher.
+ 
+ 
+                                      
+                                                                                      Transmis par zmaster le Samedi 09 avril 2011 à 19:40:10  (965 lectures)(Suite... | 107454 octets de plus | commentaires ? | Score: 0)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp C# WPF Afficher une infobulle (ToolTip)  
+                                      
+                                                                                      Afficher une infobulle (tooltip) sur un control dans son application WPF C# est un complément indéniable qui permet d'apporter de l'aide et des informations aux utilisateurs.Les infobulles (ou ToolTip) sont les petites fenêtres qui s'ouvrent parfois lorsque vous placez votre curseur sur un champ dans un logiciel ou sur un site internet.Ouvrir des infobulles en WPF C# est très facile. 
+                                      
+                                                                                      Transmis par zmaster le Samedi 26 mars 2011 à 22:11:44  (1616 lectures)(Suite... | 6893 octets de plus | commentaires ? | Score: 5)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp C# WPF Binder un DateTime lisible avec StringFormat  
+                                      
+                                                                                      Le binding de date (DateTime) en C# est devenu très simple depuis la version 3.5 SP1 du framework .NET et à la propriété StringFormat qui permet de formater un objet bindé DateTime lors de son affichage dans une fenêtre WPF. 
+                                      
+                                                                                      Transmis par zmaster le Mercredi 16 mars 2011 à 22:47:41  (1203 lectures)(Suite... | 5355 octets de plus | Score: 0)
+
+                                      
+                          
+                                      
+          
+          
+                  
+  1 | 2 |
+
+News ©
+
+audit et mesure d'audience visiteurs internet par Conditions d'utilisation                         
+Tous les logos et marques sont des Propriétés respectives. Les commentaires sont la propriété respective de ceux qui les postent, tout le reste © 2006-2011 est personnel.
+
+
+
+
+                   Tous droits réservés. PHP-MaXiMuS est un logiciel libre en version GNU/GPL license  .Copyright 2005 PHP-MaXiMuS  .[ Page générée en 0.4034 sec ] [ (PHP: 76% - SQL: 24%) ]  [ Requêtes SQL: 61 ]  [ 140 pages vues la dernière heure ]       

@@ -1,0 +1,1755 @@
+<?xml version="1.0" encoding="utf-8"?>
+<corpus>
+<header>
+<fileDesc>
+<titleStmt>
+<title value="АиФ Европа__2007" />
+<author value="" />
+<translation source_language="ru" source_title="" translator="" date="" />
+</titleStmt>
+<publicationStmt>
+<publisher value="АиФ Европа" />
+<pubPlace value="" />
+<pubDate value="2007" />
+<pubURL value="" />
+<pubNumeric value="" />
+</publicationStmt>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="ru" />
+</langUsage>
+<textDesc type="journalistique" sub_genre="" thema="" />
+</profileDesc>
+</header>
+<doc>
+<header>
+<fileDesc>
+<titleStmt>
+<title value="Курящих — в конец очереди?" />
+<author value="" />
+<translation source_language="ru" source_title="Курящих — в конец очереди?" translator="" date="" />
+</titleStmt>
+<publicationStmt>
+<publisher value="«АиФ Европа»" />
+<pubPlace value="" />
+<pubDate value="№ 04 (200–210) от 2 ноября 2007 г. " />
+<pubURL value="http://gazeta.aif.ru/online/europe/200-210/02_01" />
+<pubNumeric value="" />
+</publicationStmt>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="ru" />
+</langUsage>
+<textDesc type="journalistique" sub_genre="Зарубежье" thema="Наша почта" />
+<wordsNumber value="125" />
+</profileDesc>
+</header>
+<text>
+<body>
+<h1>
+<p>
+<tok id="1" w="Курящих" spc=" " />
+<tok id="2" w="—" spc=" " />
+<tok id="3" w="в" spc=" " />
+<tok id="4" w="конец" spc=" " />
+<tok id="5" w="очереди" spc="" />
+<tok id="6" w="?" spc="" />
+</p>
+</h1>
+<p>
+<tok id="7" w="Ходят" spc=" " />
+<tok id="8" w="активные" spc=" " />
+<tok id="9" w="слухи" spc="" />
+<tok id="10" w="," spc=" " />
+<tok id="11" w="что" spc=" " />
+<tok id="12" w="в" spc=" " />
+<tok id="13" w="рамках" spc=" " />
+<tok id="14" w="британской" spc=" " />
+<tok id="15" w="кампании" spc=" " />
+<tok id="16" w="по" spc=" " />
+<tok id="17" w="борьбе" spc=" " />
+<tok id="18" w="с" spc=" " />
+<tok id="19" w="курением" spc=" " />
+<tok id="20" w="местный" spc=" " />
+<tok id="21" w="Минздрав" spc=" " />
+<tok id="22" w="также" spc=" " />
+<tok id="23" w="собирается" spc=" " />
+<tok id="24" w="«" spc="" />
+<tok id="25" w="взяться" spc="" />
+<tok id="26" w="»" spc=" " />
+<tok id="27" w="за" spc=" " />
+<tok id="28" w="любителей" spc=" " />
+<tok id="29" w="никотина" spc=" " />
+<tok id="30" w="—" spc=" " />
+<tok id="31" w="вплоть" spc=" " />
+<tok id="32" w="до" spc=" " />
+<tok id="33" w="того" spc="" />
+<tok id="34" w="," spc=" " />
+<tok id="35" w="что" spc="" />
+<tok id="36" w="," spc=" " />
+<tok id="37" w="например" spc="" />
+<tok id="38" w="," spc=" " />
+<tok id="39" w="в" spc=" " />
+<tok id="40" w="очереди" spc=" " />
+<tok id="41" w="на" spc=" " />
+<tok id="42" w="плановую" spc=" " />
+<tok id="43" w="операцию" spc=" " />
+<tok id="44" w="будут" spc=" " />
+<tok id="45" w="отдавать" spc=" " />
+<tok id="46" w="предпочтение" spc=" " />
+<tok id="47" w="некурящему" spc=" " />
+<tok id="48" w="пациенту" spc="" />
+<tok id="49" w="." spc=" " />
+<tok id="50" w="Хотелось" spc=" " />
+<tok id="51" w="бы" spc=" " />
+<tok id="52" w="узнать" spc=" " />
+<tok id="53" w="из" spc=" " />
+<tok id="54" w="достоверных" spc=" " />
+<tok id="55" w="источников" spc="" />
+<tok id="56" w="," spc=" " />
+<tok id="57" w="насколько" spc=" " />
+<tok id="58" w="эти" spc=" " />
+<tok id="59" w="слухи" spc=" " />
+<tok id="60" w="оправданны" spc="" />
+<tok id="61" w="." spc=" " />
+</p>
+<p>
+<tok id="62" w="Евгений" spc="" />
+<tok id="63" w="," spc=" " />
+<tok id="64" w="Великобритания" spc="" />
+</p>
+<p>
+<hi rend="bold" >
+<tok id="65" w="Как" spc=" " />
+<tok id="66" w="«" spc="" />
+<tok id="67" w="АиФ" spc="" />
+<tok id="68" w="." spc=" " />
+<tok id="69" w="Европа" spc="" />
+<tok id="70" w="»" spc=" " />
+<tok id="71" w="разъяснили" spc=" " />
+<tok id="72" w="в" spc=" " />
+<tok id="73" w="пресс-службе" spc=" " />
+<tok id="74" w="министерства" spc=" " />
+<tok id="75" w="здравоохранения" spc=" " />
+<tok id="76" w="Великобритании" spc=" " />
+<tok id="77" w="(" spc="" />
+<tok id="78" w="NHS" spc="" />
+<tok id="79" w=")" spc="" />
+</hi>
+<tok id="80" w="," spc=" " />
+<tok id="81" w="несмотря" spc=" " />
+<tok id="82" w="на" spc=" " />
+<tok id="83" w="то" spc=" " />
+<tok id="84" w="что" spc=" " />
+<tok id="85" w="такие" spc=" " />
+<tok id="86" w="меры" spc=" " />
+<tok id="87" w="действительно" spc=" " />
+<tok id="88" w="предлагались" spc=" " />
+<tok id="89" w="на" spc=" " />
+<tok id="90" w="рассмотрение" spc="" />
+<tok id="91" w="," spc=" " />
+<tok id="92" w="пока" spc=" " />
+<tok id="93" w="в" spc=" " />
+<tok id="94" w="отношении" spc=" " />
+<tok id="95" w="курящих" spc=" " />
+<tok id="96" w="не" spc=" " />
+<tok id="97" w="будет" spc=" " />
+<tok id="98" w="предпринято" spc=" " />
+<tok id="99" w="никаких" spc=" " />
+<tok id="100" w="дискриминирующих" spc=" " />
+<tok id="101" w="шагов" spc="" />
+<tok id="102" w="." spc=" " />
+<tok id="103" w="Хотя" spc=" " />
+<tok id="104" w="клиникам" spc=" " />
+<tok id="105" w="и" spc=" " />
+<tok id="106" w="больницам" spc=" " />
+<tok id="107" w="даны" spc=" " />
+<tok id="108" w="права" spc=" " />
+<tok id="109" w="устанавливать" spc=" " />
+<tok id="110" w="собственные" spc=" " />
+<tok id="111" w="правила" spc="" />
+<tok id="112" w="." spc=" " />
+<tok id="113" w="Что" spc=" " />
+<tok id="114" w="касается" spc=" " />
+<tok id="115" w="кампании" spc=" " />
+<tok id="116" w="по" spc=" " />
+<tok id="117" w="борьбе" spc=" " />
+<tok id="118" w="с" spc=" " />
+<tok id="119" w="курением" spc=" " />
+<tok id="120" w="—" spc=" " />
+<tok id="121" w="на" spc=" " />
+<tok id="122" w="данный" spc=" " />
+<tok id="123" w="момент" spc=" " />
+<tok id="124" w="по" spc=" " />
+<tok id="125" w="всей" spc=" " />
+<tok id="126" w="Англии" spc=" " />
+<tok id="127" w="открыто" spc=" " />
+<tok id="128" w="множество" spc=" " />
+<tok id="129" w="пунктов" spc=" " />
+<tok id="130" w="помощи" spc=" " />
+<tok id="131" w="для" spc=" " />
+<tok id="132" w="желающих" spc=" " />
+<tok id="133" w="отказаться" spc=" " />
+<tok id="134" w="от" spc=" " />
+<tok id="135" w="вредной" spc=" " />
+<tok id="136" w="привычки" spc="" />
+<tok id="137" w="." spc=" " />
+<tok id="138" w="Многие" spc=" " />
+<tok id="139" w="пациенты" spc=" " />
+<tok id="140" w="не" spc=" " />
+<tok id="141" w="в" spc=" " />
+<tok id="142" w="курсе" spc="" />
+<tok id="143" w="," spc=" " />
+<tok id="144" w="что" spc=" " />
+<tok id="145" w="таблетки" spc="" />
+<tok id="146" w="," spc=" " />
+<tok id="147" w="пластыри" spc="" />
+<tok id="148" w="," spc=" " />
+<tok id="149" w="жвачка" spc=" " />
+<tok id="150" w="и" spc=" " />
+<tok id="151" w="прочие" spc=" " />
+<tok id="152" w="имеющиеся" spc=" " />
+<tok id="153" w="в" spc=" " />
+<tok id="154" w="арсенале" spc=" " />
+<tok id="155" w="«" spc="" />
+<tok id="156" w="антиникотиновые" spc="" />
+<tok id="157" w="»" spc=" " />
+<tok id="158" w="средства" spc=" " />
+<tok id="159" w="и" spc=" " />
+<tok id="160" w="курсы" spc=" " />
+<tok id="161" w="обходятся" spc=" " />
+<tok id="162" w="гораздо" spc=" " />
+<tok id="163" w="дешевле" spc="" />
+<tok id="164" w="," spc=" " />
+<tok id="165" w="если" spc=" " />
+<tok id="166" w="рецепт" spc=" " />
+<tok id="167" w="или" spc=" " />
+<tok id="168" w="направление" spc=" " />
+<tok id="169" w="выписаны" spc=" " />
+<tok id="170" w="врачом" spc="" />
+<tok id="171" w="." spc="" />
+</p>
+</body>
+</text>
+</doc>
+<doc>
+<header>
+<fileDesc>
+<titleStmt>
+<title value="Женщина-труженица или мать-ехидна?" />
+<author value="Юлия ХЕРДЕЛЬ, Ирина ПАРФЕНОВА, Любава ДЯЧЕНКО, Ирина НИПЕЛЬ" />
+<translation source_language="ru" source_title="Женщина-труженица или мать-ехидна?" translator="" date="" />
+</titleStmt>
+<publicationStmt>
+<publisher value="«АиФ Европа»" />
+<pubPlace value="" />
+<pubDate value="№ 02 (180–186) от 17 мая 2007 г. " />
+<pubURL value="http://gazeta.aif.ru/online/europe/180-186/01_01" />
+<pubNumeric value="" />
+</publicationStmt>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="ru" />
+</langUsage>
+<textDesc type="journalistique" sub_genre="Зарубежье" thema="Зарубежье" />
+<wordsNumber value="2206" />
+</profileDesc>
+</header>
+<text>
+<body>
+<h1>
+<p>
+<tok id="172" w="Женщина-труженица" spc=" " />
+<tok id="173" w="или" spc=" " />
+<tok id="174" w="мать-ехидна" spc="" />
+<tok id="175" w="?" spc="" />
+</p>
+</h1>
+<tok id="176" w="Немцы" spc=" " />
+<tok id="177" w="изобрели" spc=" " />
+<tok id="178" w="детские" spc=" " />
+<tok id="179" w="сады" spc="" />
+<tok id="180" w="," spc=" " />
+<tok id="181" w="они" spc=" " />
+<tok id="182" w="же" spc=" " />
+<tok id="183" w="их" spc=" " />
+<tok id="184" w="и" spc=" " />
+<tok id="185" w="презрели" spc="" />
+<tok id="186" w="." spc="" />
+<p>
+<tok id="187" w="МИНИСТР" spc=" " />
+<tok id="188" w="ФРГ" spc=" " />
+<tok id="189" w="по" spc=" " />
+<tok id="190" w="делам" spc=" " />
+<tok id="191" w="семьи" spc=" " />
+<tok id="192" w="Урсула" spc=" " />
+<tok id="193" w="фон" spc=" " />
+<tok id="194" w="дер" spc=" " />
+<tok id="195" w="Ляйен" spc="" />
+<tok id="196" w="," spc=" " />
+<tok id="197" w="доктор" spc=" " />
+<tok id="198" w="медицинских" spc=" " />
+<tok id="199" w="наук" spc="" />
+<tok id="200" w="," spc=" " />
+<tok id="201" w="мать" spc=" " />
+<tok id="202" w="семерых" spc=" " />
+<tok id="203" w="детей" spc="" />
+<tok id="204" w="," spc=" " />
+<tok id="205" w="выступила" spc=" " />
+<tok id="206" w="с" spc=" " />
+<tok id="207" w="планом" spc=" " />
+<tok id="208" w="утроить" spc=" " />
+<tok id="209" w="количество" spc=" " />
+<tok id="210" w="мест" spc=" " />
+<tok id="211" w="в" spc=" " />
+<tok id="212" w="яслях" spc="" />
+<tok id="213" w="." spc=" " />
+<tok id="214" w="Германия" spc=" " />
+<tok id="215" w="вздрогнула" spc=" " />
+<tok id="216" w="баллов" spc=" " />
+<tok id="217" w="на" spc=" " />
+<tok id="218" w="7" spc=" " />
+<tok id="219" w="по" spc=" " />
+<tok id="220" w="шкале" spc=" " />
+<tok id="221" w="Рихтера" spc="" />
+<tok id="222" w="." spc=" " />
+<tok id="223" w="Уже" spc=" " />
+<tok id="224" w="несколько" spc=" " />
+<tok id="225" w="недель" spc=" " />
+<tok id="226" w="страну" spc=" " />
+<tok id="227" w="продолжает" spc=" " />
+<tok id="228" w="трясти" spc="" />
+<tok id="229" w="." spc=" " />
+</p>
+<p>
+<tok id="230" w="НЕПОСВЯЩЁННОМУ" spc=" " />
+<tok id="231" w="в" spc=" " />
+<tok id="232" w="тонкости" spc=" " />
+<tok id="233" w="немецкого" spc=" " />
+<tok id="234" w="дошкольного" spc=" " />
+<tok id="235" w="воспитания" spc=" " />
+<tok id="236" w="и" spc=" " />
+<tok id="237" w="отношения" spc=" " />
+<tok id="238" w="общества" spc=" " />
+<tok id="239" w="к" spc=" " />
+<tok id="240" w="этому" spc=" " />
+<tok id="241" w="вопросу" spc=" " />
+<tok id="242" w="не" spc=" " />
+<tok id="243" w="понять" spc=" " />
+<tok id="244" w="ни" spc=" " />
+<tok id="245" w="важности" spc=" " />
+<tok id="246" w="предложений" spc=" " />
+<tok id="247" w="министра" spc="" />
+<tok id="248" w="," spc=" " />
+<tok id="249" w="ни" spc=" " />
+<tok id="250" w="бури" spc="" />
+<tok id="251" w="," spc=" " />
+<tok id="252" w="которую" spc=" " />
+<tok id="253" w="они" spc=" " />
+<tok id="254" w="вызвали" spc="" />
+<tok id="255" w="." spc=" " />
+</p>
+<p>
+<tok id="256" w="Страсти" spc=" " />
+<tok id="257" w="по" spc=" " />
+<tok id="258" w="яслям" spc=" " />
+<tok id="259" w="разгорелись" spc=" " />
+<tok id="260" w="и" spc=" " />
+<tok id="261" w="правда" spc=" " />
+<tok id="262" w="нешуточные" spc="" />
+<tok id="263" w="." spc=" " />
+<tok id="264" w="Один" spc=" " />
+<tok id="265" w="из" spc=" " />
+<tok id="266" w="католических" spc=" " />
+<tok id="267" w="епископов" spc=" " />
+<tok id="268" w="обвинил" spc=" " />
+<tok id="269" w="Урсулу" spc=" " />
+<tok id="270" w="фон" spc=" " />
+<tok id="271" w="дер" spc=" " />
+<tok id="272" w="Ляйен" spc=" " />
+<tok id="273" w="в" spc=" " />
+<tok id="274" w="том" spc="" />
+<tok id="275" w="," spc=" " />
+<tok id="276" w="что" spc=" " />
+<tok id="277" w="её" spc=" " />
+<tok id="278" w="идеи" spc=" " />
+<tok id="279" w="превращают" spc=" " />
+<tok id="280" w="женщину" spc=" " />
+<tok id="281" w="в" spc=" " />
+<tok id="282" w="машину-" spc=" " />
+<tok id="283" w="«" spc="" />
+<tok id="284" w="деторожалку" spc="" />
+<tok id="285" w="»" spc="" />
+<tok id="286" w="." spc=" " />
+<tok id="287" w="В" spc=" " />
+<tok id="288" w="плане" spc=" " />
+<tok id="289" w="развития" spc=" " />
+<tok id="290" w="системы" spc=" " />
+<tok id="291" w="заведений" spc=" " />
+<tok id="292" w="для" spc=" " />
+<tok id="293" w="детей" spc=" " />
+<tok id="294" w="до" spc=" " />
+<tok id="295" w="трёх" spc=" " />
+<tok id="296" w="лет" spc=" " />
+<tok id="297" w="усмотрели" spc=" " />
+<tok id="298" w="угрозу" spc=" " />
+<tok id="299" w="«" spc="" />
+<tok id="300" w="ГДР-изации" spc="" />
+<tok id="301" w="»" spc="" />
+<tok id="302" w="." spc=" " />
+<tok id="303" w="Ясли" spc=" " />
+<tok id="304" w="обозвали" spc=" " />
+<tok id="305" w="«" spc="" />
+<tok id="306" w="аутсорсингом" spc="" />
+<tok id="307" w="»" spc=" " />
+<tok id="308" w="и" spc=" " />
+<tok id="309" w="возмутились" spc="" />
+<tok id="310" w="," spc=" " />
+<tok id="311" w="почему" spc=" " />
+<tok id="312" w="налоги" spc=" " />
+<tok id="313" w="одних" spc=" " />
+<tok id="314" w="должны" spc=" " />
+<tok id="315" w="идти" spc=" " />
+<tok id="316" w="на" spc=" " />
+<tok id="317" w="то" spc="" />
+<tok id="318" w="," spc=" " />
+<tok id="319" w="чтобы" spc=" " />
+<tok id="320" w="позволить" spc=" " />
+<tok id="321" w="другим" spc=" " />
+<tok id="322" w="безответственным" spc=" " />
+<tok id="323" w="мамашам" spc=" " />
+<tok id="324" w="зарабатывать" spc="" />
+<tok id="325" w="." spc=" " />
+<tok id="326" w="Кардинальное" spc=" " />
+<tok id="327" w="мнение" spc=" " />
+<tok id="328" w="антиясельников" spc=" " />
+<tok id="329" w="высказано" spc=" " />
+<tok id="330" w="анонимно" spc=" " />
+<tok id="331" w="на" spc=" " />
+<tok id="332" w="одном" spc=" " />
+<tok id="333" w="из" spc=" " />
+<tok id="334" w="интернет-форумов" spc=" " />
+<tok id="335" w="так" spc="" />
+<tok id="336" w=":" spc=" " />
+<tok id="337" w="мать" spc="" />
+<tok id="338" w="," spc=" " />
+<tok id="339" w="которая" spc=" " />
+<tok id="340" w="даже" spc=" " />
+<tok id="341" w="маленького" spc=" " />
+<tok id="342" w="ребёнка" spc=" " />
+<tok id="343" w="собирается" spc=" " />
+<tok id="344" w="как" spc=" " />
+<tok id="345" w="можно" spc=" " />
+<tok id="346" w="скорее" spc=" " />
+<tok id="347" w="выдворить" spc=" " />
+<tok id="348" w="на" spc=" " />
+<tok id="349" w="«" spc="" />
+<tok id="350" w="госхранение" spc="" />
+<tok id="351" w="»" spc="" />
+<tok id="352" w="," spc=" " />
+<tok id="353" w="не" spc=" " />
+<tok id="354" w="должна" spc=" " />
+<tok id="355" w="рожать" spc=" " />
+<tok id="356" w="вообще" spc="" />
+<tok id="357" w="." spc=" " />
+<tok id="358" w="Индекс" spc=" " />
+<tok id="359" w="цитирования" spc=" " />
+<tok id="360" w="выражения" spc=" " />
+<tok id="361" w="«" spc="" />
+<tok id="362" w="мать-ехидна" spc="" />
+<tok id="363" w="»" spc=" " />
+<tok id="364" w="(" spc="" />
+<tok id="365" w="по-немецки" spc=" " />
+<tok id="366" w="в" spc=" " />
+<tok id="367" w="буквальном" spc=" " />
+<tok id="368" w="переводе" spc=" " />
+<tok id="369" w="«" spc="" />
+<tok id="370" w="мать-ворона" spc="" />
+<tok id="371" w="»" spc="" />
+<tok id="372" w=")" spc=" " />
+<tok id="373" w="превысил" spc=" " />
+<tok id="374" w="все" spc=" " />
+<tok id="375" w="санитарные" spc=" " />
+<tok id="376" w="нормы" spc="" />
+<tok id="377" w="." spc="" />
+</p>
+<h3>
+<p>
+<tok id="378" w="История" spc=" " />
+<tok id="379" w="вопроса" spc="" />
+</p>
+</h3>
+<p>
+<tok id="380" w="ВООБЩЕ-ТО" spc=" " />
+<tok id="381" w="именно" spc=" " />
+<tok id="382" w="немцы" spc=" " />
+<tok id="383" w="были" spc=" " />
+<tok id="384" w="пионерами" spc=" " />
+<tok id="385" w="дошкольного" spc=" " />
+<tok id="386" w="воспитания" spc="" />
+<tok id="387" w="." spc=" " />
+<tok id="388" w="В" spc=" " />
+<tok id="389" w="XIX" spc=" " />
+<tok id="390" w="веке" spc=" " />
+<tok id="391" w="в" spc=" " />
+<tok id="392" w="Германии" spc=" " />
+<tok id="393" w="открылись" spc=" " />
+<tok id="394" w="первые" spc=" " />
+<tok id="395" w="ясли" spc="" />
+<tok id="396" w="," spc=" " />
+<tok id="397" w="даже" spc=" " />
+<tok id="398" w="в" spc=" " />
+<tok id="399" w="Америке" spc=" " />
+<tok id="400" w="первый" spc=" " />
+<tok id="401" w="детский" spc=" " />
+<tok id="402" w="сад" spc=" " />
+<tok id="403" w="создала" spc=" " />
+<tok id="404" w="немка" spc="" />
+<tok id="405" w="," spc=" " />
+<tok id="406" w="и" spc=" " />
+<tok id="407" w="до" spc=" " />
+<tok id="408" w="сих" spc=" " />
+<tok id="409" w="пор" spc=" " />
+<tok id="410" w="в" spc=" " />
+<tok id="411" w="США" spc=" " />
+<tok id="412" w="его" spc=" " />
+<tok id="413" w="называют" spc=" " />
+<tok id="414" w="заимствованным" spc=" " />
+<tok id="415" w="словом" spc=" " />
+<tok id="416" w="«" spc="" />
+<tok id="417" w="Kindergarten" spc="" />
+<tok id="418" w="»" spc="" />
+<tok id="419" w="." spc="" />
+</p>
+<p>
+<tok id="420" w="Особенное" spc=" " />
+<tok id="421" w="распространение" spc=" " />
+<tok id="422" w="детсады" spc=" " />
+<tok id="423" w="и" spc=" " />
+<tok id="424" w="ясли" spc=" " />
+<tok id="425" w="получили" spc=" " />
+<tok id="426" w="во" spc=" " />
+<tok id="427" w="время" spc=" " />
+<tok id="428" w="и" spc=" " />
+<tok id="429" w="после" spc=" " />
+<tok id="430" w="Первой" spc=" " />
+<tok id="431" w="мировой" spc=" " />
+<tok id="432" w="войны" spc=" " />
+<tok id="433" w="—" spc=" " />
+<tok id="434" w="женщинам" spc=" " />
+<tok id="435" w="нужно" spc=" " />
+<tok id="436" w="было" spc=" " />
+<tok id="437" w="работать" spc="" />
+<tok id="438" w="." spc=" " />
+<tok id="439" w="Однако" spc=" " />
+<tok id="440" w="позже" spc="" />
+<tok id="441" w="," spc=" " />
+<tok id="442" w="в" spc=" " />
+<tok id="443" w="кризис" spc=" " />
+<tok id="444" w="20" spc="" />
+<tok id="445" w="-х" spc=" " />
+<tok id="446" w="годов" spc="" />
+<tok id="447" w="," spc=" " />
+<tok id="448" w="они" spc=" " />
+<tok id="449" w="почти" spc=" " />
+<tok id="450" w="все" spc=" " />
+<tok id="451" w="закрылись" spc="" />
+<tok id="452" w="," spc=" " />
+<tok id="453" w="не" spc=" " />
+<tok id="454" w="было" spc=" " />
+<tok id="455" w="ни" spc=" " />
+<tok id="456" w="средств" spc=" " />
+<tok id="457" w="для" spc=" " />
+<tok id="458" w="финансирования" spc="" />
+<tok id="459" w="," spc=" " />
+<tok id="460" w="ни" spc=" " />
+<tok id="461" w="необходимости" spc=" " />
+<tok id="462" w="—" spc=" " />
+<tok id="463" w="работы" spc=" " />
+<tok id="464" w="не" spc=" " />
+<tok id="465" w="хватало" spc=" " />
+<tok id="466" w="даже" spc=" " />
+<tok id="467" w="для" spc=" " />
+<tok id="468" w="мужчин" spc="" />
+<tok id="469" w="." spc="" />
+</p>
+<h3>
+<p>
+<tok id="470" w="Война" spc=" " />
+<tok id="471" w="миров" spc="" />
+</p>
+</h3>
+<p>
+<tok id="472" w="ПОСЛЕ" spc=" " />
+<tok id="473" w="Второй" spc=" " />
+<tok id="474" w="мировой" spc=" " />
+<tok id="475" w="войны" spc=" " />
+<tok id="476" w="в" spc=" " />
+<tok id="477" w="ГДР" spc=" " />
+<tok id="478" w="была" spc=" " />
+<tok id="479" w="создана" spc=" " />
+<tok id="480" w="повсеместная" spc=" " />
+<tok id="481" w="сеть" spc=" " />
+<tok id="482" w="дошкольных" spc=" " />
+<tok id="483" w="учреждений" spc="" />
+<tok id="484" w="," spc=" " />
+<tok id="485" w="молодым" spc=" " />
+<tok id="486" w="матерям" spc=" " />
+<tok id="487" w="к" spc=" " />
+<tok id="488" w="станку" spc=" " />
+<tok id="489" w="—" spc=" " />
+<tok id="490" w="не" spc=" " />
+<tok id="491" w="возбранялось" spc="" />
+<tok id="492" w="," spc=" " />
+<tok id="493" w="а" spc=" " />
+<tok id="494" w="очень" spc=" " />
+<tok id="495" w="даже" spc=" " />
+<tok id="496" w="соответствовало" spc="" />
+<tok id="497" w="." spc=" " />
+<tok id="498" w="Опять" spc=" " />
+<tok id="499" w="же" spc=" " />
+<tok id="500" w="—" spc=" " />
+<tok id="501" w="равноправие" spc="" />
+<tok id="502" w="." spc=" " />
+<tok id="503" w="Ну" spc=" " />
+<tok id="504" w="и" spc="" />
+<tok id="505" w="," spc=" " />
+<tok id="506" w="конечно" spc="" />
+<tok id="507" w="," spc=" " />
+<tok id="508" w="ясли-сады" spc=" " />
+<tok id="509" w="рассматривались" spc=" " />
+<tok id="510" w="как" spc=" " />
+<tok id="511" w="часть" spc=" " />
+<tok id="512" w="системы" spc=" " />
+<tok id="513" w="образования" spc=" " />
+<tok id="514" w="и" spc=" " />
+<tok id="515" w="коллективистского" spc=" " />
+<tok id="516" w="воспитания" spc="" />
+<tok id="517" w="." spc=" " />
+<tok id="518" w="В" spc=" " />
+<tok id="519" w="Западной" spc=" " />
+<tok id="520" w="Германии" spc="  " />
+<tok id="521" w="ровно" spc=" " />
+<tok id="522" w="наоборот" spc=" " />
+<tok id="523" w="пропагандировался" spc=" " />
+<tok id="524" w="идеал" spc=" " />
+<tok id="525" w="буржуазной" spc=" " />
+<tok id="526" w="семьи" spc=" " />
+<tok id="527" w="с" spc=" " />
+<tok id="528" w="мамой-домохозяйкой" spc="" />
+<tok id="529" w="." spc=" " />
+<tok id="530" w="Более" spc=" " />
+<tok id="531" w="того" spc="" />
+<tok id="532" w="," spc=" " />
+<tok id="533" w="при" spc=" " />
+<tok id="534" w="канцлере" spc=" " />
+<tok id="535" w="Аденауэре" spc=" " />
+<tok id="536" w="в" spc=" " />
+<tok id="537" w="первые" spc=" " />
+<tok id="538" w="десятилетия" spc=" " />
+<tok id="539" w="после" spc=" " />
+<tok id="540" w="войны" spc=" " />
+<tok id="541" w="замужняя" spc=" " />
+<tok id="542" w="женщина" spc=" " />
+<tok id="543" w="могла" spc=" " />
+<tok id="544" w="устроиться" spc=" " />
+<tok id="545" w="на" spc=" " />
+<tok id="546" w="работу" spc=" " />
+<tok id="547" w="только" spc=" " />
+<tok id="548" w="с" spc=" " />
+<tok id="549" w="согласия" spc=" " />
+<tok id="550" w="мужа" spc="" />
+<tok id="551" w="." spc=" " />
+<tok id="552" w="Небольшое" spc=" " />
+<tok id="553" w="количество" spc=" " />
+<tok id="554" w="яслей" spc=" " />
+<tok id="555" w="работало" spc=" " />
+<tok id="556" w="только" spc=" " />
+<tok id="557" w="для" spc=" " />
+<tok id="558" w="матерей" spc=" " />
+<tok id="559" w="в" spc=" " />
+<tok id="560" w="особо" spc=" " />
+<tok id="561" w="тяжёлой" spc=" " />
+<tok id="562" w="ситуации" spc="" />
+<tok id="563" w="." spc=" " />
+</p>
+<p>
+<tok id="564" w="Малыш" spc="" />
+<tok id="565" w="," spc=" " />
+<tok id="566" w="отданный" spc=" " />
+<tok id="567" w="в" spc=" " />
+<tok id="568" w="ясли" spc="" />
+<tok id="569" w="," spc=" " />
+<tok id="570" w="—" spc=" " />
+<tok id="571" w="сигнал" spc=" " />
+<tok id="572" w="неблагополучия" spc=" " />
+<tok id="573" w="в" spc=" " />
+<tok id="574" w="семье" spc="" />
+<tok id="575" w="," spc=" " />
+<tok id="576" w="показатель" spc=" " />
+<tok id="577" w="низкого" spc=" " />
+<tok id="578" w="социального" spc=" " />
+<tok id="579" w="уровня" spc=" " />
+<tok id="580" w="и" spc=" " />
+<tok id="581" w="достатка" spc=" " />
+<tok id="582" w="—" spc=" " />
+<tok id="583" w="это" spc=" " />
+<tok id="584" w="клише" spc=" " />
+<tok id="585" w="живо" spc=" " />
+<tok id="586" w="и" spc=" " />
+<tok id="587" w="по" spc=" " />
+<tok id="588" w="сей" spc=" " />
+<tok id="589" w="день" spc="" />
+<tok id="590" w="." spc=" " />
+<tok id="591" w="А" spc=" " />
+<tok id="592" w="для" spc=" " />
+<tok id="593" w="мам" spc="" />
+<tok id="594" w="," spc=" " />
+<tok id="595" w="которые" spc="" />
+<tok id="596" w="," spc=" " />
+<tok id="597" w="вместо" spc=" " />
+<tok id="598" w="того" spc=" " />
+<tok id="599" w="чтобы" spc=" " />
+<tok id="600" w="сидеть" spc=" " />
+<tok id="601" w="дома" spc=" " />
+<tok id="602" w="и" spc=" " />
+<tok id="603" w="воспитывать" spc=" " />
+<tok id="604" w="порядочных" spc=" " />
+<tok id="605" w="граждан" spc="" />
+<tok id="606" w="," spc=" " />
+<tok id="607" w="отдали" spc=" " />
+<tok id="608" w="детей" spc=" " />
+<tok id="609" w="в" spc=" " />
+<tok id="610" w="ясли-сад" spc=" " />
+<tok id="611" w="и" spc=" " />
+<tok id="612" w="пошли" spc=" " />
+<tok id="613" w="работать" spc="" />
+<tok id="614" w="," spc=" " />
+<tok id="615" w="имеется" spc=" " />
+<tok id="616" w="специальная" spc=" " />
+<tok id="617" w="«" spc="" />
+<tok id="618" w="бирка" spc="" />
+<tok id="619" w="»" spc=" " />
+<tok id="620" w="—" spc=" " />
+<tok id="621" w="Rabenmutter" spc="" />
+<tok id="622" w="." spc=" " />
+<tok id="623" w="По-нашему" spc=" " />
+<tok id="624" w="—" spc=" " />
+<tok id="625" w="мать-кукушка" spc="" />
+<tok id="626" w="," spc=" " />
+<tok id="627" w="она" spc=" " />
+<tok id="628" w="же" spc=" " />
+<tok id="629" w="ехидна" spc="" />
+<tok id="630" w="." spc=" " />
+</p>
+<p>
+<tok id="631" w="Конституция" spc=" " />
+<tok id="632" w="ФРГ" spc=" " />
+<tok id="633" w="гарантирует" spc=" " />
+<tok id="634" w="родителям" spc=" " />
+<tok id="635" w="неограниченное" spc=" " />
+<tok id="636" w="право" spc=" " />
+<tok id="637" w="на" spc=" " />
+<tok id="638" w="воспитание" spc=" " />
+<tok id="639" w="детей" spc="" />
+<tok id="640" w="," spc=" " />
+<tok id="641" w="которое" spc=" " />
+<tok id="642" w="отнесено" spc=" " />
+<tok id="643" w="к" spc=" " />
+<tok id="644" w="основополагающим" spc=" " />
+<tok id="645" w="—" spc=" " />
+<tok id="646" w="как" spc=" " />
+<tok id="647" w="право" spc=" " />
+<tok id="648" w="на" spc=" " />
+<tok id="649" w="жизнь" spc=" " />
+<tok id="650" w="или" spc=" " />
+<tok id="651" w="право" spc=" " />
+<tok id="652" w="частной" spc=" " />
+<tok id="653" w="собственности" spc="" />
+<tok id="654" w="." spc="" />
+</p>
+<p>
+<tok id="655" w="Поэтому" spc=" " />
+<tok id="656" w="в" spc=" " />
+<tok id="657" w="дошкольных" spc=" " />
+<tok id="658" w="заведениях" spc=" " />
+<tok id="659" w="в" spc=" " />
+<tok id="660" w="Германии" spc=" " />
+<tok id="661" w="занимаются" spc="" />
+<tok id="662" w="," spc=" " />
+<tok id="663" w="упаси" spc=" " />
+<tok id="664" w="господи" spc="" />
+<tok id="665" w="," spc=" " />
+<tok id="666" w="не" spc="  " />
+<tok id="667" w="воспитанием" spc=" " />
+<tok id="668" w="—" spc=" " />
+<tok id="669" w="нет" spc="" />
+<tok id="670" w="," spc=" " />
+<tok id="671" w="это" spc=" " />
+<tok id="672" w="называется" spc=" " />
+<tok id="673" w="«" spc="" />
+<tok id="674" w="присмотром" spc=" " />
+<tok id="675" w="за" spc=" " />
+<tok id="676" w="детьми" spc="" />
+<tok id="677" w="»" spc="" />
+<tok id="678" w="." spc=" " />
+<tok id="679" w="Максимальная" spc=" " />
+<tok id="680" w="степень" spc=" " />
+<tok id="681" w="вмешательства" spc=" " />
+<tok id="682" w="—" spc=" " />
+<tok id="683" w="«" spc="" />
+<tok id="684" w="поддержка" spc="" />
+<tok id="685" w="»" spc=" " />
+<tok id="686" w="родителей" spc=" " />
+<tok id="687" w="и" spc=" " />
+<tok id="688" w="детей" spc="" />
+<tok id="689" w="." spc="" />
+</p>
+<p>
+<tok id="690" w="После" spc=" " />
+<tok id="691" w="воссоединения" spc=" " />
+<tok id="692" w="Германии" spc=" " />
+<tok id="693" w="количество" spc=" " />
+<tok id="694" w="ясельных" spc=" " />
+<tok id="695" w="мест" spc=" " />
+<tok id="696" w="в" spc=" " />
+<tok id="697" w="бывшей" spc=" " />
+<tok id="698" w="ГДР" spc=" " />
+<tok id="699" w="сократилось" spc=" " />
+<tok id="700" w="почти" spc=" " />
+<tok id="701" w="в" spc=" " />
+<tok id="702" w="три" spc=" " />
+<tok id="703" w="раза" spc="" />
+<tok id="704" w="." spc=" " />
+<tok id="705" w="В" spc=" " />
+<tok id="706" w="западных" spc=" " />
+<tok id="707" w="землях" spc=" " />
+<tok id="708" w="несколько" spc=" " />
+<tok id="709" w="выросло" spc="" />
+<tok id="710" w=":" spc=" " />
+<tok id="711" w="если" spc=" " />
+<tok id="712" w="в" spc=" " />
+<tok id="713" w="1990" spc=" " />
+<tok id="714" w="году" spc=" " />
+<tok id="715" w="на" spc=" " />
+<tok id="716" w="100" spc=" " />
+<tok id="717" w="малышей" spc=" " />
+<tok id="718" w="до" spc=" " />
+<tok id="719" w="трёх" spc=" " />
+<tok id="720" w="лет" spc=" " />
+<tok id="721" w="было" spc=" " />
+<tok id="722" w="1,1" spc=" " />
+<tok id="723" w="места" spc=" " />
+<tok id="724" w="в" spc=" " />
+<tok id="725" w="яслях" spc="" />
+<tok id="726" w="," spc=" " />
+<tok id="727" w="то" spc=" " />
+<tok id="728" w="к" spc=" " />
+<tok id="729" w="2002" spc=" " />
+<tok id="730" w="году" spc=" " />
+<tok id="731" w="—" spc=" " />
+<tok id="732" w="«" spc="" />
+<tok id="733" w="целых" spc="" />
+<tok id="734" w="»" spc=" " />
+<tok id="735" w="2,4" spc="" />
+<tok id="736" w="." spc=" " />
+</p>
+<p>
+<tok id="737" w="В" spc=" " />
+<tok id="738" w="Германии" spc=" " />
+<tok id="739" w="несколько" spc=" " />
+<tok id="740" w="типов" spc=" " />
+<tok id="741" w="детских" spc=" " />
+<tok id="742" w="учреждений" spc="" />
+<tok id="743" w="." spc=" " />
+<tok id="744" w="Для" spc=" " />
+<tok id="745" w="детей" spc=" " />
+<tok id="746" w="до" spc=" " />
+<tok id="747" w="3" spc=" " />
+<tok id="748" w="лет" spc=" " />
+<tok id="749" w="(" spc="" />
+<tok id="750" w="иногда" spc=" " />
+<tok id="751" w="с" spc=" " />
+<tok id="752" w="разделением" spc=" " />
+<tok id="753" w="на" spc=" " />
+<tok id="754" w="совсем" spc=" " />
+<tok id="755" w="маленьких" spc="" />
+<tok id="756" w="," spc=" " />
+<tok id="757" w="ползающих" spc=" " />
+<tok id="758" w="и" spc=" " />
+<tok id="759" w="ходячих" spc="" />
+<tok id="760" w=")" spc=" " />
+<tok id="761" w="—" spc=" " />
+<tok id="762" w="это" spc=" " />
+<tok id="763" w="Krippe" spc="" />
+<tok id="764" w="," spc=" " />
+<tok id="765" w="ясли" spc="" />
+<tok id="766" w="." spc=" " />
+<tok id="767" w="В" spc=" " />
+<tok id="768" w="них" spc="" />
+<tok id="769" w="," spc=" " />
+<tok id="770" w="согласно" spc=" " />
+<tok id="771" w="Евангелию" spc="" />
+<tok id="772" w="," spc=" " />
+<tok id="773" w="лежал" spc=" " />
+<tok id="774" w="маленький" spc=" " />
+<tok id="775" w="Христос" spc="" />
+<tok id="776" w="," spc=" " />
+<tok id="777" w="а" spc=" " />
+<tok id="778" w="изображение" spc=" " />
+<tok id="779" w="окружённого" spc=" " />
+<tok id="780" w="заботой" spc=" " />
+<tok id="781" w="младенца" spc=" " />
+<tok id="782" w="в" spc=" " />
+<tok id="783" w="хлеву" spc=" " />
+<tok id="784" w="—" spc=" " />
+<tok id="785" w="любимый" spc=" " />
+<tok id="786" w="рождественский" spc=" " />
+<tok id="787" w="мотив" spc=" " />
+<tok id="788" w="сентиментальных" spc=" " />
+<tok id="789" w="немцев" spc="" />
+<tok id="790" w="." spc=" " />
+<tok id="791" w="Именно" spc=" " />
+<tok id="792" w="в" spc=" " />
+<tok id="793" w="буквальном" spc=" " />
+<tok id="794" w="переводе" spc=" " />
+<tok id="795" w="с" spc=" " />
+<tok id="796" w="немецкого" spc=" " />
+<tok id="797" w="слово" spc=" " />
+<tok id="798" w="«" spc="" />
+<tok id="799" w="ясли" spc="" />
+<tok id="800" w="»" spc=" " />
+<tok id="801" w="стало" spc=" " />
+<tok id="802" w="и" spc=" " />
+<tok id="803" w="по-русски" spc=" " />
+<tok id="804" w="употребляться" spc=" " />
+<tok id="805" w="в" spc=" " />
+<tok id="806" w="значении" spc=" " />
+<tok id="807" w="детского" spc=" " />
+<tok id="808" w="учреждения" spc=" " />
+<tok id="809" w="и" spc=" " />
+<tok id="810" w="практически" spc=" " />
+<tok id="811" w="потеряло" spc=" " />
+<tok id="812" w="смысл" spc=" " />
+<tok id="813" w="кормушки" spc=" " />
+<tok id="814" w="для" spc=" " />
+<tok id="815" w="скота" spc="" />
+<tok id="816" w="." spc=" " />
+</p>
+<p>
+<tok id="817" w="Для" spc=" " />
+<tok id="818" w="детей" spc=" " />
+<tok id="819" w="от" spc=" " />
+<tok id="820" w="3" spc=" " />
+<tok id="821" w="до" spc=" " />
+<tok id="822" w="6" spc=" " />
+<tok id="823" w="—" spc=" " />
+<tok id="824" w="Kindergarten" spc="" />
+<tok id="825" w="," spc=" " />
+<tok id="826" w="детский" spc=" " />
+<tok id="827" w="сад" spc="" />
+<tok id="828" w="." spc=" " />
+<tok id="829" w="Для" spc=" " />
+<tok id="830" w="тех" spc="" />
+<tok id="831" w="," spc=" " />
+<tok id="832" w="кто" spc=" " />
+<tok id="833" w="старше" spc=" " />
+<tok id="834" w="6" spc="" />
+<tok id="835" w="," spc=" " />
+<tok id="836" w="то" spc=" " />
+<tok id="837" w="есть" spc=" " />
+<tok id="838" w="школьников" spc="" />
+<tok id="839" w="," spc=" " />
+<tok id="840" w="—" spc=" " />
+<tok id="841" w="Hort" spc="" />
+<tok id="842" w="," spc=" " />
+<tok id="843" w="подобие" spc=" " />
+<tok id="844" w="нашей" spc=" " />
+<tok id="845" w="«" spc="" />
+<tok id="846" w="продлёнки" spc="" />
+<tok id="847" w="»" spc="" />
+<tok id="848" w="," spc=" " />
+<tok id="849" w="только" spc=" " />
+<tok id="850" w="не" spc=" " />
+<tok id="851" w="при" spc=" " />
+<tok id="852" w="школе" spc="" />
+<tok id="853" w="," spc=" " />
+<tok id="854" w="а" spc=" " />
+<tok id="855" w="отдельно" spc="" />
+<tok id="856" w="." spc=" " />
+</p>
+<p>
+<tok id="857" w="С" spc=" " />
+<tok id="858" w="1996" spc=" " />
+<tok id="859" w="года" spc=" " />
+<tok id="860" w="немецкий" spc=" " />
+<tok id="861" w="закон" spc=" " />
+<tok id="862" w="о" spc=" " />
+<tok id="863" w="защите" spc=" " />
+<tok id="864" w="детей" spc=" " />
+<tok id="865" w="и" spc=" " />
+<tok id="866" w="юношества" spc=" " />
+<tok id="867" w="зафиксировал" spc=" " />
+<tok id="868" w="право" spc=" " />
+<tok id="869" w="каждого" spc=" " />
+<tok id="870" w="ребёнка" spc=" " />
+<tok id="871" w="с" spc=" " />
+<tok id="872" w="полных" spc=" " />
+<tok id="873" w="трёх" spc=" " />
+<tok id="874" w="лет" spc=" " />
+<tok id="875" w="и" spc=" " />
+<tok id="876" w="до" spc=" " />
+<tok id="877" w="школьного" spc=" " />
+<tok id="878" w="возраста" spc=" " />
+<tok id="879" w="на" spc=" " />
+<tok id="880" w="место" spc=" " />
+<tok id="881" w="в" spc=" " />
+<tok id="882" w="детском" spc=" " />
+<tok id="883" w="саду" spc="" />
+<tok id="884" w="." spc=" " />
+<tok id="885" w="Однако" spc=" " />
+<tok id="886" w="не" spc=" " />
+<tok id="887" w="всё" spc=" " />
+<tok id="888" w="так" spc=" " />
+<tok id="889" w="просто" spc="" />
+<tok id="890" w="." spc=" " />
+<tok id="891" w="Во-первых" spc="" />
+<tok id="892" w="," spc=" " />
+<tok id="893" w="под" spc=" " />
+<tok id="894" w="«" spc="" />
+<tok id="895" w="местом" spc="" />
+<tok id="896" w="»" spc=" " />
+<tok id="897" w="понимается" spc=" " />
+<tok id="898" w="пять" spc=" " />
+<tok id="899" w="дней" spc=" " />
+<tok id="900" w="в" spc=" " />
+<tok id="901" w="неделю" spc=" " />
+<tok id="902" w="по" spc=" " />
+<tok id="903" w="4" spc=" " />
+<tok id="904" w="часа" spc="" />
+<tok id="905" w="," spc=" " />
+<tok id="906" w="обычно" spc=" " />
+<tok id="907" w="до" spc=" " />
+<tok id="908" w="обеда" spc="" />
+<tok id="909" w="." spc=" " />
+<tok id="910" w="Право" spc=" " />
+<tok id="911" w="на" spc=" " />
+<tok id="912" w="полный" spc=" " />
+<tok id="913" w="день" spc="" />
+<tok id="914" w="," spc=" " />
+<tok id="915" w="а" spc=" " />
+<tok id="916" w="также" spc=" " />
+<tok id="917" w="ясли" spc=" " />
+<tok id="918" w="для" spc=" " />
+<tok id="919" w="детей" spc=" " />
+<tok id="920" w="до" spc=" " />
+<tok id="921" w="3" spc=" " />
+<tok id="922" w="лет" spc=" " />
+<tok id="923" w="и" spc=" " />
+<tok id="924" w="«" spc="" />
+<tok id="925" w="продлёнка" spc="" />
+<tok id="926" w="»" spc=" " />
+<tok id="927" w="для" spc=" " />
+<tok id="928" w="школьников" spc=" " />
+<tok id="929" w="законом" spc=" " />
+<tok id="930" w="не" spc=" " />
+<tok id="931" w="гарантированы" spc="" />
+<tok id="932" w="." spc=" " />
+<tok id="933" w="Во-вторых" spc="" />
+<tok id="934" w="," spc="  " />
+<tok id="935" w="в" spc=" " />
+<tok id="936" w="законодательстве" spc=" " />
+<tok id="937" w="федеральных" spc=" " />
+<tok id="938" w="земель" spc=" " />
+<tok id="939" w="обычно" spc=" " />
+<tok id="940" w="оговорены" spc=" " />
+<tok id="941" w="дополнительные" spc=" " />
+<tok id="942" w="условия" spc="" />
+<tok id="943" w="," spc=" " />
+<tok id="944" w="чаще" spc=" " />
+<tok id="945" w="всего" spc=" " />
+<tok id="946" w="место" spc=" " />
+<tok id="947" w="предоставляется" spc="" />
+<tok id="948" w="," spc=" " />
+<tok id="949" w="только" spc=" " />
+<tok id="950" w="если" spc=" " />
+<tok id="951" w="оба" spc=" " />
+<tok id="952" w="родителя" spc=" " />
+<tok id="953" w="работают" spc="" />
+<tok id="954" w="," spc=" " />
+<tok id="955" w="или" spc=" " />
+<tok id="956" w="работающей" spc=" " />
+<tok id="957" w="матери-одиночке" spc="" />
+<tok id="958" w="." spc=" " />
+<tok id="959" w="На" spc=" " />
+<tok id="960" w="практике" spc=" " />
+<tok id="961" w="это" spc=" " />
+<tok id="962" w="приводит" spc=" " />
+<tok id="963" w="к" spc=" " />
+<tok id="964" w="замкнутому" spc=" " />
+<tok id="965" w="кругу" spc=" " />
+<tok id="966" w="—" spc=" " />
+<tok id="967" w="не" spc=" " />
+<tok id="968" w="устроиться" spc=" " />
+<tok id="969" w="на" spc=" " />
+<tok id="970" w="работу" spc="" />
+<tok id="971" w="," spc=" " />
+<tok id="972" w="потому" spc=" " />
+<tok id="973" w="что" spc=" " />
+<tok id="974" w="ребёнка" spc=" " />
+<tok id="975" w="оставить" spc=" " />
+<tok id="976" w="не" spc=" " />
+<tok id="977" w="с" spc=" " />
+<tok id="978" w="кем" spc="" />
+<tok id="979" w="," spc=" " />
+<tok id="980" w="а" spc=" " />
+<tok id="981" w="в" spc=" " />
+<tok id="982" w="садик" spc=" " />
+<tok id="983" w="не" spc=" " />
+<tok id="984" w="берут" spc="" />
+<tok id="985" w="," spc=" " />
+<tok id="986" w="потому" spc=" " />
+<tok id="987" w="что" spc=" " />
+<tok id="988" w="«" spc="" />
+<tok id="989" w="так" spc=" " />
+<tok id="990" w="вы" spc=" " />
+<tok id="991" w="ж" spc=" " />
+<tok id="992" w="не" spc=" " />
+<tok id="993" w="работаете" spc="" />
+<tok id="994" w="," spc=" " />
+<tok id="995" w="вот" spc=" " />
+<tok id="996" w="и" spc=" " />
+<tok id="997" w="сидите" spc=" " />
+<tok id="998" w="с" spc=" " />
+<tok id="999" w="ним" spc=" " />
+<tok id="1000" w="дома" spc="" />
+<tok id="1001" w="»" spc="" />
+<tok id="1002" w="." spc=" " />
+</p>
+<p>
+<tok id="1003" w="Обычно" spc=" " />
+<tok id="1004" w="большая" spc=" " />
+<tok id="1005" w="часть" spc=" " />
+<tok id="1006" w="расходов" spc=" " />
+<tok id="1007" w="дошкольных" spc=" " />
+<tok id="1008" w="учреждений" spc=" " />
+<tok id="1009" w="оплачивается" spc=" " />
+<tok id="1010" w="из" spc=" " />
+<tok id="1011" w="муниципальных" spc=" " />
+<tok id="1012" w="и" spc=" " />
+<tok id="1013" w="земельных" spc=" " />
+<tok id="1014" w="бюджетов" spc="" />
+<tok id="1015" w="." spc=" " />
+<tok id="1016" w="Остальное" spc=" " />
+<tok id="1017" w="—" spc=" " />
+<tok id="1018" w="благотворители" spc=" " />
+<tok id="1019" w="и" spc=" " />
+<tok id="1020" w="родители" spc="" />
+<tok id="1021" w="." spc=" " />
+<tok id="1022" w="Плата" spc=" " />
+<tok id="1023" w="за" spc=" " />
+<tok id="1024" w="садик" spc=" " />
+<tok id="1025" w="разнится" spc=" " />
+<tok id="1026" w="в" spc=" " />
+<tok id="1027" w="зависимости" spc=" " />
+<tok id="1028" w="от" spc=" " />
+<tok id="1029" w="дохода" spc=" " />
+<tok id="1030" w="семьи" spc=" " />
+<tok id="1031" w="или" spc=" " />
+<tok id="1032" w="количества" spc=" " />
+<tok id="1033" w="детей" spc="" />
+<tok id="1034" w="." spc=" " />
+<tok id="1035" w="Для" spc=" " />
+<tok id="1036" w="самых" spc=" " />
+<tok id="1037" w="малообеспеченных" spc=" " />
+<tok id="1038" w="—" spc=" " />
+<tok id="1039" w="нередко" spc=" " />
+<tok id="1040" w="и" spc=" " />
+<tok id="1041" w="вовсе" spc=" " />
+<tok id="1042" w="бесплатно" spc="" />
+<tok id="1043" w="," spc=" " />
+<tok id="1044" w="максимальная" spc=" " />
+<tok id="1045" w="ставка" spc=" " />
+<tok id="1046" w="для" spc=" " />
+<tok id="1047" w="хорошо" spc=" " />
+<tok id="1048" w="зарабатывающих" spc=" " />
+<tok id="1049" w="родителей" spc=" " />
+<tok id="1050" w="—" spc=" " />
+<tok id="1051" w="около" spc=" " />
+<tok id="1052" w="300" spc=" " />
+<tok id="1053" w="евро" spc=" " />
+<tok id="1054" w="в" spc=" " />
+<tok id="1055" w="месяц" spc="" />
+<tok id="1056" w="." spc=" " />
+<tok id="1057" w="Речь" spc=" " />
+<tok id="1058" w="только" spc=" " />
+<tok id="1059" w="о" spc=" " />
+<tok id="1060" w="«" spc="" />
+<tok id="1061" w="нормальных" spc="" />
+<tok id="1062" w="»" spc=" " />
+<tok id="1063" w="садиках" spc="" />
+<tok id="1064" w="," spc=" " />
+<tok id="1065" w="не" spc=" " />
+<tok id="1066" w="о" spc=" " />
+<tok id="1067" w="частных" spc=" " />
+<tok id="1068" w="заведениях" spc=" " />
+<tok id="1069" w="с" spc=" " />
+<tok id="1070" w="музыкой-иностранным-йогой-балетом" spc="" />
+<tok id="1071" w="." spc="" />
+</p>
+<p>
+<tok id="1072" w="Записываться" spc=" " />
+<tok id="1073" w="в" spc=" " />
+<tok id="1074" w="детсад" spc=" " />
+<tok id="1075" w="нужно" spc=" " />
+<tok id="1076" w="заранее" spc="" />
+<tok id="1077" w="." spc=" " />
+<tok id="1078" w="И" spc=" " />
+<tok id="1079" w="если" spc=" " />
+<tok id="1080" w="родители" spc=" " />
+<tok id="1081" w="хотят" spc=" " />
+<tok id="1082" w="не" spc=" " />
+<tok id="1083" w="какой-нибудь" spc="" />
+<tok id="1084" w="," spc=" " />
+<tok id="1085" w="а" spc=" " />
+<tok id="1086" w="ближайший" spc=" " />
+<tok id="1087" w="или" spc=" " />
+<tok id="1088" w="лучший" spc=" " />
+<tok id="1089" w="садик" spc="" />
+<tok id="1090" w="," spc=" " />
+<tok id="1091" w="ожидание" spc=" " />
+<tok id="1092" w="может" spc=" " />
+<tok id="1093" w="длиться" spc=" " />
+<tok id="1094" w="даже" spc=" " />
+<tok id="1095" w="год" spc=" " />
+<tok id="1096" w="и" spc=" " />
+<tok id="1097" w="больше" spc="" />
+<tok id="1098" w="." spc=" " />
+<tok id="1099" w="Ещё" spc=" " />
+<tok id="1100" w="хуже" spc=" " />
+<tok id="1101" w="обстоит" spc=" " />
+<tok id="1102" w="дело" spc=" " />
+<tok id="1103" w="с" spc=" " />
+<tok id="1104" w="яслями" spc="" />
+<tok id="1105" w="." spc=" " />
+<tok id="1106" w="Например" spc="" />
+<tok id="1107" w="," spc=" " />
+<tok id="1108" w="в" spc=" " />
+<tok id="1109" w="Мюнхене" spc=" " />
+<tok id="1110" w="места" spc=" " />
+<tok id="1111" w="есть" spc=" " />
+<tok id="1112" w="для" spc=" " />
+<tok id="1113" w="10" spc="" />
+<tok id="1114" w="%" spc=" " />
+<tok id="1115" w="малышей" spc="" />
+<tok id="1116" w="," spc=" " />
+<tok id="1117" w="ещё" spc=" " />
+<tok id="1118" w="столько" spc=" " />
+<tok id="1119" w="же" spc=" " />
+<tok id="1120" w="—" spc=" " />
+<tok id="1121" w="в" spc=" " />
+<tok id="1122" w="очереди" spc="" />
+<tok id="1123" w="." spc=" " />
+<tok id="1124" w="Два" spc=" " />
+<tok id="1125" w="человека" spc=" " />
+<tok id="1126" w="на" spc=" " />
+<tok id="1127" w="место" spc=" " />
+<tok id="1128" w="—" spc=" " />
+<tok id="1129" w="во" spc=" " />
+<tok id="1130" w="многие" spc=" " />
+<tok id="1131" w="вузы" spc=" " />
+<tok id="1132" w="конкурс" spc=" " />
+<tok id="1133" w="меньше" spc="" />
+<tok id="1134" w="." spc=" " />
+<tok id="1135" w="Приём" spc=" " />
+<tok id="1136" w="через" spc=" " />
+<tok id="1137" w="полгода" spc=" " />
+<tok id="1138" w="после" spc=" " />
+<tok id="1139" w="подачи" spc=" " />
+<tok id="1140" w="заявления" spc=" " />
+<tok id="1141" w="—" spc=" " />
+<tok id="1142" w="считайте" spc="" />
+<tok id="1143" w="," spc=" " />
+<tok id="1144" w="повезло" spc="" />
+<tok id="1145" w="." spc=" " />
+<tok id="1146" w="Обычно" spc=" " />
+<tok id="1147" w="заранее" spc=" " />
+<tok id="1148" w="предупреждают" spc=" " />
+<tok id="1149" w="—" spc=" " />
+<tok id="1150" w="минимум" spc=" " />
+<tok id="1151" w="год" spc="" />
+<tok id="1152" w="." spc=" " />
+<tok id="1153" w="То" spc=" " />
+<tok id="1154" w="есть" spc=" " />
+<tok id="1155" w="получается" spc=" " />
+<tok id="1156" w="абсурд" spc=" " />
+<tok id="1157" w="—" spc=" " />
+<tok id="1158" w="чтобы" spc=" " />
+<tok id="1159" w="ребёнка" spc=" " />
+<tok id="1160" w="отдать" spc=" " />
+<tok id="1161" w="в" spc=" " />
+<tok id="1162" w="ясли" spc="" />
+<tok id="1163" w="," spc=" " />
+<tok id="1164" w="записываться" spc=" " />
+<tok id="1165" w="надо" spc=" " />
+<tok id="1166" w="ещё" spc=" " />
+<tok id="1167" w="до" spc=" " />
+<tok id="1168" w="зачатия" spc="" />
+<tok id="1169" w="." spc=" " />
+</p>
+<h2>
+<p>
+<tok id="1170" w="Дети" spc=" " />
+<tok id="1171" w="в" spc=" " />
+<tok id="1172" w="складчину" spc="" />
+</p>
+</h2>
+<tok id="1173" w="Родительская" spc=" " />
+<tok id="1174" w="инициатива" spc="" />
+<tok id="1175" w=":" spc=" " />
+<tok id="1176" w="сидим" spc=" " />
+<tok id="1177" w="с" spc=" " />
+<tok id="1178" w="детьми" spc=" " />
+<tok id="1179" w="по" spc=" " />
+<tok id="1180" w="очереди" spc="" />
+<tok id="1181" w="." spc=" " />
+<tok id="1182" w="Пока" spc=" " />
+<tok id="1183" w="все" spc=" " />
+<tok id="1184" w="играют" spc="" />
+<tok id="1185" w="," spc=" " />
+<tok id="1186" w="самый" spc=" " />
+<tok id="1187" w="младший" spc=" " />
+<tok id="1188" w="прикорнул" spc=" " />
+<tok id="1189" w="в" spc=" " />
+<tok id="1190" w="уголке" spc="" />
+<tok id="1191" w=":" spc=" " />
+<tok id="1192" w="устал" spc=" " />
+<tok id="1193" w="принимать" spc=" " />
+<tok id="1194" w="гостей" spc="" />
+<tok id="1195" w="," spc=" " />
+<tok id="1196" w="пусть" spc=" " />
+<tok id="1197" w="мама" spc=" " />
+<tok id="1198" w="сама" spc=" " />
+<tok id="1199" w="дальше" spc=" " />
+<tok id="1200" w="за" spc=" " />
+<tok id="1201" w="ними" spc=" " />
+<tok id="1202" w="присматривает" spc="" />
+<tok id="1203" w="." spc="" />
+<p>
+<hi rend="italic" >
+<tok id="1204" w="Статья" spc=" " />
+<tok id="1205" w="«" spc="" />
+<tok id="1206" w="Женщина-труженица" spc=" " />
+<tok id="1207" w="или" spc=" " />
+<tok id="1208" w="мать-ехидна" spc="" />
+<tok id="1209" w="?" spc="" />
+<tok id="1210" w="»" spc=" " />
+<tok id="1211" w="вызвала" spc=" " />
+<tok id="1212" w="массу" spc=" " />
+<tok id="1213" w="откликов" spc="" />
+<tok id="1214" w="." spc=" " />
+</hi>
+</p>
+<p>
+<hi rend="italic" >
+<tok id="1215" w="По" spc=" " />
+<tok id="1216" w="просьбам" spc=" " />
+<tok id="1217" w="наших" spc=" " />
+<tok id="1218" w="читателей" spc=" " />
+<tok id="1219" w="мы" spc=" " />
+<tok id="1220" w="продолжаем" spc=" " />
+<tok id="1221" w="«" spc="" />
+<tok id="1222" w="детскую" spc=" " />
+<tok id="1223" w="тему" spc="" />
+<tok id="1224" w="»" spc="" />
+<tok id="1225" w=":" spc=" " />
+<tok id="1226" w="о" spc=" " />
+<tok id="1227" w="своём" spc=" " />
+<tok id="1228" w="личном" spc=" " />
+<tok id="1229" w="опыте" spc="" />
+<tok id="1230" w="," spc=" " />
+<tok id="1231" w="проблеме" spc=" " />
+<tok id="1232" w="«" spc="" />
+<tok id="1233" w="кому" spc=" " />
+<tok id="1234" w="с" spc=" " />
+<tok id="1235" w="ребёнком" spc=" " />
+<tok id="1236" w="сидеть" spc="" />
+<tok id="1237" w="»" spc=" " />
+<tok id="1238" w="и" spc=" " />
+<tok id="1239" w="способах" spc=" " />
+<tok id="1240" w="её" spc=" " />
+<tok id="1241" w="решения" spc=" " />
+<tok id="1242" w="рассказывают" spc="  " />
+<tok id="1243" w="мамы" spc=" " />
+<tok id="1244" w="и" spc=" " />
+<tok id="1245" w="папы" spc=" " />
+<tok id="1246" w="из" spc=" " />
+<tok id="1247" w="Германии" spc="" />
+<tok id="1248" w="." spc="" />
+</hi>
+</p>
+<h3>
+<p>
+<tok id="1249" w="Сняли" spc=" " />
+<tok id="1250" w="4" spc=" " />
+<tok id="1251" w="сапога" spc="" />
+<tok id="1252" w="," spc=" " />
+<tok id="1253" w="надели" spc=" " />
+<tok id="1254" w="4" spc=" " />
+<tok id="1255" w="тапки" spc="" />
+</p>
+</h3>
+<p>
+<tok id="1256" w="Кристина" spc="" />
+<tok id="1257" w="," spc=" " />
+<tok id="1258" w="35" spc=" " />
+<tok id="1259" w="лет" spc="" />
+<tok id="1260" w="," spc=" " />
+<tok id="1261" w="окончила" spc=" " />
+<tok id="1262" w="Мюнхенский" spc=" " />
+<tok id="1263" w="университет" spc="" />
+<tok id="1264" w="," spc=" " />
+<tok id="1265" w="сейчас" spc=" " />
+<tok id="1266" w="работает" spc=" " />
+<tok id="1267" w="продукт-менеджером" spc=" " />
+<tok id="1268" w="на" spc=" " />
+<tok id="1269" w="крупной" spc=" " />
+<tok id="1270" w="немецкой" spc=" " />
+<tok id="1271" w="фирме" spc=" " />
+<tok id="1272" w="электронного" spc=" " />
+<tok id="1273" w="оборудования" spc="" />
+<tok id="1274" w="." spc=" " />
+<tok id="1275" w="График" spc=" " />
+<tok id="1276" w="работы" spc=" " />
+<tok id="1277" w="после" spc=" " />
+<tok id="1278" w="рождения" spc=" " />
+<tok id="1279" w="детей" spc="  " />
+<tok id="1280" w="—" spc=" " />
+<tok id="1281" w="3" spc=" " />
+<tok id="1282" w="полных" spc=" " />
+<tok id="1283" w="дня" spc=" " />
+<tok id="1284" w="в" spc=" " />
+<tok id="1285" w="неделю" spc="" />
+<tok id="1286" w="." spc=" " />
+<tok id="1287" w="Дети" spc="" />
+<tok id="1288" w=":" spc=" " />
+<tok id="1289" w="близнецы" spc=" " />
+<tok id="1290" w="Луис" spc=" " />
+<tok id="1291" w="и" spc=" " />
+<tok id="1292" w="Юдит" spc="" />
+<tok id="1293" w="," spc=" " />
+<tok id="1294" w="2" spc=" " />
+<tok id="1295" w="года" spc="" />
+<tok id="1296" w="." spc="" />
+</p>
+<p>
+<tok id="1297" w="7.30" spc="" />
+<tok id="1298" w="." spc=" " />
+<tok id="1299" w="Кристина" spc="  " />
+<tok id="1300" w="отвозит" spc=" " />
+<tok id="1301" w="близнецов" spc=" " />
+<tok id="1302" w="к" spc=" " />
+<tok id="1303" w="няне" spc=" " />
+<tok id="1304" w="на" spc=" " />
+<tok id="1305" w="другой" spc=" " />
+<tok id="1306" w="конец" spc=" " />
+<tok id="1307" w="улицы" spc="" />
+<tok id="1308" w="." spc=" " />
+</p>
+<p>
+<tok id="1309" w="7.40" spc="" />
+<tok id="1310" w="." spc=" " />
+<tok id="1311" w="Доехали" spc="" />
+<tok id="1312" w="," spc=" " />
+<tok id="1313" w="сняли" spc=" " />
+<tok id="1314" w="4" spc=" " />
+<tok id="1315" w="резиновых" spc=" " />
+<tok id="1316" w="сапога" spc=" " />
+<tok id="1317" w="и" spc=" " />
+<tok id="1318" w="надели" spc=" " />
+<tok id="1319" w="4" spc=" " />
+<tok id="1320" w="тапочки" spc="" />
+<tok id="1321" w="." spc="" />
+</p>
+<p>
+<tok id="1322" w="7.50" spc=" " />
+<tok id="1323" w="Кристина" spc="  " />
+<tok id="1324" w="выезжает" spc=" " />
+<tok id="1325" w="на" spc=" " />
+<tok id="1326" w="трассу" spc="" />
+<tok id="1327" w="," spc=" " />
+<tok id="1328" w="по" spc=" " />
+<tok id="1329" w="радио" spc=" " />
+<tok id="1330" w="начинается" spc=" " />
+<tok id="1331" w="реклама" spc="" />
+<tok id="1332" w="." spc=" " />
+<tok id="1333" w="До" spc=" " />
+<tok id="1334" w="начала" spc=" " />
+<tok id="1335" w="8" spc="" />
+<tok id="1336" w="-часовых" spc=" " />
+<tok id="1337" w="новостей" spc=" " />
+<tok id="1338" w="ей" spc=" " />
+<tok id="1339" w="надо" spc=" " />
+<tok id="1340" w="проскочить" spc=" " />
+<tok id="1341" w="тот" spc=" " />
+<tok id="1342" w="участок" spc=" " />
+<tok id="1343" w="автобана" spc="" />
+<tok id="1344" w="," spc=" " />
+<tok id="1345" w="где" spc=" " />
+<tok id="1346" w="по" spc=" " />
+<tok id="1347" w="утрам" spc=" " />
+<tok id="1348" w="чаще" spc=" " />
+<tok id="1349" w="всего" spc=" " />
+<tok id="1350" w="образуются" spc=" " />
+<tok id="1351" w="пробки" spc="" />
+<tok id="1352" w="." spc="" />
+</p>
+<p>
+<tok id="1353" w="8.10" spc=" " />
+<tok id="1354" w="Паркует" spc=" " />
+<tok id="1355" w="свой" spc=" " />
+<tok id="1356" w="«" spc="" />
+<tok id="1357" w="Ауди" spc="" />
+<tok id="1358" w="»" spc=" " />
+<tok id="1359" w="у" spc=" " />
+<tok id="1360" w="офиса" spc=" " />
+<tok id="1361" w="фирмы" spc="" />
+<tok id="1362" w="," spc=" " />
+<tok id="1363" w="через" spc=" " />
+<tok id="1364" w="три" spc=" " />
+<tok id="1365" w="минуты" spc=" " />
+<tok id="1366" w="уже" spc=" " />
+<tok id="1367" w="включает" spc=" " />
+<tok id="1368" w="компьютер" spc=" " />
+<tok id="1369" w="и" spc=" " />
+<tok id="1370" w="начинает" spc=" " />
+<tok id="1371" w="работу" spc="" />
+<tok id="1372" w="." spc=" " />
+</p>
+<p>
+<tok id="1373" w="—" spc=" " />
+<tok id="1374" w="Можно" spc=" " />
+<tok id="1375" w="сказать" spc="" />
+<tok id="1376" w="," spc=" " />
+<tok id="1377" w="нам" spc=" " />
+<tok id="1378" w="повезло" spc="" />
+<tok id="1379" w="," spc=" " />
+<tok id="1380" w="что" spc=" " />
+<tok id="1381" w="у" spc=" " />
+<tok id="1382" w="нас" spc=" " />
+<tok id="1383" w="родились" spc=" " />
+<tok id="1384" w="близнецы" spc="" />
+<tok id="1385" w=":" spc=" " />
+<tok id="1386" w="можно" spc=" " />
+<tok id="1387" w="всё" spc=" " />
+<tok id="1388" w="организовывать" spc=" " />
+<tok id="1389" w="сразу" spc=" " />
+<tok id="1390" w="для" spc=" " />
+<tok id="1391" w="двоих" spc="" />
+<tok id="1392" w="," spc=" " />
+<tok id="1393" w="нет" spc=" " />
+<tok id="1394" w="нужды" spc=" " />
+<tok id="1395" w="ездить" spc=" " />
+<tok id="1396" w="через" spc=" " />
+<tok id="1397" w="весь" spc=" " />
+<tok id="1398" w="город" spc="" />
+<tok id="1399" w="." spc=" " />
+<tok id="1400" w="Посчастливилось" spc=" " />
+<tok id="1401" w="нам" spc=" " />
+<tok id="1402" w="и" spc=" " />
+<tok id="1403" w="с" spc=" " />
+<tok id="1404" w="няней" spc="" />
+<tok id="1405" w="," spc=" " />
+<tok id="1406" w="так" spc=" " />
+<tok id="1407" w="называемой" spc=" " />
+<tok id="1408" w="дневной" spc=" " />
+<tok id="1409" w="мамой" spc="" />
+<tok id="1410" w="," spc=" " />
+<tok id="1411" w="которая" spc=" " />
+<tok id="1412" w="живёт" spc="" />
+<tok id="1413" w="," spc=" " />
+<tok id="1414" w="по" spc=" " />
+<tok id="1415" w="мюнхенским" spc=" " />
+<tok id="1416" w="меркам" spc="" />
+<tok id="1417" w="," spc=" " />
+<tok id="1418" w="совсем" spc=" " />
+<tok id="1419" w="рядом" spc="" />
+<tok id="1420" w="." spc=" " />
+<tok id="1421" w="Когда" spc=" " />
+<tok id="1422" w="мы" spc=" " />
+<tok id="1423" w="несколько" spc=" " />
+<tok id="1424" w="лет" spc=" " />
+<tok id="1425" w="назад" spc=" " />
+<tok id="1426" w="покупали" spc=" " />
+<tok id="1427" w="дом" spc=" " />
+<tok id="1428" w="в" spc=" " />
+<tok id="1429" w="этом" spc=" " />
+<tok id="1430" w="районе" spc="" />
+<tok id="1431" w="," spc=" " />
+<tok id="1432" w="я" spc=" " />
+<tok id="1433" w="сразу" spc=" " />
+<tok id="1434" w="же" spc=" " />
+<tok id="1435" w="стала" spc=" " />
+<tok id="1436" w="искать" spc=" " />
+<tok id="1437" w="няню" spc=" " />
+<tok id="1438" w="для" spc=" " />
+<tok id="1439" w="ещё" spc=" " />
+<tok id="1440" w="только" spc=" " />
+<tok id="1441" w="в" spc=" " />
+<tok id="1442" w="планах" spc=" " />
+<tok id="1443" w="существовавших" spc=" " />
+<tok id="1444" w="детей" spc="" />
+<tok id="1445" w="." spc=" " />
+<tok id="1446" w="Мы" spc=" " />
+<tok id="1447" w="очень" spc=" " />
+<tok id="1448" w="хотели" spc=" " />
+<tok id="1449" w="ребёнка" spc="" />
+<tok id="1450" w="," spc=" " />
+<tok id="1451" w="но" spc=" " />
+<tok id="1452" w="я" spc=" " />
+<tok id="1453" w="не" spc=" " />
+<tok id="1454" w="собиралась" spc=" " />
+<tok id="1455" w="оставаться" spc=" " />
+<tok id="1456" w="дома" spc=" " />
+<tok id="1457" w="даже" spc=" " />
+<tok id="1458" w="на" spc=" " />
+<tok id="1459" w="3" spc=" " />
+<tok id="1460" w="года" spc=" " />
+<tok id="1461" w="отпуска" spc=" " />
+<tok id="1462" w="по" spc=" " />
+<tok id="1463" w="уходу" spc="" />
+<tok id="1464" w="." spc=" " />
+<tok id="1465" w="Мы" spc=" " />
+<tok id="1466" w="с" spc=" " />
+<tok id="1467" w="мужем" spc=" " />
+<tok id="1468" w="всё" spc=" " />
+<tok id="1469" w="обсудили" spc="" />
+<tok id="1470" w="," spc=" " />
+<tok id="1471" w="без" spc=" " />
+<tok id="1472" w="его" spc=" " />
+<tok id="1473" w="помощи" spc=" " />
+<tok id="1474" w="это" spc=" " />
+<tok id="1475" w="было" spc=" " />
+<tok id="1476" w="бы" spc=" " />
+<tok id="1477" w="просто" spc=" " />
+<tok id="1478" w="невозможно" spc="" />
+<tok id="1479" w="." spc="" />
+</p>
+<p>
+<tok id="1480" w="17.00" spc=" " />
+<tok id="1481" w="Муж" spc=" " />
+<tok id="1482" w="Кристины" spc=" " />
+<tok id="1483" w="забирает" spc=" " />
+<tok id="1484" w="детей" spc=" " />
+<tok id="1485" w="у" spc=" " />
+<tok id="1486" w="няни" spc="" />
+<tok id="1487" w="." spc=" " />
+</p>
+<p>
+<tok id="1488" w="—" spc=" " />
+<tok id="1489" w="Шансы" spc=" " />
+<tok id="1490" w="выиграть" spc=" " />
+<tok id="1491" w="в" spc=" " />
+<tok id="1492" w="лотерею" spc=" " />
+<tok id="1493" w="у" spc=" " />
+<tok id="1494" w="нас" spc="" />
+<tok id="1495" w="," spc=" " />
+<tok id="1496" w="похоже" spc="" />
+<tok id="1497" w="," spc=" " />
+<tok id="1498" w="выше" spc="" />
+<tok id="1499" w="," spc=" " />
+<tok id="1500" w="чем" spc=" " />
+<tok id="1501" w="вероятность" spc=" " />
+<tok id="1502" w="того" spc="" />
+<tok id="1503" w="," spc=" " />
+<tok id="1504" w="что" spc=" " />
+<tok id="1505" w="мы" spc=" " />
+<tok id="1506" w="получим" spc=" " />
+<tok id="1507" w="два" spc=" " />
+<tok id="1508" w="места" spc=" " />
+<tok id="1509" w="в" spc=" " />
+<tok id="1510" w="муниципальных" spc=" " />
+<tok id="1511" w="яслях" spc="" />
+<tok id="1512" w="." spc=" " />
+<tok id="1513" w="Что" spc=" " />
+<tok id="1514" w="будет" spc=" " />
+<tok id="1515" w="через" spc=" " />
+<tok id="1516" w="год" spc="" />
+<tok id="1517" w="," spc=" " />
+<tok id="1518" w="когда" spc=" " />
+<tok id="1519" w="Луис" spc=" " />
+<tok id="1520" w="и" spc=" " />
+<tok id="1521" w="Юдит" spc=" " />
+<tok id="1522" w="дорастут" spc=" " />
+<tok id="1523" w="до" spc=" " />
+<tok id="1524" w="детского" spc=" " />
+<tok id="1525" w="сада" spc="" />
+<tok id="1526" w="," spc=" " />
+<tok id="1527" w="мы" spc=" " />
+<tok id="1528" w="ещё" spc=" " />
+<tok id="1529" w="не" spc=" " />
+<tok id="1530" w="знаем" spc="" />
+<tok id="1531" w="." spc=" " />
+<tok id="1532" w="Мы" spc=" " />
+<tok id="1533" w="поставили" spc=" " />
+<tok id="1534" w="их" spc=" " />
+<tok id="1535" w="на" spc=" " />
+<tok id="1536" w="очередь" spc=" " />
+<tok id="1537" w="в" spc=" " />
+<tok id="1538" w="трёх" spc=" " />
+<tok id="1539" w="садиках" spc="" />
+<tok id="1540" w=":" spc=" " />
+<tok id="1541" w="католическом" spc="" />
+<tok id="1542" w="," spc=" " />
+<tok id="1543" w="муниципальном" spc=" " />
+<tok id="1544" w="и" spc=" " />
+<tok id="1545" w="частном" spc="" />
+<tok id="1546" w="." spc=" " />
+<tok id="1547" w="И" spc=" " />
+<tok id="1548" w="только" spc=" " />
+<tok id="1549" w="частный" spc=" " />
+<tok id="1550" w="работает" spc=" " />
+<tok id="1551" w="до" spc=" " />
+<tok id="1552" w="18" spc=" " />
+<tok id="1553" w="часов" spc="" />
+<tok id="1554" w="." spc=" " />
+<tok id="1555" w="Оба" spc=" " />
+<tok id="1556" w="других" spc=" " />
+<tok id="1557" w="закрываются" spc=" " />
+<tok id="1558" w="уже" spc=" " />
+<tok id="1559" w="в" spc=" " />
+<tok id="1560" w="16" spc="" />
+<tok id="1561" w="." spc=" " />
+</p>
+<p>
+<tok id="1562" w="Елена" spc="" />
+<tok id="1563" w="," spc=" " />
+<tok id="1564" w="35" spc=" " />
+<tok id="1565" w="лет" spc="" />
+<tok id="1566" w="," spc=" " />
+<tok id="1567" w="двое" spc=" " />
+<tok id="1568" w="детей" spc="" />
+<tok id="1569" w="," spc=" " />
+<tok id="1570" w="Берлин" spc="" />
+<tok id="1571" w=":" spc="" />
+</p>
+<p>
+<tok id="1572" w="—" spc=" " />
+<tok id="1573" w="У" spc=" " />
+<tok id="1574" w="всех" spc=" " />
+<tok id="1575" w="моих" spc=" " />
+<tok id="1576" w="немецких" spc=" " />
+<tok id="1577" w="знакомых" spc="" />
+<tok id="1578" w="," spc=" " />
+<tok id="1579" w="рождённых" spc=" " />
+<tok id="1580" w="в" spc=" " />
+<tok id="1581" w="70" spc="" />
+<tok id="1582" w="-е" spc=" " />
+<tok id="1583" w="годы" spc="" />
+<tok id="1584" w="," spc=" " />
+<tok id="1585" w="мамаши" spc=" " />
+<tok id="1586" w="были" spc=" " />
+<tok id="1587" w="домохоз

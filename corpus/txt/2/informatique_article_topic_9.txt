@@ -1,0 +1,249 @@
+	     			
+					 				
+				
+				
+				
+			 				
+				
+				
+				
+				
+				
+				
+				
+	
+	 		
+		
+		
+				 			
+			
+			
+		 			
+							 					
+					
+  Inscrivez-vous !
+  
+
+
+		 			
+			
+			
+							
+											
+						 				
+ 				
+
+					                        
+          
+          
+                                                                                                                  Menu
+                                     
+                                                                                                                                            						
+						 Accueil
+						
+						 Les Sujets et Les Articles
+
+ Informatique
+
+ Programmation C#
+
+ Sécurité & Hacking
+
+ Astuces Windows
+
+ Divx & P2P
+
+ GSM
+
+ Cryptographie
+
+ Webmaster
+
+ Cours Delphi Programmation
+
+ Hoax
+
+ MSN
+
+ Divers
+
+ News
+
+ Jeux Video
+
+ Android OS
+
+ Excel
+
+
+						
+						 Communauté
+
+ Forums
+
+ T'Chat IRC
+·
+ Proposer un article
+·
+ Messages Privés
+
+
+						
+						 Downloads et Liens Web
+
+ Téléchargements
+
+ Liens
+
+ Peer To Peer
+
+
+						
+						 Contenu
+
+ Content
+
+ Encyclopedie
+
+ Reviews
+
+ Top 10
+
+ FAQ
+
+
+						
+						 Infos
+
+ Statistiques
+
+ Search
+
+ Votre Compte
+
+
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Partenaires
+                                     
+                                                                                                                                            Ogame
+Angry Birds Solution
+  
+Aide Ogame
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+                        
+          
+          
+                                                                                                                &nbsp La cryptographie de Porta (substitutions polyalphabétiques)  
+                                      
+                                                                                      Le physicien italien Della Porta (1540-1615) fut l'inventeur du premier système littéral à double clé, c'est à dire le premier chiffre pour lequel on change d'alphabet à chaque lettre. 
+                                      
+                                                                                      Transmis par zmaster le Dimanche 30 avril 2006 à 03:25:00  (2488 lectures)(Suite... | 6313 octets de plus | commentaires ? | Score: 4.33)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp La cryptographie DES (Data Encryption Standard)  
+                                      
+                                                                                      La cryptographie ou la steganographie consiste à cacher quelque chose à quelqu'un, par exemple un message en le modifiant de manière à ce que seul une personne conaissant le moyen de le faire puisse le ramenner à son état d'origine. Le D.E.S. (Data Encryption Standard, cest-à-dire Standard de Chiffrement de Données) est un standard mondial depuis plus de 20 ans. Bien quil soit un peu vieillissant, il résiste toujours très bien à la cryptanalyse et reste un algorithme très sûr. 
+                                      
+                                                                                      Transmis par zmaster le Mercredi 26 avril 2006 à 18:45:47  (24191 lectures)(Suite... | 3950 octets de plus | 15289 commentaires | Score: 3.91)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Tout sur la cryptographie  
+                                      
+                                                                                      La cryptographie est l'art de crypter des messages. 
+                                      
+                                                                                      Transmis par zmaster le Dimanche 17 octobre 2004 à 01:35:06  (7795 lectures)(Suite... | 5216 octets de plus | 1 commentaire | Score: 4.25)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Cryptographie de Cesar  
+                                      
+                                                                                      Jules Cesar est sans aucun doute le cryptographe le plus célébre de l'antiquité. 
+                                      
+                                                                                      Transmis par zmaster le Vendredi 15 octobre 2004 à 19:12:29  (5552 lectures)(Suite... | 1389 octets de plus | 1 commentaire | Score: 4.43)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Le carre de Polybe  
+                                      
+                                                                                      Polybe est un célébre historien grec et conseiller militaire Romain. Il invente vers 150 av JC un procédé de cryptage tenant dans un carré de 5 de coté. 
+                                      
+                                                                                      Transmis par zmaster le Lundi 04 octobre 2004 à 21:49:46  (4900 lectures)(Suite... | 1072 octets de plus | 1 commentaire | Score: 4.3)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Blaise de Vigenere  
+                                      
+                                                                                      Tout sur le cryptogramme de Blaise de Vigenere. 
+                                      
+                                                                                      Transmis par zmaster le Lundi 04 octobre 2004 à 21:07:19  (4298 lectures)(Suite... | 758 octets de plus | 1 commentaire | Score: 4.25)
+
+                                      
+                          
+                                      
+          
+          
+                  
+  News ©
+
+audit et mesure d'audience visiteurs internet par Conditions d'utilisation                         
+Tous les logos et marques sont des Propriétés respectives. Les commentaires sont la propriété respective de ceux qui les postent, tout le reste © 2006-2011 est personnel.
+
+
+
+
+                   Tous droits réservés. PHP-MaXiMuS est un logiciel libre en version GNU/GPL license  .Copyright 2005 PHP-MaXiMuS  .[ Page générée en 0.5039 sec ] [ (PHP: 82% - SQL: 18%) ]  [ Requêtes SQL: 57 ]  [ 157 pages vues la dernière heure ]       

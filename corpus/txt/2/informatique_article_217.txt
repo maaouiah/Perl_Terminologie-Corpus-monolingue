@@ -1,0 +1,222 @@
+	     			
+					 				
+				
+				
+				
+			 				
+				
+				
+				
+				
+				
+				
+				
+	
+	 		
+		
+		
+				 			
+			
+			
+		 			
+							 					
+					
+  Inscrivez-vous !
+  
+
+
+		 			
+			
+			
+							
+											
+						 				
+ 				
+
+					                        
+          
+          
+                                                                                                                  Menu
+                                     
+                                                                                                                                            						
+						 Accueil
+						
+						 Les Sujets et Les Articles
+
+ Informatique
+
+ Programmation C#
+
+ Sécurité & Hacking
+
+ Astuces Windows
+
+ Divx & P2P
+
+ GSM
+
+ Cryptographie
+
+ Webmaster
+
+ Cours Delphi Programmation
+
+ Hoax
+
+ MSN
+
+ Divers
+
+ News
+
+ Jeux Video
+
+ Android OS
+
+ Excel
+
+
+						
+						 Communauté
+
+ Forums
+
+ T'Chat IRC
+·
+ Proposer un article
+·
+ Messages Privés
+
+
+						
+						 Downloads et Liens Web
+
+ Téléchargements
+
+ Liens
+
+ Peer To Peer
+
+
+						
+						 Contenu
+
+ Content
+
+ Encyclopedie
+
+ Reviews
+
+ Top 10
+
+ FAQ
+
+
+						
+						 Infos
+
+ Statistiques
+
+ Search
+
+ Votre Compte
+
+
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Partenaires
+                                     
+                                                                                                                                            Ogame
+Angry Birds Solution
+  
+Aide Ogame
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+                        
+          
+          
+                                                                                                               Récupérer ses marques pages Firefox après un plantage  
+                                      
+                                                                                      	
+				  	Perdre ces marques pages firefox à cause d'un plantage c'est souvent très énervant car on pense qu'il n'y a aucun moyens de les récupérer.Mais en réalité,  on peut facilement récupérer ses anciens marques pages car Firefox les fais lui meme des sauvegardes de secours (backups).Rendez-vous dans C:/Documents and settings/<votre_login>/Application Data/Mozilla/Firefox/Profiles/Si vous ne trouvez pas le dossier Application Data, vous devez afficher les dossiers cachés pour le voir (onglet Outils > Options des dossiers > Affichage > Afficher les dossiers cachés).Une fois dans le répertoire Profiles, vous devriez voir un seul dossier avec un nom incompréhensible, ouvrez le.Ouvrez ensuite le répertoire bookmarkbackups, comme son nom l'indique c'est le répertoire où Firefox stocke les backups des marques pages (bookmark). Prenez la backups la plus récente (la date est dans le nom), renommez là en bookmarks.html, et copiez là dans le répertoire parent (celui qui a un nom bizarre). Redémarrez Firefox et vous devriez avoir retrouvé les marques pages qui avaient disparus. 	
+
+                                      
+                                                                                      Posté le Jeudi 24 janvier 2008 à 14:55:58 par zmaster
+
+                                      
+                          
+                                      
+          
+          
+                  
+  "Récupérer ses marques pages Firefox après un plantage" | Connexion/Créer un compte | 0 commentaires
+Les commentaires sont la propriété de leurs auteurs. Nous ne sommes pas responsables de leurs contenus !
+
+Les commentaires anonymes ne sont pas autorisés, veuillez vous enregistrer
+
+ 
+                        
+          
+          
+                                                                                                                  Liens connexes
+                                     
+                                                                                                                                            · Plus à propos de 1 Informatique· Nouvelles transmises par zmasterL'article le plus lu à propos de 1 Informatique:Liste des processus Windows SYSTEM, Client et Dangeureux
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Estimer cet Article
+                                     
+                                                                                                                                            Score Moyen: 4.55Votes: 9Merci de prendre une seconde et de voter pour cet article:     
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Options
+                                     
+                                                                                                                                              Format imprimable  Format PDF  Envoyer cet article à un(e) ami(e)
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+News ©
+
+audit et mesure d'audience visiteurs internet par Conditions d'utilisation                         
+Tous les logos et marques sont des Propriétés respectives. Les commentaires sont la propriété respective de ceux qui les postent, tout le reste © 2006-2011 est personnel.
+
+
+
+
+                   Tous droits réservés. PHP-MaXiMuS est un logiciel libre en version GNU/GPL license  .Copyright 2005 PHP-MaXiMuS  .[ Page générée en 0.3013 sec ] [ (PHP: 85% - SQL: 15%) ]  [ Requêtes SQL: 56 ]  [ 187 pages vues la dernière heure ]       

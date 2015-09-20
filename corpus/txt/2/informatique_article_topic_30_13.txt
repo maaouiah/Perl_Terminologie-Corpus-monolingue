@@ -1,0 +1,236 @@
+	     			
+					 				
+				
+				
+				
+			 				
+				
+				
+				
+				
+				
+				
+				
+	
+	 		
+		
+		
+				 			
+			
+			
+		 			
+							 					
+					
+  Inscrivez-vous !
+  
+
+
+		 			
+			
+			
+							
+											
+						 				
+ 				
+
+					                        
+          
+          
+                                                                                                                  Menu
+                                     
+                                                                                                                                            						
+						 Accueil
+						
+						 Les Sujets et Les Articles
+
+ Informatique
+
+ Programmation C#
+
+ Sécurité & Hacking
+
+ Astuces Windows
+
+ Divx & P2P
+
+ GSM
+
+ Cryptographie
+
+ Webmaster
+
+ Cours Delphi Programmation
+
+ Hoax
+
+ MSN
+
+ Divers
+
+ News
+
+ Jeux Video
+
+ Android OS
+
+ Excel
+
+
+						
+						 Communauté
+
+ Forums
+
+ T'Chat IRC
+·
+ Proposer un article
+·
+ Messages Privés
+
+
+						
+						 Downloads et Liens Web
+
+ Téléchargements
+
+ Liens
+
+ Peer To Peer
+
+
+						
+						 Contenu
+
+ Content
+
+ Encyclopedie
+
+ Reviews
+
+ Top 10
+
+ FAQ
+
+
+						
+						 Infos
+
+ Statistiques
+
+ Search
+
+ Votre Compte
+
+
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Partenaires
+                                     
+                                                                                                                                            Ogame
+Angry Birds Solution
+  
+Aide Ogame
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+                        
+          
+          
+                                                                                                                &nbsp Afficher un message au démarrage de lordinateur  
+                                      
+                                                                                      Afficher systématiquement un message à louverture de Windows XP. 
+                                      
+                                                                                      Transmis par zmaster le Samedi 06 novembre 2004 à 19:37:44  (4833 lectures)(Suite... | 820 octets de plus | commentaires ? | Score: 4.45)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Enlever la fleche de l'icone des raccourcis  
+                                      
+                                                                                      Vous n'en avez pas assez de cette fleche, en bas à droite de l'icone des raccourcis ? Pourtant elle est simple à retirer, un petit tour dans la base de registre suffit. 
+                                      
+                                                                                      Transmis par zmaster le Mardi 19 octobre 2004 à 17:48:36  (3567 lectures)(Suite... | 709 octets de plus | commentaires ? | Score: 4.63)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Empecher l'ouverture de certains programmes au démarrage de Windows  
+                                      
+                                                                                      Vous avez sûrement déjà du remarquer que de nombreux logiciels se chargeaient au démarrage de Windows. Pour empêcher louverture de ces programmes.... 
+                                      
+                                                                                      Transmis par zmaster le Dimanche 03 octobre 2004 à 22:07:52  (2743 lectures)(Suite... | 1185 octets de plus | 1 commentaire | Score: 4.5)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Bloquer l'accès à un site en particulier  
+                                      
+                                                                                      Pour bloquer l'accès à un site web, il existe un moyen bien plus fiable que les outils de controle parental. 
+                                      
+                                                                                      Transmis par zmaster le Dimanche 03 octobre 2004 à 22:00:55  (6690 lectures)(Suite... | 1047 octets de plus | 4 commentaires | Score: 5)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Afficher le compte Administrateur sur l'écran d'accueil  
+                                      
+                                                                                      Affichez le compte de l'administrateur sur l'écran d'accueil de Windows XP .... 
+                                      
+                                                                                      Transmis par zmaster le Dimanche 03 octobre 2004 à 21:40:29  (3945 lectures)(Suite... | 721 octets de plus | 1 commentaire | Score: 4.66)
+
+                                      
+                          
+                                      
+          
+          
+                  
+  1 |2 |3 |4 | 
+
+News ©
+
+audit et mesure d'audience visiteurs internet par Conditions d'utilisation                         
+Tous les logos et marques sont des Propriétés respectives. Les commentaires sont la propriété respective de ceux qui les postent, tout le reste © 2006-2011 est personnel.
+
+
+
+
+                   Tous droits réservés. PHP-MaXiMuS est un logiciel libre en version GNU/GPL license  .Copyright 2005 PHP-MaXiMuS  .[ Page générée en 0.2936 sec ] [ (PHP: 83% - SQL: 17%) ]  [ Requêtes SQL: 56 ]  [ 136 pages vues la dernière heure ]       

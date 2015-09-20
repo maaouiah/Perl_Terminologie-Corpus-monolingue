@@ -1,0 +1,312 @@
+	     			
+					 				
+				
+				
+				
+			 				
+				
+				
+				
+				
+				
+				
+				
+	
+	 		
+		
+		
+				 			
+			
+			
+		 			
+							 					
+					
+  Inscrivez-vous !
+  
+
+
+		 			
+			
+			
+							
+											
+						 				
+ 				
+
+					                        
+          
+          
+                                                                                                                  Menu
+                                     
+                                                                                                                                            						
+						 Accueil
+						
+						 Les Sujets et Les Articles
+
+ Informatique
+
+ Programmation C#
+
+ Sécurité & Hacking
+
+ Astuces Windows
+
+ Divx & P2P
+
+ GSM
+
+ Cryptographie
+
+ Webmaster
+
+ Cours Delphi Programmation
+
+ Hoax
+
+ MSN
+
+ Divers
+
+ News
+
+ Jeux Video
+
+ Android OS
+
+ Excel
+
+
+						
+						 Communauté
+
+ Forums
+
+ T'Chat IRC
+·
+ Proposer un article
+·
+ Messages Privés
+
+
+						
+						 Downloads et Liens Web
+
+ Téléchargements
+
+ Liens
+
+ Peer To Peer
+
+
+						
+						 Contenu
+
+ Content
+
+ Encyclopedie
+
+ Reviews
+
+ Top 10
+
+ FAQ
+
+
+						
+						 Infos
+
+ Statistiques
+
+ Search
+
+ Votre Compte
+
+
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Partenaires
+                                     
+                                                                                                                                            Ogame
+Angry Birds Solution
+  
+Aide Ogame
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+                        
+          
+          
+                                                                                                                &nbsp Configurer le Firewall (Pare-Feu) de Windows XP pour Emule  
+                                      
+                                                                                      Le pare-feu de Windows XP n'est généralement pas recommandé car il est vraiment très basique. Mais si vous désirez l'utiliser tout de même, ces quelques étapes sont nécessaires pour débloquer les ports TCP 4662 et UDP 4672 nécéssaire pour télécharger rapidement sur Emule et ne pas avoir de Low IP. 
+                                      
+                                                                                      Transmis par zmaster le Samedi 20 janvier 2007 à 01:15:00  (9752 lectures)(Suite... | 2951 octets de plus | 3 commentaires | Score: 3.63)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Graver un fichier image (iso etc.) avec Alcohol 120%  
+                                      
+                                                                                      Vous avez surement déja téléchargé un fichier image sur Emule (ou un autre logiciel P2P), je parle d'image CD bien sur et non d'image (dessin, photo). Ces fichiers images doivent etre gravés pour fonctionner correctement, pour graver ces fichiers (ex : .iso), il faut utiliser des logiciels comme Alcohol 120% et suivre les étapes suivantes. 
+                                      
+                                                                                      Transmis par zmaster le Samedi 23 décembre 2006 à 03:35:00  (21619 lectures)(Suite... | 1518 octets de plus | 6 commentaires | Score: 4.38)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Configurer le Firewall de Norton pour Emule  
+                                      
+                                                                                      Suivez les étapes suivantes pour débloquer les ports TCP 4662 et UDP 4672 qui sont bloqués par le fierwall de Norton Anti-virus. L'ouverture de ces ports permet d'avoir moins de Low IP sur Emule et donc de télécharger plus rapidement. 
+                                      
+                                                                                      Transmis par zmaster le Samedi 25 novembre 2006 à 02:10:00  (8973 lectures)(Suite... | 3225 octets de plus | 9 commentaires | Score: 4.56)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Graver ses Divx et Xvid sur CD avec Nero Burning-rom  
+                                      
+                                                                                      Quoi de mieux que de pouvoir graver ses divxs sur CD pour les regarder a sa guise sur son PC ou sur son lecteur Divx de salon tout en se constituant une Videothéque ? Pour graver un divx ou un xvid il faut faire comme si vous faisiez un cd de donnée ( le divx et le xvid se gravent de la même manière ) et suivre les étapes suivantes. 
+                                      
+                                                                                      Transmis par zmaster le Mardi 31 octobre 2006 à 19:42:50  (7547 lectures)(Suite... | 2837 octets de plus | 6 commentaires | Score: 5)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Télécharger à grande vitesse avec Emule [P2P]  
+                                      
+                                                                                      Cet article est le BA-BA pour télécharger sur Emule, il vous permettra d'apprendre à télécharger avec Emule avec des vitesses dépassant parfois les 500 Ko/s. Grace aux 6 points expliqués dans cet article, vous téléchargez beaucoup plus rapidement qu'auparavant et c'est le but de tout utilisateur d'Emule.Emule est un logiciel de partage (P2P) donc pour télécharger (download), il faut laisser les autres utilisateurs télécharger chez vous (upload). 
+                                      
+                                                                                      Transmis par zmaster le Samedi 01 juillet 2006 à 14:03:06  (30333 lectures)(Suite... | 3614 octets de plus | 15 commentaires | Score: 4.06)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Avoir une High ID avec Emule (Thomson SpeedTouch 530) pour télécharger beaucoup  
+                                      
+                                                                                      Vous possédez un Thomson SpeedTouch 530, et vous voulez exploiter au maximum les capacités de la mule ? Il vous faut une high ID, que vous n'obtiendrez que si vous ouvrez les bons ports. 
+                                      
+                                                                                      Transmis par zmaster le Samedi 16 juillet 2005 à 00:00:00  (12066 lectures)(Suite... | 3348 octets de plus | 12 commentaires | Score: 4.11)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Le lecteur DVD/Divx (IISONIC II2316) est indispensable (56) pour les divx  
+                                      
+                                                                                      Avouez que c'est pas très pratique de regarder ces films divx sur son PC et que se serait beauocup mieux sur le grand écran de votre télé. Il vous faut donc un lecteur de salon DVD/Divx. Le II2316 de IISONIC est le lecteur qui a le meilleur rapport qualité/prix.
+ 
+                                      
+                                                                                      Transmis par zmaster le Mardi 28 décembre 2004 à 15:55:41  (9233 lectures)(Suite... | 8863 octets de plus | commentaires ? | Score: 4.97)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp L'histoire de Kazaa  
+                                      
+                                                                                      KaZaa a été l'un des premier logiciel de p2p a proposer le "multi-sourcing" c'est à dire de télécharger un logicielà partir de plusieurs sources en sachant que plus vous aurez de sources sur un fichier, plus vous le téléchargerait vite..... 
+                                      
+                                                                                      Transmis par zmaster le Dimanche 31 octobre 2004 à 21:32:10  (2891 lectures)(Suite... | 2045 octets de plus | commentaires ? | Score: 4)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Shareaza le meilleur p2p du moment !  
+                                      
+                                                                                      Anonyme a écrit : Je vais vous parler du logiciel certe ancien mais éfficace Shareaza 2.1.0.0. Note : Article de Sp6men
+                                      
+                                                                                      Transmis par zmaster le Dimanche 31 octobre 2004 à 20:34:18  (28659 lectures)(Suite... | 947 octets de plus | 69 commentaires | Score: 4.04)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Comment telecharger installer et bien configurer Emule  
+                                      
+                                                                                      Installation et Configuration d'Emule 
+                                      
+                                                                                      Transmis par zmaster le Mercredi 20 octobre 2004 à 19:41:31  (126310 lectures)(Suite... | 4525 octets de plus | 9 commentaires | Score: 3.70)
+
+                                      
+                          
+                                      
+          
+          
+                  
+  1 | 2 |
+
+News ©
+
+audit et mesure d'audience visiteurs internet par Conditions d'utilisation                         
+Tous les logos et marques sont des Propriétés respectives. Les commentaires sont la propriété respective de ceux qui les postent, tout le reste © 2006-2011 est personnel.
+
+
+
+
+                   Tous droits réservés. PHP-MaXiMuS est un logiciel libre en version GNU/GPL license  .Copyright 2005 PHP-MaXiMuS  .[ Page générée en 0.3097 sec ] [ (PHP: 81% - SQL: 19%) ]  [ Requêtes SQL: 61 ]  [ 138 pages vues la dernière heure ]       

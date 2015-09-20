@@ -1,0 +1,1905 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="ie6" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if gt IE 8]><!--> <html xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]--><head>
+
+        <title>Actualités informatique : Hardware, Logiciel et High Tech</title>
+
+        <!-- meta -->
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+
+				
+                    <meta name="description" content="Retrouvez l'actualité informatique sur Clubic et commentez les news : materiel informatique, logiciel, téléphonie, high tech ou tout simplement geek.
+" />
+                    <meta name="verify-v1" content="Ml9Fsl8IKRo9vxcgw8VZYe6Pr7DeTiXooWi8hNAFM0Q=" />
+                    <meta name="robots" content="index,follow" />
+                    <meta name="revisit-after" content="2 days" />
+        
+                
+        <!-- Meta Og (facebook) -->
+        <meta property="fb:admins" content="100001066314771" />
+<meta property="fb:admins" content="1199631238" />
+<meta property="fb:admins" content="1623308123" />
+<meta property="fb:admins" content="517833783" />
+<meta property="fb:admins" content="562988567" />
+<meta property="fb:admins" content="612833064" />
+<meta property="fb:admins" content="746502852" />
+<meta property="fb:app_id" content="302753377533" />
+<meta property="fb:page_id" content="96758232749" />
+<meta property="og:description" content="Retrouvez l'actualité informatique sur Clubic et commentez les news : materiel informatique, logiciel, téléphonie, high tech ou tout simplement geek.
+" />
+<meta property="og:image" content="http://img.clubic.com/0096000001486006-photo-logo-clubic.jpg" />
+<meta property="og:locale" content="fr_fr" />
+<meta property="og:site_name" content="Clubic.com" />
+<meta property="og:title" content="Les Titres de l'actualité hi-tech avec clubic.com " />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.clubic.com/actualites-informatique/" />
+                    <link rel="canonical" href="http://www.clubic.com/actualites-informatique/" />
+        		
+        <!-- Card (twitter) -->
+        <meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Retrouvez l'actualité informatique sur Clubic et commentez les news : materiel informatique, logiciel, téléphonie, high tech ou tout simplement geek.
+" />
+<meta name="twitter:image" content="http://img.clubic.com/0096000001486006-photo-logo-clubic.jpg" />
+<meta name="twitter:site" content="@Clubic" />
+<meta name="twitter:title" content="Les Titres de l'actualité hi-tech avec clubic.com " />
+<meta name="twitter:url" content="http://www.clubic.com/actualites-informatique/" />
+
+        
+        
+                            <link rel="next" content="/actualites-informatique/page_2.html" />
+                
+		
+                
+        <!--W7 IE9 -->
+                                    <meta name="application-name" content="Clubic informatique et multimédia" />
+                                                <meta name="msapplication-tooltip" content="Lancer Clubic informatique et multimédia" />
+                                                <meta name="msapplication-starturl" content="/?utm_source=msn&utm_medium=epinglage&utm_content=home&utm_campaign=msn" />
+                                                <meta name="msapplication-window" content="width=800;height=600" />
+                                                <meta name="msapplication-navbutton-color" content="#c0120f" />
+                                                <meta name="msapplication-task" content="name=Les dernières news;action-uri=/actualites-informatique/?utm_source=msn&utm_medium=epinglage&utm_content=actu&utm_campaign=msn;icon-uri=/favicon.ico" />
+                            <meta name="msapplication-task" content="name=Les dossiers;action-uri=/guide-test-comparatif-informatique/?utm_source=msn&utm_medium=epinglage&utm_content=guide&utm_campaign=msn;icon-uri=/favicon.ico" />
+                            <meta name="msapplication-task" content="name=Clubic Pro;action-uri=http://pro.clubic.com/?utm_source=msn&utm_medium=epinglage&utm_content=proclubic&utm_campaign=msn;icon-uri=/favicon.ico" />
+                            <meta name="msapplication-task" content="name=L'Univers Mac;action-uri=/univers-mac/?utm_source=msn&utm_medium=epinglage&utm_content=mac&utm_campaign=msn;icon-uri=/favicon.ico" />
+                            <meta name="msapplication-task" content="name=Zone Téléchargement;action-uri=/telecharger/?utm_source=msn&utm_medium=epinglage&utm_content=telechargement&utm_campaign=msn;icon-uri=/favicon.ico" />
+                    
+        
+        <link href="https://plus.google.com/100598320379965851372/" rel="publisher" />
+                <!-- flux rss -->
+        <link rel="alternate" type="application/rss+xml" title="Rss général" href="http://www.clubic.com/articles.rss"/>
+        <link rel="alternate" type="application/rss+xml" title="Clubic pro" href="http://pro.clubic.com/actualites.rss"/>
+                    <link rel="alternate" type="application/rss+xml" title="Bon plan" href="http://www.clubic.com/bon-plan/actualites.rss"/>
+                    <link rel="alternate" type="application/rss+xml" title="Détente et discussions diverses" href="http://www.clubic.com/humour-informatique-geek/actualites.rss"/>
+                    <link rel="alternate" type="application/rss+xml" title="Hardware" href="http://www.clubic.com/materiel-informatique/actualites.rss"/>
+                    <link rel="alternate" type="application/rss+xml" title="Image et son" href="http://www.clubic.com/image-et-son/actualites.rss"/>
+                    <link rel="alternate" type="application/rss+xml" title="Internet" href="http://www.clubic.com/internet/actualites.rss"/>
+                    <link rel="alternate" type="application/rss+xml" title="Jeu vidéo " href="http://www.clubic.com/jeu-video/actualites.rss"/>
+                    <link rel="alternate" type="application/rss+xml" title="Logiciel" href="http://www.clubic.com/telecharger/actualites.rss"/>
+                    <link rel="alternate" type="application/rss+xml" title="Mobilité et téléphonie" href="http://www.clubic.com/mobilite-et-telephonie/actualites.rss"/>
+                    <link rel="alternate" type="application/rss+xml" title="Réseaux" href="http://www.clubic.com/reseau-informatique/actualites.rss"/>
+                    <link rel="alternate" type="application/rss+xml" title="Sécurité informatique" href="http://www.clubic.com/antivirus-securite-informatique/actualites.rss"/>
+                    <link rel="alternate" type="application/rss+xml" title="Technologies d'avenir" href="http://www.clubic.com/technologies-d-avenir/actualites.rss"/>
+                    <link rel="alternate" type="application/rss+xml" title="Télévision" href="http://www.clubic.com/television-tv/actualites.rss"/>
+                    <link rel="alternate" type="application/rss+xml" title="Univers Mac" href="http://www.clubic.com/univers-mac/actualites.rss"/>
+                        <!-- style -->
+        <link rel="shortcut icon" href="http://www.clubic.com/favicon.ico" />
+        <link rel="icon" type="image/ico" href="http://www.clubic.com/favicon.ico" />
+
+        <!--[if IE]><![endif]-->
+        <link href="/css/layout.css?1367240470" rel="stylesheet" type="text/css" />
+<link href="/css/layout/editorial.css?1366879395" rel="stylesheet" type="text/css" />
+
+    
+    <!-- javascript -->
+
+    <script type="text/javascript" src="/js/layout.js?1367240470"></script>
+<script type="text/javascript" src="/js/layout/editorial.js?1366879395"></script>
+
+    	
+    <!--[if lt IE 7]>
+            <script type="text/javascript">
+    
+            $(document).ready(function() {
+                    $('#user_barre').css({width:$(window).width()+'px', position:'absolute'});
+                    $(window).scroll(function(){
+                            $('#user_barre').css('top', $(window).scrollTop()+'px');
+                    });
+            });
+    
+    </script>
+<![endif]-->
+
+    <!-- mise en place de la pub -->
+    <script type="text/javascript"><!--
+	
+	
+	// Tag DFP   
+    (function(){
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+    })();
+
+	
+    var serialPub = '/3338/CLUBIC';
+
+    var targetPub = serialPub + '/sitefactory/actualites/';
+
+    --></script>
+
+
+<script type="text/javascript"><!--
+    
+            googletag.defineSlot(serialPub + '/EP_Standard_300x150', [[300, 150]], 'pub_dart_EP_Standard_300x150').addService(googletag.pubads());
+            googletag.defineSlot(serialPub + '/EP_Premium_300x150', [[300, 150]], 'pub_dart_EP_Premium_300x150').addService(googletag.pubads());
+            googletag.defineOutOfPageSlot(targetPub + 'OVL_B_1x1', 'pub_dart_OVL_B_1x1').addService(googletag.pubads());
+            googletag.defineSlot(targetPub + 'MBR_T_728x90', [[728, 90]], 'pub_dart_MBR_T_728x90').addService(googletag.pubads());
+            googletag.defineSlot(targetPub + 'LIS_T2_5x5', [[5, 5]], 'pub_dart_LIS_T2_5x5').addService(googletag.pubads());
+            googletag.defineSlot(targetPub + 'ADS_L_3x3', [[3, 3]], 'pub_dart_ADS_L_3x3').addService(googletag.pubads());
+            googletag.defineSlot(targetPub + 'HAB_T1_4x4', [[4, 4]], 'pub_dart_HAB_T1_4x4').addService(googletag.pubads());
+            googletag.defineSlot(targetPub + 'REC_M_300x250', [[300, 250]], 'pub_dart_REC_M_300x250').addService(googletag.pubads());
+            googletag.defineSlot(targetPub + 'REC_B_300x250', [[300, 250]], 'pub_dart_REC_B_300x250').addService(googletag.pubads());
+            googletag.defineSlot(targetPub + 'BOU_R_85x65', [[85, 65]], 'pub_dart_BOU_R_85x65').addService(googletag.pubads());
+            googletag.defineSlot(targetPub + 'BOU_B_85x65', [[85, 65]], 'pub_dart_BOU_B_85x65').addService(googletag.pubads());
+            googletag.defineSlot(targetPub + 'MBR_B_728x90', [[728, 90]], 'pub_dart_MBR_B_728x90').addService(googletag.pubads());
+        
+    
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.pubads().enableSyncRendering();
+    googletag.enableServices();	
+--></script>
+
+
+<script type="text/javascript"><!--	
+	// Tag Ezakus
+        var ezMarkerType = 'asq';
+    var ezC = ["g:m6web","d:clubic","flt:0","cat_l1:sitefactory","cat_l2:actualites"];
+    var ezFmt = 'clubic';
+    
+    
+	(function(){
+		var s = document.createElement("script");
+		s.type = "text/javascript";
+		s.src = document.location.protocol + "//asq.ezakus.net/marker/";
+		s.async = true;
+		var head = document.head || document.getElementsByTagName("head")[0];
+		head.appendChild(s);
+	})();     
+	
+	// Fonctions standards M6 Web
+	function crunchDart(){
+		
+			if (document.getElementById('pub_dart_OVL_B_1x1') != null)document.getElementById('pub_dart_OVL_B_1x1').innerHTML = '';
+			if (document.getElementById('pub_dart_MBR_T_728x90') != null)document.getElementById('pub_dart_MBR_T_728x90').innerHTML = '';
+			if (document.getElementById('pub_dart_LIS_T2_5x5') != null)document.getElementById('pub_dart_LIS_T2_5x5').innerHTML = '';
+			if (document.getElementById('pub_dart_ADS_L_3x3') != null)document.getElementById('pub_dart_ADS_L_3x3').innerHTML = '';
+			if (document.getElementById('pub_dart_HAB_T1_4x4') != null)document.getElementById('pub_dart_HAB_T1_4x4').innerHTML = '';
+			if (document.getElementById('pub_dart_REC_M_300x250') != null)document.getElementById('pub_dart_REC_M_300x250').innerHTML = '';
+			if (document.getElementById('pub_dart_REC_B_300x250') != null)document.getElementById('pub_dart_REC_B_300x250').innerHTML = '';
+			if (document.getElementById('pub_dart_BOU_R_85x65') != null)document.getElementById('pub_dart_BOU_R_85x65').innerHTML = '';
+			if (document.getElementById('pub_dart_BOU_B_85x65') != null)document.getElementById('pub_dart_BOU_B_85x65').innerHTML = '';
+			if (document.getElementById('pub_dart_MBR_B_728x90') != null)document.getElementById('pub_dart_MBR_B_728x90').innerHTML = '';
+					
+	
+		if (document.getElementById('pub_dart_crunch') != null)         document.getElementById('pub_dart_crunch').innerHTML = '';
+	}
+	
+	function refreshAds(){
+        var levels = 'YToxMjp7czoxMjoiZXN0YXRfbGV2ZWwxIjtzOjExOiJzaXRlZmFjdG9yeSI7czoxMjoiZXN0YXRfbGV2ZWwyIjtzOjEwOiJhY3R1YWxpdGVzIjtzOjEyOiJlc3RhdF9sZXZlbDMiO3M6MDoiIjtzOjEyOiJlc3RhdF9sZXZlbDQiO3M6MDoiIjtzOjEwOiJwdWJfbGV2ZWwxIjtzOjExOiJzaXRlZmFjdG9yeSI7czoxMDoicHViX2xldmVsMiI7czoxMDoiYWN0dWFsaXRlcyI7czoxMDoicHViX2xldmVsMyI7czowOiIiO3M6MTA6InB1Yl9sZXZlbDQiO3M6MDoiIjtzOjk6ImdhX2xldmVsMSI7czoxMToic2l0ZWZhY3RvcnkiO3M6OToiZ2FfbGV2ZWwyIjtzOjEwOiJhY3R1YWxpdGVzIjtzOjE0OiJ3ZWJwZXJmX2xldmVsMSI7czoxMToic2l0ZWZhY3RvcnkiO3M6MTQ6IndlYnBlcmZfbGV2ZWwyIjtzOjEwOiJhY3R1YWxpdGVzIjt9';
+       
+		
+		if (document.getElementById('pub_dart_MBR_T_728x90') != null){
+	       		document.getElementById('pub_dart_MBR_T_728x90').innerHTML = '<iframe width=\"728\" height=\"90\" frameborder=\"0\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" src=\"/api/doubleclick.php?g=MBR_T_728x90&c=' + levels + '\"></iframe>';
+			}
+		if (document.getElementById('pub_dart_REC_M_300x250') != null){
+	       		document.getElementById('pub_dart_REC_M_300x250').innerHTML = '<iframe width=\"300\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" src=\"/api/doubleclick.php?g=REC_M_300x250&c=' + levels + '\"></iframe>';
+			}
+		if (document.getElementById('pub_dart_REC_B_300x250') != null){
+	       		document.getElementById('pub_dart_REC_B_300x250').innerHTML = '<iframe width=\"300\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" src=\"/api/doubleclick.php?g=REC_B_300x250&c=' + levels + '\"></iframe>';
+			}
+		if (document.getElementById('pub_dart_BOU_R_85x65') != null){
+	       		document.getElementById('pub_dart_BOU_R_85x65').innerHTML = '<iframe width=\"85\" height=\"65\" frameborder=\"0\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" src=\"/api/doubleclick.php?g=BOU_R_85x65&c=' + levels + '\"></iframe>';
+			}
+		if (document.getElementById('pub_dart_BOU_B_85x65') != null){
+	       		document.getElementById('pub_dart_BOU_B_85x65').innerHTML = '<iframe width=\"85\" height=\"65\" frameborder=\"0\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" src=\"/api/doubleclick.php?g=BOU_B_85x65&c=' + levels + '\"></iframe>';
+			}
+		if (document.getElementById('pub_dart_MBR_B_728x90') != null){
+	       		document.getElementById('pub_dart_MBR_B_728x90').innerHTML = '<iframe width=\"728\" height=\"90\" frameborder=\"0\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" src=\"/api/doubleclick.php?g=MBR_B_728x90&c=' + levels + '\"></iframe>';
+			}
+				
+	}
+	
+	function getDartCode(formatPub){
+		return '';
+	}
+	
+	function getPrerollCode(){
+		return '';
+	}
+	
+	function setCookie(document, name, value, expire) {
+		document.cookie = name + '=' + escape(value) + '; path=/;' +((expire == null) ? '' : ('; expires=' + expire.toGMTString()));
+	};
+	
+	function getCookie(name) {
+		var search = name + '=';
+		var defcook= '';
+		if (document.cookie.length > 0)
+		{
+			var offset = document.cookie.indexOf(search);
+			if (offset != -1) {
+				offset += search.length;
+				end = document.cookie.indexOf(';', offset);
+				if (end == -1){end = document.cookie.length;}
+				defcook= unescape(document.cookie.substring(offset, end));
+				if (defcook!=''){return defcook;}
+			}
+		}
+	};
+	
+	function refreshTags() {  
+	    // Refresh de GA
+	    var reg = new RegExp('http[s]?\:\/\/[^\/]+?(\/.*?\.html)', 'gi');
+	    var url = reg.exec(window.location.href);
+	    if(typeof(url) == 'object' && url != null){
+	        if(typeof(pageTracker) == 'object'){
+	            pageTracker._trackPageview(url[1]);
+	        }
+	        if(typeof(firstTracker) == 'object'){
+	            firstTracker._trackPageview(url[1]);
+	        }
+	        if(typeof(secondTracker) == 'object'){
+	            secondTracker._trackPageview(url[1]);
+	        }
+	        if(typeof(_gaq) == 'object'){
+	            _gaq.push(['firstTracker._trackPageview', url[1]]);
+	            _gaq.push(['secondTracker._trackPageview', url[1]]);
+	        }
+	    }
+	
+	    // On refresh les stats (ancien systeme)
+	    if(typeof(cm_i) == 'object'){ var img = new Image(); img.src = cm_arg +'&osef='+ Math.random();}
+	 
+	    // Refresh du tag stat (nouveau)
+	    if(typeof(eStat_loadjs) == 'function'){eStat_tag.post('ml');}
+	}
+			
+		
+--></script>
+
+    <!-- TradeDoubler site verification 1717849 -->
+    <meta name="google-site-verification" content="oC4pkkvtXVysKxl0hcpnh3XEcm3jSA3XB4u2e_YOupg" />
+    <meta name="msvalidate.01" content="2273FFDD5F248D3863F111DBA9FAA8AC" />
+
+    <!-- Google Ads -->
+    <script type="text/javascript">
+        google_ads_datas_default.max = 1;
+    </script> 
+            
+    
+</head>
+
+    <body>
+                <!-- begin ad tag -->
+        <div id="pub_dart_ADS_L_3x3">
+	
+	
+	<script type="text/javascript"><!--
+    
+        if (!(navigator.userAgent.match(/iPhone/i)) && !(navigator.userAgent.match(/iPod/i))){        
+			if(typeof adstimer == 'function'){
+				adstimer();
+			}	
+			
+	        googletag.display('pub_dart_ADS_L_3x3');
+	        	
+			if(typeof adstimer == 'function'){
+				adstimer();
+			}
+        
+        }        
+	--></script>
+	
+</div>
+        <div id="pub_dart_HAB_T1_4x4">
+	
+	
+	<script type="text/javascript"><!--
+    
+        if (!(navigator.userAgent.match(/iPhone/i)) && !(navigator.userAgent.match(/iPod/i))){        
+			if(typeof adstimer == 'function'){
+				adstimer();
+			}	
+			
+	        googletag.display('pub_dart_HAB_T1_4x4');
+	        	
+			if(typeof adstimer == 'function'){
+				adstimer();
+			}
+        
+        }        
+	--></script>
+	
+</div>
+        <!-- end ad tag -->
+        <div id='user_barre'>
+        <div class='container'>
+            <div class="title">Espace membre :</div>
+            <div class="menuUser">
+                <ul class="menu">
+                    <li class='cl_connect'><img src='/api/img/pixel.gif' class='sprite-global bt_connexion_jpg' title='Se connecter avec un compte Clubic' alt='Clubic Connect' /></li>
+                    <li class='fb_connect'><img src='/api/img/pixel.gif' class='sprite-global facebook_connect_jpg' title='Se connecter avec un compte Facebook' alt='Facebook Connect' /></li>
+                    <li class='join'><a href="/api/creer_un_compte.php"><img src="/api/img/pixel.gif" class="sprite-global bt_inscription_jpg" alt='inscription clubic'/></a></li>
+                    <li class='newsletter'><img src="/api/img/pixel.gif" alt='newsletter clubic' class='sprite-global newsletter2_png' title='newsletter Clubic' />Je m'inscris à la newsletter </li>
+                </ul>
+            </div>
+            <div class="clearer"></div>
+        </div>
+    </div>
+
+
+        <div id="clubic">
+
+            <div id="header">
+
+                                
+                
+                
+                <a onClick="javascript:secondTracker._trackPageview('/outgoing/clubic/home/menu/logo');" class="sprite-global logo_png" id="logo" href="http://www.clubic.com" title="Clubic"></a>
+                <div id="search_home" style="margin-right:25px;">  
+                    <form name="recherche" action="/recherche/redirect.php" method="get">
+                        <input onKeyUp="if(event.keyCode==13)this.form.submit();" onFocus="if(this.value=='Rechercher sur...')this.value='';" value="" id="textrecherche" name="textrecherche" size="62" />
+                        <select name="rechercheCat">
+                            <option value="">Tout</option>
+                            <option value="actu">Actus</option>
+                            <option value="telecharger">T&eacute;l&eacute;charger</option>
+                            <option value="prix">Comparateur de prix</option>
+                            <option value="dossier">Dossiers</option>
+                            <option value="forum">Forums</option>
+                            <option value="faq">Astuces</option>
+                            <option value="video">Vidéos</option>
+                        </select>
+                        <input name="submit" id="submit_search" type="submit" class="sprite-global BUrecherche_png" value="" />
+                    </form>
+                </div><!-- .search_home -->
+                                                                                                <div id="fb_twitter_page_header" class=" ">
+                    <a  class="twitter-follow-button count-twitter"  href="https://twitter.com/Clubic"  id="TwitterFollowMe_1367793523,4612_6be01a5e7b922c96375bdf1876d351b2" >Suivre @Clubic</a>
+
+                </div>
+                <div id="fb_like_group_header" class=" ">
+                    <fb:like  class="count-facebook"  id="FacebookLike_top_like_page"  data-href="http://www.facebook.com/pages/Clubic/96758232749" ></fb:like>
+                </div>
+
+                                    <div id="liensTransversaux" style="position: absolute; width:272px; height:106px; top:32px;">
+                        <a href="http://pubads.g.doubleclick.net/gampad/clk?id=40485311&iu=/3338/CLICK-COMMAND/lien" style="" ><img src="/img/header/header_dell.png" width="270" height="99" /></a>
+                    </div>
+                                <div id="menu">
+                    <ul>
+                        <li title="home" class="home sprite-global menuHome_png" id='home'><a href="http://www.clubic.com" title="home" onClick="javascript:secondTracker._trackPageview('outgoing/clubic/home/menu/maison');"><!-- --></a></li>
+                        <li title="Infos" class="Infos sprite-global menu_png" id='Infos' onClick="javascript:secondTracker._trackPageview('outgoing/clubic/home/menu/infos');">
+                            <a href="/actualites-informatique/"><div class="lien">infos</div></a><div class='arrow_down sprite-global infosMenu_png'></div>
+                        </li>
+                        <li class="interlude sprite-global interlude_png"></li>
+                        <li title="Pro" class="Clubicpro sprite-global menu_png" id='Clubicpro' onClick="javascript:secondTracker._trackPageview('outgoing/clubic/home/menu/clubic_pro');">
+                            <a href="http://pro.clubic.com/"><div class="lien">clubic pro</div></a><div class='arrow_down sprite-global infosMenu_png'></div>
+                        </li>
+                        <li class="interlude sprite-global interlude_png"></li>
+                        <li title="Telecharger" class="Telechargement sprite-global menu_png" id='Telechargement' onClick="javascript:secondTracker._trackPageview('outgoing/clubic/home/menu/telecharger');">
+                            <a href="/telecharger/"><div class="lien">télécharger</div></a><div class='arrow_down sprite-global infosMenu_png'></div>
+                        </li>
+                        <li class="interlude sprite-global interlude_png"></li>
+                        <li title="Aide" class="Aide sprite-global menu_png" id='Aide' onClick="javascript:secondTracker._trackPageview('outgoing/clubic/home/menu/aide_achat');">
+                            <a href="/comparateur-de-prix.html"><div class="lien">comparateur de prix</div></a><div class='arrow_down sprite-global infosMenu_png'></div>
+                        </li>
+                        <li class="interlude sprite-global interlude_png"></li>
+                        <li title="Videos" class="Videos sprite-global menu_png" id='Videos' onClick="javascript:secondTracker._trackPageview('outgoing/clubic/home/menu/videos');">
+                            <a href="/video/">
+                                <div class="lien"><span class="sprite-global pictoVideo_png"></span>vidéos</div>
+                            </a>
+                            <div class='arrow_down sprite-global infosMenu_png'></div>
+                        </li>
+                        <li class="interlude sprite-global interlude_png"></li>
+                        <li title="Astuces" class="Commentfaire sprite-global menu_png" id='Commentfaire' onClick="javascript:secondTracker._trackPageview('outgoing/clubic/home/menu/astuces');">
+                            <a href="/probleme-informatique-pc/"><div class="lien">astuces</div></a><div class='arrow_down sprite-global infosMenu_png'></div>
+                        </li>
+                        <li class="interlude sprite-global interlude_png"></li>
+                        <li title="Forum" class="Discussion sprite-global menu_png" id='Discussion' onClick="javascript:secondTracker._trackPageview('outgoing/clubic/home/menu/forum');">
+                            <a href="/forum/"><div class="lien">forum</div></a><div class='arrow_down sprite-global infosMenu_png'></div>
+                        </li>
+                        <li class="interlude sprite-global interlude_png"></li>
+                        <li title="Emploi" class="Event sprite-global menu_png" id='Event' onClick="javascript:secondTracker._trackPageview('outgoing/clubic/home/menu/event');">
+                                                            <a href="/applications/" title="Applis Mobile"  ><div class="lien Emploi">Applis Mobile</div></a>
+                                                    </li>
+                        <li class="sprite-global lastMenu_png"></li>
+                    </ul>
+                </div><!-- #menu -->
+                <div class="clearer"><!-- --></div>
+                <div class="smenu">
+                    <div class="Infos">
+                        <div class="colonne">
+                            
+                                                                                                                        <div><a href="/actualites-informatique/" title="Actualités informatique"  class="couleur" >Actualités informatique</a></div>
+                                                                
+                                                                                                            <div><a href="/materiel-informatique/" title="Matériel informatique" >Matériel informatique</a></div>
+                                                                
+                                                                                                            <div><a href="/mobilite-et-telephonie/" title="Mobilité / Mobinaute" >Mobilité / Mobinaute</a></div>
+                                                                
+                                                                                                            <div><a href="http://pro.clubic.com/" title="E-business / Neteco" >E-business / Neteco</a></div>
+                                                                
+                                                                                                            <div><a href="/univers-mac/" title="Mac" >Mac</a></div>
+                                                                
+                                                                                                            <div><a href="/guide-test-comparatif-informatique/" title="Dossiers : Comparatif, test et guide" >Dossiers : Comparatif, test et guide</a></div>
+                                                                
+                                                                                                            <div><a href="/humour-informatique-geek/clubic-week/ " title="Clubic Week" >Clubic Week</a></div>
+                                            </div><div class="colonne">                    
+                                                                                                            <div><a href="/humour-informatique-geek/detente-avec-flock/" title="Actu en BD avec Flock" >Actu en BD avec Flock</a></div>
+                                                                
+                                                                                                            <div><a href="/humour-informatique-geek/live-japon/" title="Live Japon" >Live Japon</a></div>
+                                                                
+                                                                                                            <div><a href="/humour-informatique-geek/geekget/" title="GeekGet" >GeekGet</a></div>
+                                                                
+                                                                                                            <div><a href="/humour-informatique-geek/debug/" title="Le Debug" >Le Debug</a></div>
+                                                                
+                                                                                                            <div><a href="/diaporama/" title="Diaporamas"  class="couleur" >Diaporamas</a></div>
+                                                                
+                                                                                                            </div><div class="colonne">                                                                
+                                                                                                            <div><a href="/windows-os/windows-7/" title="Windows 7" >Windows 7</a></div>
+                                                                
+                                                                                                            <div><a href="/windows-os/windows-8/" title="Windows 8" >Windows 8</a></div>
+                                                                
+                                                                                                            <div><a href="/smartphone/android/" title="Android" >Android</a></div>
+                                                                
+                                                                                                            <div><a href="/smartphone/iphone/" title="iPhone" >iPhone</a></div>
+                                                                
+                                                                                                            <div><a href="http://pro.clubic.com/legislation-loi-internet/hadopi/" title="Hadopi" >Hadopi</a></div>
+                                                                
+                                                                                                            </div><div class="colonne">                                                                
+                                                                                                            <div><a href="/divers/partner.php" title="Accès flux RSS"  class="couleur" >Accès flux RSS</a></div>
+                                                                
+                            </div>
+        </div>
+        <div class="Clubicpro">
+            <div class="colonne">
+                
+                                                                        <div><a href="http://pro.clubic.com/" title="Technologie et E-business"  class="couleur" >Technologie et E-business</a></div>
+                            
+                                                            <div><a href="http://pro.clubic.com/creation-de-site-web/" title="Création de site web" >Création de site web</a></div>
+                            
+                                                            <div><a href="http://pro.clubic.com/webmarketing/" title="Webmarketing" >Webmarketing</a></div>
+                            
+                                                            <div><a href="http://pro.clubic.com/blog-forum-reseaux-sociaux/" title="Réseaux sociaux et communauté" >Réseaux sociaux et communauté</a></div>
+                            
+                                                            <div><a href="http://pro.clubic.com/e-commerce/" title="E-commerce et monétisation" >E-commerce et monétisation</a></div>
+                            
+                                                            <div><a href="http://pro.clubic.com/entrepreneur-et-creation-entreprise/" title="Entrepreneur et création entreprise" >Entrepreneur et création entreprise</a></div>
+                    </div><div class="colonne">        
+                                                            <div><a href="http://pro.clubic.com/it-business/" title="IT Business" >IT Business</a></div>
+                            
+                                                            <div><a href="http://pro.clubic.com/actualite-e-business/" title="Actualités E Business" >Actualités E Business</a></div>
+                            
+                                                            <div><a href="http://pro.clubic.com/technologie-et-politique/" title="Technologies et Politique" >Technologies et Politique</a></div>
+                            
+                                                            <div><a href="http://pro.clubic.com/entreprises/" title="Entreprises" >Entreprises</a></div>
+                            
+                                                            <div><a href="http://pro.clubic.com/personnalites-e-business/" title="Personnalités E-business" >Personnalités E-business</a></div>
+                            
+                                                                                 </div><div class="colonne">        
+    </div>
+</div>
+<div class="Telechargement">
+    <div class="colonne">
+        
+                                        <div><a href="/telecharger/" title="Logiciel / Télécharger"  class="couleur" >Logiciel / Télécharger</a></div>
+    
+                                <div><a href="/telecharger/windows/" title="Windows" >Windows</a></div>
+    
+                                <div><a href="/telecharger/mac/" title="Mac" >Mac</a></div>
+    
+                                <div><a href="/telecharger/linux/" title="Linux" >Linux</a></div>
+    
+                                <div><a href="/telecharger/ios/" title="iOS (iPhone, iPod, iPad)" >iOS (iPhone, iPod, iPad)</a></div>
+    
+                                <div><a href="/telecharger/android/" title="Android" >Android</a></div>
+    
+                                <div><a href="/telecharger/wp/" title="Windows Phone" >Windows Phone</a></div>
+    </div><div class="colonne">
+                                <div><a href="/telecharger/" title="Univers et catégories"  class="couleur" >Univers et catégories</a></div>
+    
+                                <div><a href="/telecharger/windows/bureautique/" title="Bureautique" >Bureautique</a></div>
+    
+                                <div><a href="/telecharger/windows/internet/" title="Internet" >Internet</a></div>
+    
+                                <div><a href="/telecharger/windows/multimedia/" title="Multimédia et création" >Multimédia et création</a></div>
+    
+                                <div><a href="/telecharger/windows/video/" title="+ Vidéo" >+ Vidéo</a></div>
+    
+                                <div><a href="/telecharger/windows/audio-mp3/" title="+ Audio &amp; Mp3" >+ Audio &amp; Mp3</a></div>
+    
+                                <div><a href="/telecharger/windows/Photo/" title="+ Photo" >+ Photo</a></div>
+    </div><div class="colonne">
+                                <div><a href="/telecharger/windows/utilitaire/" title="Utilitaires" >Utilitaires</a></div>
+    
+                                <div><a href="/telecharger/windows/vie-pratique/" title="Loisirs &amp; vie pratique" >Loisirs &amp; vie pratique</a></div>
+    
+                                <div><a href="/telecharger/windows/jeux-divertissement/" title="Jeux &amp; divertissements" >Jeux &amp; divertissements</a></div>
+    
+                                <div><a href="/telecharger/windows/educatifs/" title="Education et Sciences" >Education et Sciences</a></div>
+    
+                                <div><a href="/telecharger/windows/professionnel/" title="Développements &amp; Pro" >Développements &amp; Pro</a></div>
+    
+                                </div><div class="colonne">    
+                                <div><a href="http://nexway.jeuxvideo.fr/" target="_blank" title="Téléchargement jeux PC"  class="couleur"  rel="nofollow">Téléchargement jeux PC</a></div>
+    
+                                <div><a href="/pilotes---tout-produit---toute-marque---0-0-0-0.html" title="Pilotes et drivers" >Pilotes et drivers</a></div>
+    
+                                <div><a href="/toutes-les-demos-1-4.html" title="Démos de jeux" >Démos de jeux</a></div>
+    
+                                <div><a href="/tous-les-patchs-1-4.html" title="Patchs de jeux" >Patchs de jeux</a></div>
+    
+</div>
+
+</div>
+<div class="Aide">
+    <div class="colonne">
+        
+                                        <div><a href="/comparer-prix/pc-portable/" title="PC portable" >PC portable</a></div>
+    
+                                <div><a href="/comparer-prix/pc-de-bureau/" title="PC bureau" >PC bureau</a></div>
+    
+                                <div><a href="/comparer-prix/pc-gamer/" title="PC Gamer" >PC Gamer</a></div>
+    
+                                <div><a href="/comparer-prix/pc-portable-gamer/" title="PC Portable Gamer" >PC Portable Gamer</a></div>
+    
+                                <div><a href="/comparer-prix/tablet-pc/" title="Tablette" >Tablette</a></div>
+    
+                                <div><a href="/comparer-prix/ebook/" title="Ebook" >Ebook</a></div>
+    
+                                </div><div class="colonne">    
+                                <div><a href="/comparer-prix/gps/" title="GPS" >GPS</a></div>
+    
+                                <div><a href="/comparer-prix/telephone-android/" title="Téléphone Android" >Téléphone Android</a></div>
+    
+                                <div><a href="/comparer-prix/iphone/" title="iPhone" >iPhone</a></div>
+    
+                                <div><a href="/comparer-prix/smartphone/" title="Smartphone" >Smartphone</a></div>
+    
+                                <div><a href="/comparer-prix/appareil-photo-numerique/" title="Appareil photo numérique" >Appareil photo numérique</a></div>
+    
+                                <div><a href="/comparer-prix/ipad/" title="iPad" >iPad</a></div>
+    </div><div class="colonne">
+                                <div><a href="/comparer-prix/disque-dur-externe/" title="Disque dur externe" >Disque dur externe</a></div>
+    
+                                <div><a href="/comparer-prix/disque-dur/" title="Disque dur" >Disque dur</a></div>
+    
+                                <div><a href="/comparer-prix/carte-mere/" title="Carte mère" >Carte mère</a></div>
+    
+                                <div><a href="/comparer-prix/logiciel/" title="Logiciel" >Logiciel</a></div>
+    
+                                <div><a href="/comparer-prix/carte-graphique/" title="Carte graphique" >Carte graphique</a></div>
+    
+                                <div><a href="/comparer-prix/processeur/" title="Processeur" >Processeur</a></div>
+    
+                                </div><div class="colonne">    
+                                <div><a href="/comparer-prix/ipod-touch/" title="iPod Touch" >iPod Touch</a></div>
+    
+                                <div><a href="/comparer-prix/tv-led/" title="TV LED" >TV LED</a></div>
+    
+                                <div><a href="/comparer-prix/televiseur-lcd-16-9/" title="TV LCD" >TV LCD</a></div>
+    
+                                <div><a href="/comparer-prix/televiseur-3d/" title="TV 3D" >TV 3D</a></div>
+    
+                                <div><a href="/comparer-prix/lecteurs-hd-dvd-blu-ray/" title="Lecteur Blu-ray" >Lecteur Blu-ray</a></div>
+    
+                                <div><a href="/comparatif/home-cinema/" title="Home cinema" >Home cinema</a></div>
+    </div><div class="colonne">
+                                <div><a href="/guide-test-comparatif-informatique/" title="Dossiers, tests et comparatifs"  class="couleur" >Dossiers, tests et comparatifs</a></div>
+    
+                                <div><a href="/guide-achat-materiel-informatique-high-tech/" title="Guide d&#039;achat informatique et high tech" >Guide d&#039;achat informatique et high tech</a></div>
+    
+                                <div><a href="/choisir-materiel-informatique-high-tech/" title="Comment choisir votre matériel ?" >Comment choisir votre matériel ?</a></div>
+    
+                                <div><a href="/article-13957-1-les-configurations-completes-de-reference.html" title="Les PC Clubic, designés par la Rédaction" >Les PC Clubic, designés par la Rédaction</a></div>
+    
+</div>
+</div>
+
+ <div class="Videos">
+     <div class="colonne">
+         
+                                            <div><a href="/video/" title="Vidéos"  class="couleur" >Vidéos</a></div>
+       
+                                    <div><a href="/video/le-debug/" title="Le Debug" >Le Debug</a></div>
+       
+                                    <div><a href="/video/clubic-week/" title="Clubic Week" >Clubic Week</a></div>
+       
+                                    <div><a href="/video/geekget/" title="Geekget" >Geekget</a></div>
+       
+                                            
+  </div>
+ 
+ - </div>
+
+<div class="Commentfaire">
+    <div class="colonne">
+        
+                                        <div><a href="/probleme-informatique-pc/" title="Problème PC / Mac"  class="couleur" >Problème PC / Mac</a></div>
+    
+                                     
+</div>
+</div>
+<div class="Discussion">
+    <div class="colonne">
+        
+                                        <div><a href="/forum/" title="Forum PC et informatique"  class="couleur" >Forum PC et informatique</a></div>
+    
+                                <div><a href="/forum/hardware-general/" title="Hardware" >Hardware</a></div>
+    
+                                <div><a href="/forum/jeux-video-pc/" title="Jeux PC" >Jeux PC</a></div>
+    
+                                <div><a href="/forum/overclocking-tuning/" title="Overclocking et tuning" >Overclocking et tuning</a></div>
+    
+                                <div><a href="/forum/microsoft-windows/" title="Microsoft Windows" >Microsoft Windows</a></div>
+    
+                                <div><a href="/forum/logiciel-general/" title="Logiciel" >Logiciel</a></div>
+    
+                                <div><a href="/forum/ordinateurs-portables-pda-mobile/" title="Ordinateurs portables" >Ordinateurs portables</a></div>
+    </div><div class="colonne">
+                                <div><a href="/forum/petites-annonces-ventes-achats/" title="Petites annonces" >Petites annonces</a></div>
+    
+                                <div><a href="/forum/debat-sur-l-actu/" title="Debat sur l&#039;actu" >Debat sur l&#039;actu</a></div>
+    
+                                <div><a href="/forum/et-a-part-ca/" title="Et à part ça" >Et à part ça</a></div>
+    
+                                </div><div class="colonne">    
+                                <div><a href="/api/creer_un_compte.php?next=/forum/" title="Rejoindre la communauté" >Rejoindre la communauté</a></div>
+    
+                                <div><a href="/divers/partner.php" title="M&#039;abonner aux flux" >M&#039;abonner aux flux</a></div>
+    
+                                </div><div class="colonne">    
+                                <div><a href="/probleme-informatique-pc/question.html" title="Problème informatique"  class="couleur" >Problème informatique</a></div>
+    
+</div>
+</div>
+</div><!-- #menu -->
+<!-- .nav_search -->
+<div class="clearer"><!-- --></div>
+</div><!-- #header --><div id="banniere" style="background-color: #393738; width: 1000px; position: relative;"></div>
+    <div id="pub_dart_LIS_T2_5x5">
+	
+	
+	<script type="text/javascript"><!--
+    
+                
+			if(typeof adstimer == 'function'){
+				adstimer();
+			}	
+			
+	        googletag.display('pub_dart_LIS_T2_5x5');
+	        	
+			if(typeof adstimer == 'function'){
+				adstimer();
+			}
+        
+                
+	--></script>
+	
+</div>
+            <div id="pub_dart_MBR_T_728x90">
+	<span id="annonce_pub"><img src="/api/img/pixel.gif" class="sprite-global arrowDown_pub_png" alt="fleche" />Publicit&eacute;</span>
+	
+	<script type="text/javascript"><!--
+    
+                
+			if(typeof adstimer == 'function'){
+				adstimer();
+			}	
+			
+	        googletag.display('pub_dart_MBR_T_728x90');
+	        	
+			if(typeof adstimer == 'function'){
+				adstimer();
+			}
+        
+                
+	--></script>
+	
+</div>
+    <div id="actuList" class="contenu_principal">
+	
+	<div class="block_central">
+		<div class="breadcrumb">
+						<a class="step first" href="/" title="Clubic">Clubic</a>
+				
+					<span class="separator">&gt;</span>
+								<a class="step last" href="/actualites-informatique/" title="Actualités">Actualités</a>
+				
+			</div>
+
+		<h1>// Les titres de l'actualité</h1>
+
+					<a name="2013-05-04"></a>
+			<h3>samedi  4 mai 2013</h3>
+				
+			<div class="contenu_block_central">
+				<div class="actuDayList">
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/humour-informatique-geek/">Détente et discussions diverses</a>
+									<span>|</span>
+								
+								<div class="date">15:43</div>
+																	<div class="comments">15 commentaires</div>
+															</div>
+							
+							<a class="title" href="/humour-informatique-geek/live-japon/actualite-557592-live-japon.html">Live Japon : l'effet "abenomics"</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/humour-informatique-geek/">Détente et discussions diverses</a>
+									<span>|</span>
+								
+								<div class="date">14:22</div>
+																	<div class="comments">6 commentaires</div>
+															</div>
+							
+							<a class="title" href="/humour-informatique-geek/revue-web/actualite-557512-revue-web-petit-ibm-atomes.html">Revue de Web : l'infiniment petit fait son cinéma !</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/[pro]/">Clubic Pro</a>
+									<span>|</span>
+								
+								<div class="date">05:30</div>
+																	<div class="comments">3 commentaires</div>
+															</div>
+							
+							<a class="title" href="http://pro.clubic.com/actualite-e-business/actualite-557614-infos-us-nuit-google-glass-iphone-spotify-agrandit-apple-domine-smartphones.html">Infos US de la nuit : Google Glass pour iPhone, Spotify s'agrandit, Apple domine les smartphones</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/humour-informatique-geek/">Détente et discussions diverses</a>
+									<span>|</span>
+								
+								<div class="date">00:05</div>
+															</div>
+							
+							<a class="title" href="http://www.clubic.com/video/clubic-week/video-clubic-week-2-0-facebook-prend-ses-conseils-chez-picsou-432762.html">Clubic Week 2.0 : Facebook prend ses conseils chez Picsou</a>
+						</div>
+											<div class="actu last">
+							<div class="infos">
+																	<a class="category" href="/humour-informatique-geek/">Détente et discussions diverses</a>
+									<span>|</span>
+								
+								<div class="date">00:02</div>
+															</div>
+							
+							<a class="title" href="http://www.clubic.com/diaporama/photo-la-semaine-de-flock-perd-la-tete-61666/">La semaine de Flock se méfie des imitations</a>
+						</div>
+									</div>
+			</div>
+					<a name="2013-05-03"></a>
+			<h3>vendredi  3 mai 2013</h3>
+				
+			<div class="contenu_block_central">
+				<div class="actuDayList">
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/mobilite-et-telephonie/">Mobilité et téléphonie</a>
+									<span>|</span>
+								
+								<div class="date">19:39</div>
+																	<div class="comments">24 commentaires</div>
+															</div>
+							
+							<a class="title" href="http://pro.clubic.com/entreprises/rim/actualite-557602-blackberry-france-reduction-emplois.html">BlackBerry France prévoirait de supprimer 36 postes</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/internet/">Internet</a>
+									<span>|</span>
+								
+								<div class="date">19:25</div>
+																	<div class="comments">18 commentaires</div>
+															</div>
+							
+							<a class="title" href="/insolite/actualite-557586-plainte-warner-bros-cats.html">La Warner Bros traînée en justice à cause de Nyan Cat et Keyboard Cat</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/internet/">Internet</a>
+									<span>|</span>
+								
+								<div class="date">19:09</div>
+																	<div class="comments">8 commentaires</div>
+															</div>
+							
+							<a class="title" href="/internet/twitter/actualite-557576-etude-eff-protection-donnees-web.html">Données personnelles: Twitter classé premier sur la transparence</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/mobilite-et-telephonie/">Mobilité et téléphonie</a>
+									<span>|</span>
+								
+								<div class="date">18:42</div>
+																	<div class="comments">10 commentaires</div>
+															</div>
+							
+							<a class="title" href="/windows-os/windows-8/actualite-557556-acer-apsire-r7.html">Acer Aspire R7, P3 et Iconia A1 : 2 hybrides Windows 8 et 1 tablette Android</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/[pro]/">Clubic Pro</a>
+									<span>|</span>
+								
+								<div class="date">18:41</div>
+																	<div class="comments">1 commentaire</div>
+															</div>
+							
+							<a class="title" href="http://pro.clubic.com/it-business/actualite-555696-world-avenir-it-passait-saas.html">CA Technologies : ambitions et stratégie sur le Saas</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/television-tv/">Télévision</a>
+									<span>|</span>
+								
+								<div class="date">18:09</div>
+																	<div class="comments">9 commentaires</div>
+															</div>
+							
+							<a class="title" href="/television-tv/video-streaming/dailymotion/actualite-557580-hadopi-contenus-dailymotion.html">La Hadopi décortique les contenus proposés sur Dailymotion</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/bon-plan/">Bon plan</a>
+									<span>|</span>
+								
+								<div class="date">17:42</div>
+																	<div class="comments">7 commentaires</div>
+															</div>
+							
+							<a class="title" href="/bon-plan/actualite-557568-bon-plans-bundles-mac.html">Bons plans : deux bundles de logiciels pour OS X</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/univers-mac/">Univers Mac</a>
+									<span>|</span>
+								
+								<div class="date">17:18</div>
+																	<div class="comments">20 commentaires</div>
+															</div>
+							
+							<a class="title" href="/telecharger/logiciel-musique-et-streaming/itunes/actualite-557570-itunes-bon-achat-10-000-dollars-50-telechargements.html">App Store : un bon d'achat de 10 000 dollars pour les 50 milliards de téléchargements</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+								
+								<div class="date">17:00</div>
+															</div>
+							
+							<a class="title" href="/internet/article-557118-1-bitcoin-crypto-monnaies.html">Bitcoin et Cie : la nouvelle ruée vers l'or</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/technologies-d-avenir/">Technologies d'avenir</a>
+									<span>|</span>
+								
+								<div class="date">17:00</div>
+															</div>
+							
+							<a class="title" href="http://www.clubic.com/internet/article-557118-1-bitcoin-crypto-monnaies.html">Bitcoin et Cie : la nouvelle ruée vers l'or</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/reseau-informatique/">Réseaux</a>
+									<span>|</span>
+								
+								<div class="date">16:44</div>
+																	<div class="comments">4 commentaires</div>
+															</div>
+							
+							<a class="title" href="http://pro.clubic.com/it-business/securite-et-donnees/actualite-557554-securite-projet-loi-preparation-reseaux-critiques.html">Sécurité : un projet de loi serait en préparation pour les réseaux critiques</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/television-tv/">Télévision</a>
+									<span>|</span>
+								
+								<div class="date">16:11</div>
+																	<div class="comments">9 commentaires</div>
+															</div>
+							
+							<a class="title" href="http://pro.clubic.com/actualite-e-business/actualite-557492-awesomness-33-dollars-chaine-youtube.html">La chaîne YouTube Awesomeness TV est rachetée 33 millions de dollars par DreamWorks</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/internet/">Internet</a>
+									<span>|</span>
+								
+								<div class="date">15:57</div>
+																	<div class="comments">12 commentaires</div>
+															</div>
+							
+							<a class="title" href="/navigateur-internet/mozilla-firefox/actualite-557516-jeu-epic-citadel-porte-firefox.html">Le jeu Epic Citadel porté sur le web et optimisé pour Firefox Nightly</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/mobilite-et-telephonie/">Mobilité et téléphonie</a>
+									<span>|</span>
+								
+								<div class="date">15:41</div>
+																	<div class="comments">8 commentaires</div>
+															</div>
+							
+							<a class="title" href="/application-mobile/actualite-557494-voyages-sncf-easyjet-ouvrent-passbook-ios-apple-embarquement.html">Voyages-SNCF et Easyjet s'ouvrent au m-billet, ainsi qu'au Passbook d'iOS</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/internet/">Internet</a>
+									<span>|</span>
+								
+								<div class="date">14:47</div>
+																	<div class="comments">24 commentaires</div>
+															</div>
+							
+							<a class="title" href="/application-web/actualite-557506-gmail-recoit-legere.html">Google intègre davantage son agenda à Gmail</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/mobilite-et-telephonie/">Mobilité et téléphonie</a>
+									<span>|</span>
+								
+								<div class="date">14:01</div>
+																	<div class="comments">38 commentaires</div>
+															</div>
+							
+							<a class="title" href="/smartphone/blackberry/actualite-557486-blackberry-r10-image.html">Le BlackBerry R10 dévoilé en image ?</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/mobilite-et-telephonie/">Mobilité et téléphonie</a>
+									<span>|</span>
+								
+								<div class="date">13:33</div>
+																	<div class="comments">23 commentaires</div>
+															</div>
+							
+							<a class="title" href="/telephone-portable/operateur-telephonie-mobile/bouygues-telecom/actualite-557484-b-you-illimite-algerie-mayotte.html">B&You revient sur l'illimité vers l'Algérie et enrichit son offre vers les DOM</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/mobilite-et-telephonie/">Mobilité et téléphonie</a>
+									<span>|</span>
+								
+								<div class="date">13:14</div>
+																	<div class="comments">24 commentaires</div>
+															</div>
+							
+							<a class="title" href="/internet/google/actualite-557488-lg-google-partenaires-nexus-5-google.html">LG et Google, partenaires sur le Nexus 5 et sur une Google TV OLED ?</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/television-tv/">Télévision</a>
+									<span>|</span>
+								
+								<div class="date">12:52</div>
+																	<div class="comments">28 commentaires</div>
+															</div>
+							
+							<a class="title" href="http://pro.clubic.com/entreprises/orange-france-telecom/actualite-557466-dailymotion.html">Orange repart en quête d'un allié américain pour Dailymotion</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/telecharger/">Logiciel</a>
+									<span>|</span>
+								
+								<div class="date">12:23</div>
+																	<div class="comments">8 commentaires</div>
+															</div>
+							
+							<a class="title" href="/os-mobile/actualite-557462-mozilla-simulateur-firefox-os-3.html">Mozilla publie son simulateur pour Firefox OS en version 3.0</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/mobilite-et-telephonie/">Mobilité et téléphonie</a>
+									<span>|</span>
+								
+								<div class="date">12:09</div>
+																	<div class="comments">20 commentaires</div>
+															</div>
+							
+							<a class="title" href="http://pro.clubic.com/it-business/securite-et-donnees/actualite-557448-smartphones-pentagone-securite-blackberry.html">Certification : le Pentagone ravive la guerre des smartphones</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/materiel-informatique/">Hardware</a>
+									<span>|</span>
+								
+								<div class="date">11:49</div>
+																	<div class="comments">10 commentaires</div>
+															</div>
+							
+							<a class="title" href="/materiel-informatique/clavier-gamer-informatique/actualite-557458-claviers-gamer-msi.html">Deux nouveaux claviers gamer chez MSI</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/internet/">Internet</a>
+									<span>|</span>
+								
+								<div class="date">11:22</div>
+																	<div class="comments">16 commentaires</div>
+															</div>
+							
+							<a class="title" href="/internet/google/actualite-557444-hangouts-dote-acces-bureau-distance.html">Google Hangouts se dote d'un accès au bureau à distance</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/[pro]/">Clubic Pro</a>
+									<span>|</span>
+								
+								<div class="date">11:18</div>
+															</div>
+							
+							<a class="title" href="http://pro.clubic.com/blog-forum-reseaux-sociaux/linkedin/actualite-557424-linkedin-resultats.html">LinkedIn quadruple ses profits mais déçoit sur ses prévisions</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/telecharger/">Logiciel</a>
+									<span>|</span>
+								
+								<div class="date">11:01</div>
+																	<div class="comments">8 commentaires</div>
+															</div>
+							
+							<a class="title" href="/os-mobile/android/actualite-557442-google-embauche-game-designer-chef-developper-jeux-android.html">Google embauche un game designer en chef pour développer des jeux sous Android</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/[pro]/">Clubic Pro</a>
+									<span>|</span>
+								
+								<div class="date">10:40</div>
+															</div>
+							
+							<a class="title" href="http://pro.clubic.com/entreprises/google/actualite-557434-google-125-dollars-lending-club.html">Google investit 125 millions de dollars au sein de Lending Club</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/materiel-informatique/">Hardware</a>
+									<span>|</span>
+								
+								<div class="date">10:16</div>
+																	<div class="comments">31 commentaires</div>
+															</div>
+							
+							<a class="title" href="/ordinateur-pc/actualite-557416-solution-watercooling-raspberry-pie.html">Une solution de watercooling pour le Raspberry Pi</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/mobilite-et-telephonie/">Mobilité et téléphonie</a>
+									<span>|</span>
+								
+								<div class="date">09:59</div>
+																	<div class="comments">68 commentaires</div>
+															</div>
+							
+							<a class="title" href="/application-mobile/actualite-557410-google-refute-problemes-batterie-poses-application-ios.html">Google réfute les problèmes de batterie posés par son application iOS</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/[pro]/">Clubic Pro</a>
+									<span>|</span>
+								
+								<div class="date">08:58</div>
+																	<div class="comments">1 commentaire</div>
+															</div>
+							
+							<a class="title" href="http://pro.clubic.com/blog-forum-reseaux-sociaux/twitter/actualite-557396-twitter-embauche-ex-morgan-stanley-prevoirait-entree-bourse.html">Twitter embauche un ex de Morgan Stanley et prévoirait son entrée en bourse</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/mobilite-et-telephonie/">Mobilité et téléphonie</a>
+									<span>|</span>
+								
+								<div class="date">08:33</div>
+																	<div class="comments">30 commentaires</div>
+															</div>
+							
+							<a class="title" href="/mobilite-et-telephonie/actualite-557394-arcep-36-forfaits-engagement-50-sms-trimestre.html">36% des forfaits mobiles sont désormais sans engagement </a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/internet/">Internet</a>
+									<span>|</span>
+								
+								<div class="date">08:31</div>
+																	<div class="comments">49 commentaires</div>
+															</div>
+							
+							<a class="title" href="/application-web/actualite-557382-outlook-microsoft-revendique-400-comptes-actifs.html">Outlook.com : Microsoft revendique 400 millions de comptes actifs</a>
+						</div>
+											<div class="actu last">
+							<div class="infos">
+																	<a class="category" href="/[pro]/">Clubic Pro</a>
+									<span>|</span>
+								
+								<div class="date">05:30</div>
+															</div>
+							
+							<a class="title" href="http://pro.clubic.com/actualite-e-business/actualite-557388-infos-us-nuit-nouveaute-instagram-facebook-hausse-gadget-photo-iphone.html">Infos US de la nuit : nouveauté chez Instagram, Facebook en hausse, gadget photo sur iPhone</a>
+						</div>
+									</div>
+			</div>
+					<a name="2013-05-02"></a>
+			<h3>jeudi  2 mai 2013</h3>
+				
+			<div class="contenu_block_central">
+				<div class="actuDayList">
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/materiel-informatique/">Hardware</a>
+									<span>|</span>
+								
+								<div class="date">19:14</div>
+																	<div class="comments">18 commentaires</div>
+															</div>
+							
+							<a class="title" href="/processeur/processeur-intel/actualite-557376-intel-haswell-iris-pro.html">Intel évoque "Iris" le graphique intégré d'Haswell, 4ème génération de processeur Core</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/internet/">Internet</a>
+									<span>|</span>
+								
+								<div class="date">18:38</div>
+																	<div class="comments">36 commentaires</div>
+															</div>
+							
+							<a class="title" href="http://pro.clubic.com/legislation-loi-internet/actualite-557366-retenir-class-actions-francaise.html">Le gouvernement propose ses "class actions" à la française</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/technologies-d-avenir/">Technologies d'avenir</a>
+									<span>|</span>
+								
+								<div class="date">18:16</div>
+																	<div class="comments">16 commentaires</div>
+															</div>
+							
+							<a class="title" href="/technologies-d-avenir/actualite-557368-oreille-bionique-mele-impression-3d-electronique.html">Une oreille bionique qui mêle impression 3D et électronique</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/[pro]/">Clubic Pro</a>
+									<span>|</span>
+								
+								<div class="date">18:12</div>
+																	<div class="comments">7 commentaires</div>
+															</div>
+							
+							<a class="title" href="http://pro.clubic.com/it-business/base-de-donnees/actualite-557160-skysql-mariadb-patrik-sallner.html">SkySQL fusionne avec Monty Program, pour faire de MariaDB le futur de MySQL</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/internet/">Internet</a>
+									<span>|</span>
+								
+								<div class="date">17:55</div>
+																	<div class="comments">30 commentaires</div>
+															</div>
+							
+							<a class="title" href="/connexion-internet/fai-orange-livebox/actualite-557342-livebox-play-box.html">Livebox Play : Orange corrige des problèmes de télécommande </a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/materiel-informatique/">Hardware</a>
+									<span>|</span>
+								
+								<div class="date">17:19</div>
+																	<div class="comments">4 commentaires</div>
+															</div>
+							
+							<a class="title" href="http://pro.clubic.com/entreprises/intel/actualite-557344-brian-krzanich-prendra-tete-intel.html">Brian Krzanich devient DG d'Intel, à la place de Paul Otellini </a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/[pro]/">Clubic Pro</a>
+									<span>|</span>
+								
+								<div class="date">17:11</div>
+																	<div class="comments">3 commentaires</div>
+															</div>
+							
+							<a class="title" href="/antivirus-securite-informatique/actualite-557336-avast-secure-securite-comptes-facebook.html">Avast rachète Secure.me pour la sécurité des comptes Facebook</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/internet/">Internet</a>
+									<span>|</span>
+								
+								<div class="date">16:48</div>
+																	<div class="comments">125 commentaires</div>
+															</div>
+							
+							<a class="title" href="/internet/facebook/actualite-557338-facebook-supprime-video-decapitation-plateforme.html">Facebook finit par supprimer une vidéo de décapitation</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/[pro]/">Clubic Pro</a>
+									<span>|</span>
+								
+								<div class="date">16:25</div>
+																	<div class="comments">1 commentaire</div>
+															</div>
+							
+							<a class="title" href="http://pro.clubic.com/entreprises/kodak/actualite-557284-kodak.html">Kodak pense bientôt sortir du contrôle du tribunal des faillites</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/[pro]/">Clubic Pro</a>
+									<span>|</span>
+								
+								<div class="date">15:49</div>
+															</div>
+							
+							<a class="title" href="http://pro.clubic.com/entreprises/actualite-557332-reseau-social-entreprise-tibbr-ouvre-majorite-plate-formes-mobiles.html">Réseau social d'entreprise : Tibbr souvre à la majorité des plate-formes mobiles</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/internet/">Internet</a>
+									<span>|</span>
+								
+								<div class="date">15:44</div>
+																	<div class="comments">6 commentaires</div>
+															</div>
+							
+							<a class="title" href="http://pro.clubic.com/e-commerce/actualite-557248-commerce-paypal-mecanisme-authentification.html">E-commerce : PayPal lance son mécanisme d'authentification</a>
+						</div>
+											<div class="actu ">
+							<div class="infos">
+																	<a class="category" href="/antivirus-securite-informatique/">Sécurité informatique</a>
+									<span>|</span>
+								
+								<div class="date">15:26</div>
+																	<div class="comments">10 commentaires</div>
+															</div>
+							
+							<a class="title" href="/antivirus-securite-informatique/virus-hacker-piratage/piratage-informatique/actualite-557290-sports-logiciel-anti-triche-cachait-botnet-miner-bitcoins.html">E-sports : un logiciel anti-triche cachait un malware pour miner des bitcoins</a>
+						</div>
+											<div class="actu last">
+							<div class="infos">
+																	<a class="category" href="/mobilite-et-telephonie/">Mobilité et téléphonie</a>
+									<span>|</span>
+								
+								<div class="date">15:22</div>
+																	<div class="comments">23 commentaires</div>
+															</div>
+							
+							<a class="title" href="http://pro.clubic.com/actualite-e-business/actualite-557264-marche-tablettes-apple.html">Le marché des tablettes explose, la concurrence s'intensifie</a>
+						</div>
+									</div>
+			</div>
+		
+		<div style="clear:both"></div>
+
+<div class="navigation tEditorial">
+			<a class="previous" href="/actualites-informatique/" title="Page précédente">< Page précédente</a>
+		<a class="next" href="/actualites-informatique/page_2.html" title="Page suivante">Page suivante ></a>
+
+									<span class="page">1</span>
+			
+							<span class="separator">|</span>
+												<a class="page" href="/actualites-informatique/page_2.html" title="Page ">2</a>
+			
+							<span class="separator">|</span>
+												<a class="page" href="/actualites-informatique/page_3.html" title="Page ">3</a>
+			
+							<span class="separator">|</span>
+												<a class="page" href="/actualites-informatique/page_4.html" title="Page ">4</a>
+			
+							<span class="separator">|</span>
+												<a class="page" href="/actualites-informatique/page_5.html" title="Page ">5</a>
+			
+						</div>
+			</div>
+	
+	<div class="block_right">
+		<div id='colonne_widgets' style='width:300px;margin:0px;padding:0px;background-color:#fff;'><div class="widgetGA" onclick="javascript:if(typeof secondTracker == 'object'){secondTracker._trackPageview('/outgoing/widget_track/actualite/pub-carre-smart-php/position_verticale');}"><div class='one_widget pub-carre-smart-php' style='float:right;width:300px;margin:0px 0px 15px 0px;padding:0px;clear:both;'>
+<span id="annonce_pub2"><img src="http://www.clubic.com/img/home/arrowDown_black_pub.png" alt="fleche" />Publicité</span>
+<div id="pub_dart_REC_M_300x250">
+	
+	
+	<script type="text/javascript"><!--
+    
+                
+			if(typeof adstimer == 'function'){
+				adstimer();
+			}	
+			
+	        googletag.display('pub_dart_REC_M_300x250');
+	        	
+			if(typeof adstimer == 'function'){
+				adstimer();
+			}
+        
+                
+	--></script>
+	
+</div></div></div><div class='clearer'></div>
+<div class="widgetGA" onclick="javascript:if(typeof secondTracker == 'object'){secondTracker._trackPageview('/outgoing/widget_track/actualite/widget-intelligent-v1/position_verticale');}"><div class='one_widget widget-intelligent-v1' style='float:right;width:300px;margin:0px 0px 15px 0px;padding:0px;clear:both;'>
+<div class='titre3'>
+		<div class='titre3_milieu'><h2>Les bons plans !</h2></div>
+</div>
+<div id='shopper-widget-intelligent'></div>
+<!-- Widget produits @ 1 -->
+<script type="text/javascript"> 
+	var wvars = wvars || [];
+	wvars.push({wvar_zone: 'af:1:bons_plans:0:300x250', wvar_append: 'shopper-widget-intelligent'});
+</script>
+<!-- Fin du widget produits --></div></div><div class='clearer'></div>
+<div class="widgetGA" onclick="javascript:if(typeof secondTracker == 'object'){secondTracker._trackPageview('/outgoing/widget_track/actualite/espace-partenaire-premium/position_verticale');}"><div class='one_widget espace-partenaire-premium' style='float:right;width:300px;margin:0px 0px 15px 0px;padding:0px;clear:both;'>
+<div id='top_telecharger'>
+	<div class='titre3'>
+		<div class='titre3_milieu'><h2>Partenaire <span>Clubic.com</span></h2></div>
+	</div>
+</div>
+<div id="pub_dart_EP_Premium_300x150">
+	
+	
+	<script type="text/javascript"><!--
+    
+                
+			if(typeof adstimer == 'function'){
+				adstimer();
+			}	
+			
+	        googletag.display('pub_dart_EP_Premium_300x150');
+	        	
+			if(typeof adstimer == 'function'){
+				adstimer();
+			}
+        
+                
+	--></script>
+	
+</div></div></div><div class='clearer'></div>
+<div class="widgetGA" onclick="javascript:if(typeof secondTracker == 'object'){secondTracker._trackPageview('/outgoing/widget_track/actualite/top-download-php/position_verticale');}"><div class='one_widget top-download-php' style='float:right;width:300px;margin:0px 0px 15px 0px;padding:0px;clear:both;'>
+<div id='top_telecharger'>
+<div class='titre3'>
+    <div class='titre3_milieu'><h2 title='Recherche MP3'>Top logiciels <span>Recherche MP3</span></h2></div>
+</div>
+<div id='header_telecharger'>
+<table border='0' cellspacing='0' cellpadding='3' width='294'>
+<tbody><tr><td class='caseimg' align='center'><a href="/telecharger-fiche228410-bit-che.html"><img src="http://img.clubic.com/0032002804858478-photo-bit-che.jpg" title="Bit Che" border='0'></a></td><td class='caseinfo'>
+		<a href="/telecharger-fiche228410-bit-che.html">Bit Che</a>
+		<br />
+		<span style='font-size:11px;'>Recherchez des fichiers torrent</span>
+	</td>
+	</tr><tr><td class='caseimg' align='center'><a href="/telecharger-fiche61456-napster.html"><img src="http://img.clubic.com/0032002800679440-photo-napster.jpg" title="Napster" border='0'></a></td><td class='caseinfo'>
+		<a href="/telecharger-fiche61456-napster.html">Napster</a>
+		<br />
+		<span style='font-size:11px;'>Ecouter de la musique.</span>
+	</td>
+	</tr><tr><td class='caseimg' align='center'><a href="/telecharger-fiche121252-crux.html"><img src="http://img.clubic.com/0032002800698932-photo-crux.jpg" title="CruX" border='0'></a></td><td class='caseinfo'>
+		<a href="/telecharger-fiche121252-crux.html">CruX</a>
+		<br />
+		<span style='font-size:11px;'>téléchargez des fichiers sur plusieurs réseaux peer-to-peer</span>
+	</td>
+	</tr><tr><td class='caseimg' align='center'><a href="/telecharger-fiche56064-freedb-easy-navigator.html"><img src="http://img.clubic.com/0032002800692704-photo-freedb-easy-navigator.jpg" title="Freedb Easy Navigator" border='0'></a></td><td class='caseinfo'>
+		<a href="/telecharger-fiche56064-freedb-easy-navigator.html">Freedb Easy Navigator</a>
+		<br />
+		<span style='font-size:11px;'>Tagger vos fichiers audio</span>
+	</td>
+	</tr><tr><td class='caseimg' align='center'></td><td class='caseinfo'>
+		<a href="/telecharger-fiche61032-mp3-torpedo.html">MP3 Torpedo</a>
+		<br />
+		<span style='font-size:11px;'>Fiche Logiciel</span>
+	</td>
+	</tr><tr><td class='caseimg' align='center'></td><td class='caseinfo'>
+		<a href="/telecharger-fiche60996-mp3-shield.html">MP3 Shield</a>
+		<br />
+		<span style='font-size:11px;'>Détecter les MP3 corrompus ou illisibles durant le téléchargement</span>
+	</td>
+	</tr>
+</tbody>
+</table>
+<div>
+<!--<a href='/telecharger/windows/recherche-mp3/' class='plus_de'>Plus de logiciels</a>-->
+</div>
+</div>
+</div></div></div><div class='clearer'></div>
+<div class="widgetGA" onclick="javascript:if(typeof secondTracker == 'object'){secondTracker._trackPageview('/outgoing/widget_track/actualite/widget-gamer/position_verticale');}"><div class='one_widget widget-gamer' style='float:right;width:300px;margin:0px 0px 15px 0px;padding:0px;clear:both;'>
+<a href='http://www.materiel.net/ordinateur/materiel-net-gamer-par-clubic-88052.html?affcode=configuration_clubic'>
+<!--<img src='http://www.clubic.com/img/widget_gamer.jpg' alt='' />-->
+<img src='http://img.clubic.com/04884896-photo-widget-pc-gamer.jpg.html' alt='' />
+<div style='position:relative;top:-105px;left:4px;font-size:21px;color:#ffffff;font-weight:bold;letter-spacing:-1px;text-shadow:1px 1px 2px #333333;'>869,99 </div>
+</a></div></div><div class='clearer'></div>
+<div class="widgetGA" onclick="javascript:if(typeof secondTracker == 'object'){secondTracker._trackPageview('/outgoing/widget_track/actualite/espaces-partenaires-standard/position_verticale');}"><div class='one_widget espaces-partenaires-standard' style='float:right;width:300px;margin:0px 0px 15px 0px;padding:0px;clear:both;'>
+<div id='top_telecharger'>
+<div class='titre3'>
+		<div class='titre3_milieu'><h2>Partenaire <span>Clubic.com</span></h2></div>
+	</div>
+</div>
+<div id="pub_dart_EP_Standard_300x150">
+	
+	
+	<script type="text/javascript"><!--
+    
+                
+			if(typeof adstimer == 'function'){
+				adstimer();
+			}	
+			
+	        googletag.display('pub_dart_EP_Standard_300x150');
+	        	
+			if(typeof adstimer == 'function'){
+				adstimer();
+			}
+        
+                
+	--></script>
+	
+</div></div></div><div class='clearer'></div>
+<div class="widgetGA" onclick="javascript:if(typeof secondTracker == 'object'){secondTracker._trackPageview('/outgoing/widget_track/actualite/pub-300x250-du-bas/position_verticale');}"><div class='one_widget pub-300x250-du-bas' style='float:right;width:300px;margin:0px 0px 15px 0px;padding:0px;clear:both;'>
+<span id="annonce_pub2"><img src="http://www.clubic.com/img/home/arrowDown_black_pub.png" alt="fleche" />Publicit&eacute;</span>
+<div id='pub_dart_REC_B_300x250'>
+<script type='text/javascript'>if(typeof adstimer == 'function'){ adstimer(); }</script>
+<script type='text/javascript'><!--	
+  document.write('<scr'+'ipt type="text/javascript" src="'+getDartCode('REC_B_300x250')+'"><'+'/script>');
+--></script>
+<script type='text/javascript'>if(typeof adstimer == 'function'){ adstimer(); }</script>
+</div></div></div><div class='clearer'></div>
+</div>
+	</div>
+</div><div style='clear:both'></div>
+
+<!-- Widget produits v0.1 @ FOR ALL MY G33KS ! -->
+<div id="shopper-widget-wrapper">
+	<h2>BE GEEK ! Avec <span class="sprite-global logo-widget_png"><!-- ie comment --></span></h2>
+	<div id="shopper-widget" style="width:950px; margin: 0 auto;">
+        <!-- Widget produits @ 1 -->
+        <script type="text/javascript">
+            var wvars = wvars || [];
+            wvars.push({wvar_zone: 'af:1:clubic_large_5x1:0:950x235', wvar_append: 'shopper-widget', lazyload: true});
+        </script>
+        <!-- Fin du widget produits -->
+    	<script type="text/javascript"><!--
+			(function() {
+				var s = document.createElement('script');
+				s.async = 'async';
+				s.type='text/javascript';
+				s.src='http://widget.achetezfacile.com/widget.js';
+				var h = document.getElementsByTagName('script')[0];
+				h.parentNode.insertBefore(s, h);
+			})();
+		--></script>
+    </div>
+</div>
+<div id="pub_dart_MBR_B_728x90">
+	<span id="annonce_pub"><img src="/api/img/pixel.gif" class="sprite-global arrowDown_pub_png" alt="fleche" />Publicit&eacute;</span>
+	
+	<script type="text/javascript"><!--
+    
+                
+			if(typeof adstimer == 'function'){
+				adstimer();
+			}	
+			
+	        googletag.display('pub_dart_MBR_B_728x90');
+	        	
+			if(typeof adstimer == 'function'){
+				adstimer();
+			}
+        
+                
+	--></script>
+	
+</div><!-- footer colonne -->
+<div id="footer_colonne">
+						<div class="col">
+		
+								<p class="h4">Dernières astuces</p>
+			<ul>
+							
+					
+			<li><a href="http://www.clubic.com/telecharger/logiciel-video-streaming/faq-632/comment-convertir-un-wma-en-mp3-17962.html">Comment convertir un WMA en MP3 ...</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/faq-202/comment-bloquer-la-pub-sur-un-site-internet-17958.html">Comment bloquer la pub sur un si...</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/telecharger/logiciel-retouche-photo/faq-642/comment-partager-des-photos-17956.html">Comment partager des photos ?</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/navigateur-internet/mozilla-firefox/faq-126/comment-sauvegarder-ses-mails-thunderbird-17954.html">Comment sauvegarder ses mails Th...</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/windows-os/windows-vista/faq-268/comment-retrouver-la-corbeille-sous-vista-et-windows-7-17952.html">Comment retrouver la corbeille s...</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/telecharger/faq-1066/comment-lire-ou-monter-une-image-iso-17950.html">Comment lire ou monter une image...</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/telecharger/logiciel-video-streaming/faq-632/comment-lire-un-fichier-mkv-17948.html">Comment lire un fichier MKV ?</a></li>
+							
+									</ul>
+						</div>				
+								<div class="col">
+		
+								<p class="h4">Dernières questions</p>
+			<ul>
+							
+					
+			<li><a href="http://www.clubic.com/forum/reseaux-wifi-lan/transfert-ftp-tres-lent-avec-livebox-id877221-page1.html">Transfert ftp très lent avec liv...</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/hardware-general/comment-formater-un-disque-dur-interne-windows-vista-id877191-page1.html">Comment formater un disque dur i...</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/hardware-general/flash-player-plante-avec-firefox-id876633-page1.html">Flash player plante avec firefox</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/logiciel-general/tout-remettre-t-elle-qu-il-a-ete-id876625-page1.html">Tout remettre t'elle qu'il a été</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/logiciel-general/bonjour-correction-texte-word-id876557-page1.html">Bonjour, correction texte word</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/logiciel-general/reactiver-un-peripherique-retire-en-toute-securite-id876345-page1.html">Réactiver un périphérique retiré...</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/hardware-general/probleme-de-liaison-au-travers-dun-cable-prolific-pl23-03-id876211-page1.html">Problème de liaison au travers d...</a></li>
+							
+									</ul>
+						</div>				
+								<div class="col">
+		
+								<p class="h4">Forum Hardware</p>
+			<ul>
+							
+					
+			<li><a href="http://www.clubic.com/forum/hardware-general/evoluer-fortement-mais-en-conservant-xp-32-bits-id877233-page1.html">Evoluer fortement mais en conser...</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/hardware-general/blue-screen-probleme-de-ram-id877077-page1.html">Blue screen, problème de ram...</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/hardware-general/configuration-gamer-id877207-page1.html">Configuration gamer.</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/hardware-general/probleme-webcam-id877231-page1.html">Problème webcam</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/hardware-general/probleme-de-ram-id877187-page1.html">Problème de ram</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/hardware-general/disque-dur/carte-micro-sd-corrompue-id877225-page1.html">Carte micro sd corrompue</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/hardware-general/carte-mere/pas-de-carte-mere-pci-e-3-0-pour-un-socket-1366-id876655-page1.html">Pas de carte mere pci-e 3.0 pour...</a></li>
+							
+									</ul>
+						</div>				
+								<div class="col">
+		
+								<p class="h4">Forum Logiciels</p>
+			<ul>
+							
+					
+			<li><a href="http://www.clubic.com/forum/logiciel-general/pc-et-la-vieillesse-id877171-page1.html">Pc et la vieillesse</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/logiciel-general/virtualisation-du-dernier-systeme-osx-sur-un-pc-avec-virtualbox-id877197-page1.html">Virtualisation du dernier systèm...</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/logiciel-general/carte-de-restaurant-tactile-id876775-page1.html">Carte de restaurant tactile</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/logiciel-general/impossible-d-effacer-mon-historique-firefox-id876667-page1.html">Impossible d'effacer mon histori...</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/logiciel-general/repertoire-telephone-id876877-page1.html">Repertoire telephone</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/logiciel-general/expiration-powerstrip-id876895-page1.html">Expiration powerstrip</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/logiciel-general/capture-ecran-xp-id876825-page1.html">Capture écran xp</a></li>
+							
+									</ul>
+						</div>				
+								<div class="col last">
+        
+								<p class="h4">Forum Windows</p>
+			<ul>
+							
+					
+			<li><a href="http://www.clubic.com/forum/microsoft-windows/probleme-windows-ne-parvient-pas-a-acceder-au-peripherique-id877205-page1.html">Problème: windows ne parvient pa...</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/microsoft-windows/ecran-de-veille-les-bulles-immortelles-id877209-page1.html">Ecran de veille, les bulles immo...</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/microsoft-windows/probleme-sortie-spdif-soudmax-adb2000b-et-windows-7-id877211-page1.html">Probleme sortie spdif soudmax ad...</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/microsoft-windows/windows-7/ram-utilise-a-95-dllhost-exe-id876789-page1.html">Ram utilisé à 95 % ( dllhost.exe...</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/microsoft-windows/programmation-clavier-id876883-page1.html">Programmation clavier</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/microsoft-windows/windows-7-n-est-pas-authentique-id877107-page1.html">Windows 7 n'est pas authentique....</a></li>
+							
+					
+			<li><a href="http://www.clubic.com/forum/microsoft-windows/pas-d-acces-a-internet-apres-reinstallation-de-win-xp-id877061-page1.html">Pas d'accès à internet après réi...</a></li>
+							
+									</ul>
+						</div>				
+			</div> 
+<script type="text/javascript">
+			noOverlay = false;
+	</script>
+<!--[Overlay]><![endif]-->
+
+<div id="footer_all">
+				<div id="footer-contextuel">
+			<ul>
+																										<li>
+                                                                    <a href="http://www.clubic.com/article-274266-1-windows-7-microsoft-test-dossier.html" 
+                                                                                                                                                                                                    >
+                                                                                                Windows 7
+                                                                    </a>
+                                							</li>
+																			<li>-</li>
+																																	<li>
+                                                                    <a href="http://www.clubic.com/article-77079-1-guide-comparatif-meilleur-antivirus.html" 
+                                                                                                                                                                                                    >
+                                                                                                Antivirus gratuit
+                                                                    </a>
+                                							</li>
+																			<li>-</li>
+																																	<li>
+                                                                    <a href="http://www.clubic.com/telecharger-fiche11003-mozilla-firefox.html" 
+                                                                                                                                                                                                    >
+                                                                                                Firefox
+                                                                    </a>
+                                							</li>
+																			<li>-</li>
+																																	<li>
+                                                                    <a href="http://www.clubic.com/telecharger-fiche10829-vlc-media-player.html" 
+                                                                                                                                                                                                    >
+                                                                                                VLC Media Player
+                                                                    </a>
+                                							</li>
+																			<li>-</li>
+																																	<li>
+                                                                    <a href="http://www.clubic.com/telecharger-fiche14492-ccleaner-crap-cleaner.html" 
+                                                                                                                                                                                                    >
+                                                                                                CC Cleaner
+                                                                    </a>
+                                							</li>
+																			<li>-</li>
+																																	<li>
+                                                                    <a href="http://www.clubic.com/telecharger-fiche11113-avast-antivirus-gratuit.html" 
+                                                                                                                                                                                                    >
+                                                                                                Avast Antivirus
+                                                                    </a>
+                                							</li>
+																			<li>-</li>
+																																	<li>
+                                                                    <a href="http://www.clubic.com/telecharger-fiche10997-avg-antivirus-free-edition.html" 
+                                                                                                                                                                                                    >
+                                                                                                AVG Antivirus
+                                                                    </a>
+                                							</li>
+																			<li>-</li>
+																																	<li>
+                                                                    <a href="http://www.clubic.com/telecharger-fiche10677-openoffice-org.html" 
+                                                                                                                                                                                                    >
+                                                                                                Open Office
+                                                                    </a>
+                                							</li>
+																								</ul>
+		</div>
+			<div id="footer">
+			<ul>
+																										<li>
+                                                                    <a href="http://www.clubic.com/api/creer_un_compte.php" 
+                                                                                                                                                                                                    >
+                                                                                                Mon compte
+                                                                    </a>
+                                							</li>
+																			<li></li>
+																																	<li>
+                                                                    <a href="javascript:;" 
+                                                                                    onclick="window.open(&#039;/api/info-legales.php&#039;,&#039;infos&#039;,&#039;width=470,height=515,status=no,menubar=no,scrollbars=no,resizable=no&#039;);"
+                                                                                                                                                                                                    >
+                                                                                                Infos légales
+                                                                    </a>
+                                							</li>
+																			<li></li>
+																																	<li>
+                                                                    <a href="http://www.m6pubdigital.fr/" 
+                                                                                                                                                                                                    >
+                                                                                                Publicité
+                                                                    </a>
+                                							</li>
+																			<li></li>
+																																	<li>
+                                                                    <a href="http://www.clubic.com/api/cgu.pdf" 
+                                                                                                                                                                                                    >
+                                                                                                CGU
+                                                                    </a>
+                                							</li>
+																			<li></li>
+																																	<li>
+                                                                    <a href="http://www.clubic.com/api/ProtectionViePriveeCookies.pdf" 
+                                                                                                                                                                                                    >
+                                                                                                Protection vie privée / Cookies
+                                                                    </a>
+                                							</li>
+																			<li></li>
+																																	<li>
+                                                                    <a href="/divers/contact.php" 
+                                                                                                                                                                                                    >
+                                                                                                Nous contacter
+                                                                    </a>
+                                							</li>
+																			<li></li>
+																																	<li>
+                                                                    <a href="http://suggestion.clubic.com/forums/54034-bugs" 
+                                                                                                                                                                                                    >
+                                                                                                Signaler un bug
+                                                                    </a>
+                                							</li>
+																			<li></li>
+																																	<li>
+                                                                    <a href="http://suggestion.clubic.com/forums/55236-boite-id-es" 
+                                                                                                                                                                                                    >
+                                                                                                Boîte à idées
+                                                                    </a>
+                                							</li>
+																			<li></li>
+																																	<li>
+                                                                                                © M6 WEB 2013
+                                							</li>
+																								</ul>
+		</div>
+	</div>
+	<div id="fb-root"></div>
+
+	<script type="text/javascript"><!-- //console.time('M6.social');
+        (function(w){
+            var execSocial_13677935234835 = function() {
+M6.Console.log('execSocial_13677935234835 function called', 'DOM');
+                var msixTwitter = new M6.social.twitter();var msixTwitterFollowMe = new M6.social.twitter.followme();msixTwitterFollowMe.init('TwitterFollowMe_1367793523,4612_6be01a5e7b922c96375bdf1876d351b2', 'https://twitter.com/Clubic', 'true' , {"lang":"fr","href":"https:\/\/twitter.com\/Clubic","via":"Clubic"});msixTwitter.loadScript();var msixFacebook = new M6.social.facebook();msixFacebook.FbInit("302753377533", "http://www.clubic.com/api/facebook/channel.php");var msixFacebookLike = new M6.social.facebook.like();msixFacebookLike.init('FacebookLike_top_like_page', 'http://www.facebook.com/pages/Clubic/96758232749', 'button_count' , {"width":100,"send":"false","show_faces":"true","action":"like"});msixFacebook.loadScript();
+            };
+
+                            if (w.addEventListener) { w.addEventListener("load", execSocial_13677935234835, false); }
+                else if (w.attachEvent) { w.attachEvent("onload", execSocial_13677935234835); }
+
+        })(window);
+//console.timeEnd('M6.social'); --></script>		<script type="text/javascript"><!--
+					(function(w) {
+				function loadwebperf() {
+					webperf('editorial', 'listing');
+				}
+				if (w.addEventListener) {
+					w.addEventListener('load', loadwebperf, false);
+				} else if(w.attachEvent) {
+					w.attachEvent('onload', loadwebperf)
+				}
+			}(window));
+					var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			xtnv = document;
+			xtsd = 'http://logc34';
+			xtsite = '301290';
+			xtn2 = '';
+			xtpage = "xxxx::";
+			xtdi = '';
+		--></script>
+
+
+		
+		<script type="text/javascript"><!--
+		var _PJS = 0;
+		var eStatSerial = '01057';
+		var eStatNiveau1 = 'sitefactory';
+		var eStatNiveau2 = 'actualites';
+		var eStatNiveau3 = '';
+		var eStatNiveau4 = '';
+		--></script>
+
+					<script type="text/javascript" src="http://prof.estat.com/js/01057.js"></script>
+			<script type="text/javascript"><!--
+			if(_PJS) {
+				eStat_id.serial(eStatSerial);
+				eStat_id.niveau(1, eStatNiveau1);
+				eStat_id.niveau(2, eStatNiveau2);
+				eStat_id.niveau(3, eStatNiveau3);
+				eStat_id.niveau(4, eStatNiveau4);
+				eStat_tag.post('ml');
+			}
+			--></script>
+			<noscript>
+				<img src="http://prof.estat.com/m/web/01057?g=&amp;c=sitefactory&amp;p=actualites&amp;l3=&amp;l4=" border="0" width="1" height="1" alt="" title="" />
+			</noscript>
+		
+		
+		
+    <script type="text/javascript">
+    <!--
+        try{
+    
+		//handle google images referrer
+		var ref = document.referrer;
+		if((ref.search(/google.*imgres/) != -1)) {
+			var regex = new RegExp("\.google\.([^\/]+)(.*)");
+			var match = regex.exec(ref);
+		}
+		
+		if(typeof _gat == 'object') {
+			firstTracker = _gat._getTracker('UA-7192808-1');
+			firstTracker._setCampaignCookieTimeout(86400000);
+			firstTracker._initData();
+			if ((ref.search(/google.*imgres/) != -1)) {
+				_gaq.push(['firstTracker._setReferrerOverride', 'http://images.google.' + match[1] + unescape(match[2])], ['firstTracker._addOrganic', 'images.google', 'q', true]);
+			 }
+			firstTracker._trackPageview();
+			firstTracker._trackPageLoadTime();
+			firstTracker._setDomainName('none');
+		}
+		
+		if(typeof _gat == 'object') {
+			secondTracker = _gat._getTracker('UA-8847036-1');
+			secondTracker._setCampaignCookieTimeout(86400000);
+			secondTracker._initData();
+			if ((ref.search(/google.*imgres/) != -1)) {
+				_gaq.push(['secondTracker._setReferrerOverride', 'http://images.google.' + match[1] + unescape(match[2])], ['secondTracker._addOrganic', 'images.google', 'q', true]);
+			}
+		secondTracker._setCustomVar(1, 'Section', 'xxxx', 3);
+			secondTracker._trackPageview();
+			secondTracker._trackPageLoadTime();}
+        } catch(err) {}
+        //-->
+    </script>
+	</div>
+
+    <div id="pub_dart_OVL_B_1x1">
+	
+	
+	<script type="text/javascript"><!--
+    
+        if (!(navigator.userAgent.match(/iPhone/i)) && !(navigator.userAgent.match(/iPod/i))){        
+			if(typeof adstimer == 'function'){
+				adstimer();
+			}	
+			
+	        googletag.display('pub_dart_OVL_B_1x1');
+	        	
+			if(typeof adstimer == 'function'){
+				adstimer();
+			}
+        
+        }        
+	--></script>
+	
+</div>
+	<script type="text/javascript"><!--
+		
+
+--></script><script type="text/javascript">
+        $(document).ready(function(){
+          $('#kwicks_carousel .carousel').m6carousel({navigation: true, timer:true, interval:5000});
+        });
+</script><script type="text/javascript"><!--
+		if(document.location.protocol=='http:'){
+			var Tynt=Tynt||[];Tynt.push('d4T7iolsyr35FEadbiUt4I');Tynt.i={"st":true,"ap":"La suite sur Clubic.com : ","as":"Informatique et high tech"};
+			(function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+		}
+		--></script>
+</body>
+</html>

@@ -1,0 +1,321 @@
+	     			
+					 				
+				
+				
+				
+			 				
+				
+				
+				
+				
+				
+				
+				
+	
+	 		
+		
+		
+				 			
+			
+			
+		 			
+							 					
+					
+  Inscrivez-vous !
+  
+
+
+		 			
+			
+			
+							
+											
+						 				
+ 				
+
+					                        
+          
+          
+                                                                                                                  Menu
+                                     
+                                                                                                                                            						
+						 Accueil
+						
+						 Les Sujets et Les Articles
+
+ Informatique
+
+ Programmation C#
+
+ Sécurité & Hacking
+
+ Astuces Windows
+
+ Divx & P2P
+
+ GSM
+
+ Cryptographie
+
+ Webmaster
+
+ Cours Delphi Programmation
+
+ Hoax
+
+ MSN
+
+ Divers
+
+ News
+
+ Jeux Video
+
+ Android OS
+
+ Excel
+
+
+						
+						 Communauté
+
+ Forums
+
+ T'Chat IRC
+·
+ Proposer un article
+·
+ Messages Privés
+
+
+						
+						 Downloads et Liens Web
+
+ Téléchargements
+
+ Liens
+
+ Peer To Peer
+
+
+						
+						 Contenu
+
+ Content
+
+ Encyclopedie
+
+ Reviews
+
+ Top 10
+
+ FAQ
+
+
+						
+						 Infos
+
+ Statistiques
+
+ Search
+
+ Votre Compte
+
+
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Partenaires
+                                     
+                                                                                                                                            Ogame
+Angry Birds Solution
+  
+Aide Ogame
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+                        
+          
+          
+                                                                                                                &nbsp Désactiver l'ouverture de la fenêtre Connexion accès à distance  
+                                      
+                                                                                      Il arrive que la fenêtre de Connexion d'accès à distance de Windows s'ouvre comme une popup très souvent et interrompe votre activité en cours (exemple : un jeu ou un film).Heureusement, il est possible de désactiver l'ouverture automatique de cette fenêtre facilement. 
+                                      
+                                                                                      Transmis par zmaster le Jeudi 09 décembre 2010 à 18:05:00  (1527 lectures)(Suite... | 917 octets de plus | commentaires ? | Score: 4.25)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Accéder aux paramètres cachés de Windows XP   
+                                      
+                                                                                      Hamza36601 a écrit : Windows XP possède                                              une console d'administration qui vous                                              donnera accès à différents                                              paramètres cachés. (Vous                                              devez être connecté en                                              tant qu'Administrateur) Supprimer                                              certains de ces paramètres                                              peut être utile pour bloquer                                              des programmes à des enfants                                              par exemple ... 
+                                      
+                                                                                      Transmis par zmaster le Dimanche 20 janvier 2008 à 10:33:59  (7138 lectures)(Suite... | 11525 octets de plus | 2 commentaires | Score: 3.71)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Optimiser votre vitesse sur Internet ( WinDows XP )  
+                                      
+                                                                                      Anonyme a écrit : Savez                                        vous que "l'Empire" s'est                                        réservé pas moins de 20%                                        de bande passante à l'interne sous                                        Windows XP!! Heureusement il a moyen                                        de contrer cette autre abomination de Microsoft.                                                                              
+Pour                                        optimiser votre vitesse sur Internet et                                        vos temps de ping pour des jeux tel que                                        Unreal tournament ou autre qui sont                                        gourmands en bande passante ou tout simplement                                        afin d'aider votre connexion, suivez ces                                        étapes :
+                                        Connectez-vous dans Windows XP en tant qu'Administrateur                                        et pas simplement en tant qu'usager qui                                        a des privilèges d'administrateur.                                                                             
+                                        Démarrer                                        / Exécuter, tapez gpedit.msc                                        
+                                        Attention: gpedit.msc                                        n'est                                        disponible que sur Windows XP pro.
+                                        À gauche, allez dans Configuration                                        ordinateur/ Modèles d'administration                                        / Réseau / Planificateur de paquets                                        QoS
+                                        À droite, faites un                                        clic droit sur Limiter                                        la bande passante réservable et                                        choisissez Propriétés                                        dans le menu contextuel.                                     
+                                        Assurez-vous que le bouton radio                                        Activé est coché et où                                        il est écrit Limite                                        de bande passante (%), mettez                                        le compteur égal à 0.
+Fermez tout et redémarrez pour être                                        sûr que les changements sont pris                                        en charge.
+ 
+ 
+                                      
+                                                                                      Transmis par zmaster le Mercredi 19 décembre 2007 à 17:10:50  (6368 lectures)(Suite... | 5 commentaires | Score: 4.90)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Cacher son PC de l'administrateur de réseaux  
+                                      
+                                                                                      Trucs et astuces pour camoufler son pc de l'administrateur de réseaux 
+                                      
+                                                                                      Transmis par robotx le Lundi 01 mai 2006 à 08:00:00  (8140 lectures)(Suite... | 860 octets de plus | 2 commentaires | Score: 1.91)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Optimisez la gestion de votre mémoire  
+                                      
+                                                                                      zerocool a écrit : Afin d'optimiser la gestion de votre mémoire, appliquez cette astuce. 
+                                      
+                                                                                      Transmis par zmaster le Jeudi 02 février 2006 à 19:38:42  (6975 lectures)(Suite... | 817 octets de plus | 5 commentaires | Score: 3.25)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Supprimez le mouchard dans Windows 98 et XP  
+                                      
+                                                                                      zerocool a écrit : Supprimez le mouchard de Microsoft dans Windows 98 et Windows XP.Pour le mettre hors service et l'empecher de divulguer des informations vous concernant a Microsoft, il faut vous rendre dans la base de registre. 
+                                      
+                                                                                      Transmis par zmaster le Samedi 28 janvier 2006 à 18:41:59  (5993 lectures)(Suite... | 3081 octets de plus | 8 commentaires | Score: 4.16)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Supprimer les connexions intempestives de Windows XP  
+                                      
+                                                                                      zerocool a écrit : Comme ses prédécesseurs, Windows XP a la fâcheuse manie de déclencher des services et d'autres applications en arrière-plan qui ont pour effet de déclencher une connexion vers le Net. Même si l'on dispose d'une connexion permanente, cette particularité peut être agaçante d'autant qu'il faut disposer d'outils assez pointus pour analyser réellement les informations qui peuvent être transmises à l'occasion de ces connexions. Cela étant dit, Windows n'est pas le seul à devoir être mis en cause car bien d'autres programmes que vous installez, surtout les programmes gratuits assortis de publicité, vont chercher à se connecter sur le Net sans même qu'on les invite à le faire. Seulement, en règle générale, si on réussit à désactiver ces affichages publicitaires le logiciel refuse tout simplement de fonctionner. 
+                                      
+                                                                                      Transmis par zmaster le Mardi 24 janvier 2006 à 03:00:00  (3953 lectures)(Suite... | 7218 octets de plus | commentaires ? | Score: 5)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Désactiver les bips systéme  
+                                      
+                                                                                      Vous avez surement déja entendu votre ordinateur émettre un bip strident avant de vous afficher un message d'erreur. Ces bips, ce sont les bips système. Si ils vous énervent trop, vous pouvez les désactiver, il suffit de faire un petit tour dans la base de registre. 
+                                      
+                                                                                      Transmis par zmaster le Mercredi 21 décembre 2005 à 11:25:46  (2193 lectures)(Suite... | 1069 octets de plus | 1 commentaire | Score: 5)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Accéder à la corbeille masquée  
+                                      
+                                                                                      La corbeille peut facilement être masquée........ 
+                                      
+                                                                                      Transmis par robotx le Mardi 13 décembre 2005 à 14:24:15  (6023 lectures)(Suite... | 739 octets de plus | 5 commentaires | Score: 3)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Désactiver les info bulles Windows  
+                                      
+                                                                                      Les info-bulles de Windows XP sont de plus en plus envahissantes, pour les désactiver, il faut vous rendre dans la base de registre Windows.  
+                                      
+                                                                                      Transmis par zmaster le Samedi 10 décembre 2005 à 19:03:12  (2484 lectures)(Suite... | 1083 octets de plus | 1 commentaire | Score: 4.5)
+
+                                      
+                          
+                                      
+          
+          
+                  
+  1 | 2 |3 |4 |
+
+News ©
+
+audit et mesure d'audience visiteurs internet par Conditions d'utilisation                         
+Tous les logos et marques sont des Propriétés respectives. Les commentaires sont la propriété respective de ceux qui les postent, tout le reste © 2006-2011 est personnel.
+
+
+
+
+                   Tous droits réservés. PHP-MaXiMuS est un logiciel libre en version GNU/GPL license  .Copyright 2005 PHP-MaXiMuS  .[ Page générée en 0.3186 sec ] [ (PHP: 81% - SQL: 19%) ]  [ Requêtes SQL: 63 ]  [ 135 pages vues la dernière heure ]       

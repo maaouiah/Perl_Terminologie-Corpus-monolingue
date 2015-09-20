@@ -1,0 +1,28 @@
+Le Web américain scrute les élus
+LEMONDE.FR | 21.05.07 | 15h24  •  Mis à jour le 21.05.07 | 19h01
+
+	
+Alors que l'élection présidentielle américaine se profile à l'horizon 2008, le Web foisonne de sites citoyens, comme Money and politics, Follow the money ou Open secrets, qui mettent en lumière les liens entre les milieux d'affaires et les politiques. Une tradition de vigilance démocratique – le "watchdog" (littéralement "chien de garde") – qui n'existe pas en France.
+
+Les scandales politico-financiers qui éclaboussent régulièrement Washington ont contribué à développer un sentiment de défiance des Américains envers leurs élus. "Beaucoup de gens aux Etats-unis en ont assez de voir à quel point les lobbies influencent les décisions politiques", souligne Dan Newman, fondateur de Maplight, un nouveau site qui met en perspective les financements de campagne des élus et les décisions politiques prises par ces derniers une fois en poste.
+
+Une situation que constate également Judith Siers-Poisson, du site Congresspedia, pour qui "les relations trop étroites entre sphère corporatiste et politique sont un flot au sein du système politique américain". Congresspedia est présenté, à l'image de Wikipedia, comme une "encyclopédie citoyenne sur le Congrès" et utilise le wiki, un système de gestion collaboratif. Il propose, notamment, des fiches très précises sur les membres du Congrès : des informations sur les votes auxquels ils ont participé, les groupes d'études dont ils ont fait partie, etc. Le site regorge aussi d'informations sur les entreprises lobbyistes.
+
+LE LOBBYING BIEN VU AUX ETATS-UNIS
+
+"Il est essentiel qu'un électeur ait un maximum d'informations sur le candidat pour lequel il s'apprête à voter. Si mon député a par exemple eu des contacts avec Jack Abramoff [lobbyiste mêlé, de près ou de loin, à la plupart des scandales politiques républicains depuis un quart de siècle, et condamné pour fraude, évasion fiscale et complot en vue de corrompre des officiels en mars 2006], ou est soupçonné de corruption, je suis en droit de savoir cela en tant qu'électeur", poursuit-elle.
+
+Pourtant, la pratique du lobbying n'est pas mal vue aux Etats-Unis. Tocqueville déjà parlait des groupes d'intérêt comme d'un moyen de contrebalancer la tyrannie de l'intérêt général. "Le but n'est pas de supprimer tout financement privé au sein des élections américaines", souligne Massie Ritsch, d'Opensecrets. "Il s'agit juste de permettre aux électeurs-citoyens de savoir quels sont les intérêts réellement servis par leurs élus."
+
+Même si elle n'empêche pas les dérives, la réglementation américaine en matière de lobbying favorise la transparence de ces pratiques : noms des lobbyistes, chiffre d'affaires des entreprises concernées, élus démarchés, tout cela fait l'objet d'obligations déclaratives et est inscrit dans des registres publics. Les sites Maplight ou Opensecrets ne font que compiler ces informations et facilitent leur accès au plus grand nombre.
+
+LE WEB FRANÇAIS N'EST PAS PROLIFIQUE
+
+Par principe, l'information fournie est purement factuelle : "Nous ne tirons pas de conclusions sur les données que nous publions, nous laissons cela aux utilisateurs", explique Dan Newman. En quelques clics, des graphiques interactifs permettent de visualiser quel législateur a reçu de l'argent de la part d'un lobby, quelle loi était alors en discussion, et l'issue du vote. Autrement dit, les internautes disposent d'outils mesurant le nombre de fois qu'un homme politique a voté en fonction des intérêts des lobbies l'ont financé et de se faire une idée plus précise des élus qui les représentent.
+
+En France, la situation est bien différente. Les relations d'argent entre hommes politiques et entreprises sont difficiles à analyser car les données manquent : "il existe une absence totale de régulation", pointe Vincent Nouzille, coauteur avec Hélène Constanty, d'un ouvrage d'investigation sur les lobbies à l'Assemblée, Députés sous influence, enquête sur le vrai pouvoir des lobbies à l'Assemblée nationale (Fayard, 2006).
+
+Le Web français n'est pas prolifique : seul le site mon-depute.com propose de savoir quel député a voté pour quelles lois, sans prendre en compte les motivations de vote dues par exemple aux groupes d'influence, à l'origine géographique ou professionnelle de l'élu. Le recours exclusif au financement public des partis politiques depuis les années 1990 n'empêche pas les représentants d'entreprises de faire entendre leur voix auprès des députés. "La situation est totalement hypocrite, tout se passe de manière souterraine", regrette Vincent Nouzille, pour qui la solution passe par un débat ouvert sur les lobbies.
+
+
+Cécile Grégoriades

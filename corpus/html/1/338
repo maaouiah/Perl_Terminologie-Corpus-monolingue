@@ -1,0 +1,246 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//FR" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta property="fb:page_id" content="260650727313588" />
+<title>Meteo Zarzis</title>
+<META NAME="description" CONTENT="Météo Zarzis - Previsions météo pour Zarzis: aujourd'hui Soleil et demain Soleil - temperatures entre 17 C et 23 C.">
+<!--[if lt IE 9]><script src="https://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script><![endif]-->
+<link rel="stylesheet" type="text/css" href="/css/tunisie-meteo.css">
+<style><!--
+
+ div.MeteoHeader { height:39px; width:760px;  background-image:url("/images/Tunisiemeteo.jpg");background-repeat:no-repeat; }
+ --></style>
+<script type="text/javascript" src="http://yui.yahooapis.com/combo?2.9.0/build/yahoo-dom-event/yahoo-dom-event.js&2.9.0/build/container/container_core-min.js&2.9.0/build/menu/menu-min.js"></script><script language="JavaScript" type="text/JavaScript">YAHOO.util.Event.onContentReady("menumeteo", function () {var oMenuBar = new YAHOO.widget.MenuBar("menumeteo", { autosubmenudisplay: true, hidedelay: 750, lazyload: false }); oMenuBar.render();});</script>
+<script type="text/javascript"> function trackConv() { var google_conversion_id= 1072730319; var google_conversion_label = "LaDECI2CiAEQz6HC_wM"; image = new Image(1,1); image.src = "http://www.googleadservices.com/pagead/conversion/"+google_conversion_id+"/?value=0,10&amp;label="+google_conversion_label+"&amp;script=0"; } </script>
+<link rel="canonical" href="http://www.tunisiemeteo.com/meteo/meteo-Djerba/" />
+<link rel="stylesheet" type="text/css" href="/css/meteo-p.css"> <script type="text/javascript">trackerA._setVar('Meteo/5J/2.2');</script> <script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">var trackerA = _gat._getTracker("UA-74382-39"); trackerA._initData();trackerA._setSessionTimeout(3600);trackerA._trackPageview();var trackerB = _gat._getTracker("UA-74382-37"); trackerB._initData();trackerB._setDomainName("none");trackerB._setAllowLinker(true);trackerB._trackPageview();window.google_analytics_uacct = "UA-74382-39";</script> 
+<script type="text/javascript">try { var trackerC = _gat._getTracker("UA-74382-41");trackerC._setDomainName("none"); trackerC._initData();;trackerC._trackPageview();} catch(err) {}</script>
+<script type="text/javascript"> window.google_analytics_uacct = "UA-74382-39";</script>
+
+
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script><script type="text/javascript">GS_googleAddAdSenseService("ca-pub-8764809568352552");GS_googleEnableAllServices();</script><script type="text/javascript">GA_googleAddSlot("ca-pub-8764809568352552","TunisieMeteo");GA_googleAddSlot("ca-pub-8764809568352552","Tunisiemeteo-Square");</script><script type="text/javascript">GA_googleFetchAds();</script>
+</head><body  bgcolor="#E9E9D1" class="yui-skin-sam" >
+<table width="758" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+<tr><td><!-- Usability / Read texte instead-->
+<div class="MeteoHeader"><span class="Header">Meteo Zarzis</span></div></td></tr>
+<tr><td height="90" align="center">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8764809568352552";
+/* tm_728_up */
+google_ad_slot = "9660579022";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+<tr><td>
+<div id="menumeteo" class="yuimenubar yuimenubarnav">
+<div class="bd">
+<ul class="first-of-type">
+<li class="yuimenubaritem first-of-type"><a class="yuimenubaritemlabel" href="/meteo/meteo-Djerba/">M&eacute;t&eacute;o Zarzis</a></li>
+<li class="yuimenubaritem first-of-type"><a class="yuimenubaritemlabel" href="/">M&eacute;t&eacute;o Tunisie</a></li>
+<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/meteo/" rel="nofollow">M&eacute;t&eacute;o par ville</a>
+<div id="MeteoVille" class="yuimenu"><div class="bd"><ul><li class="yuimenuitem"><a class="yuimenuitemlabel" href="/meteo/meteo-Djerba/">M&eacute;t&eacute;o Djerba</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="/meteo/meteo-Hammamet/">M&eacute;t&eacute;o Hammamet</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="/meteo/meteo-Sousse/">M&eacute;t&eacute;o Sousse</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="/meteo/meteo-Tabarka/">M&eacute;t&eacute;o Tabarka</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="/meteo/meteo-Tozeur/">M&eacute;t&eacute;o Tozeur</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="/meteo/meteo-Tunis/">M&eacute;t&eacute;o Tunis</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="/meteo/meteo-monastir/">M&eacute;t&eacute;o monastir</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="/meteo/meteo-Bizerte/">M&eacute;t&eacute;o Bizerte</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="/meteo/meteo-Carthage/">M&eacute;t&eacute;o Carthage</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="/meteo/meteo-Chebba/">M&eacute;t&eacute;o Chebba</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="/meteo/meteo-Gabes/">M&eacute;t&eacute;o Gabes</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="/meteo/meteo-Gafsa/">M&eacute;t&eacute;o Gafsa</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/meteo/" rel="nofollow">Toutes les villes</a></li></ul></div></div></li>
+<li class="yuimenuitem"><a href="/meteo/meteo-Djerba/meteo-Djerba-10-jours.html" class="yuimenuitemlabel">M&eacute;t&eacute;o Zarzis 10 jours</a></li> 
+</ul></div></div>
+</td></tr>
+<tr><td><table width="760" border="0" cellspacing="3" cellpadding="0">
+<tr><td valign="top" colspan="2" width="500">
+<table width="100%" border="0" cellspacing="0" cellpadding="2">
+<tr><td><span class="footer">&gt;</span> <a href="/" class="footer">M&eacute;t&eacute;o Tunisie</a><span class="footer"> &gt;</span> <a href="/meteo/" class="footer">M&eacute;t&eacute;o</a><span class="footer"> &gt;</span> <a href="/meteo/meteo-Djerba/" class="footer">M&eacute;t&eacute;o Zarzis</a></td></tr></table>
+<table width="580" border="0" cellspacing="5" cellpadding="0">
+<tr><td valign="top" style="padding:4px;"><table width="370" border="0" cellspacing="0" cellpadding="2">
+<tr style="padding-top:6px"><td><h1 class="meteovilleh1">M&eacute;t&eacute;o Zarzis</h1>
+
+<div class="meteoprevisions">Les pr&eacute;visions <a href="/" class="meteolink">m&eacute;t&eacute;o</a> de &quot;<a href="/meteo/meteo-Djerba/" class="meteolink"><b>Zarzis</b></a>&quot;, temp&eacute;ratures maximales et minimales pour les 4  prochains jours.<br></div>
+<h2 class="meteoville"><a href="/meteo/meteo-Djerba/" class="meteoville">Aujourd'hui dimanche &agrave; Zarzis:</a></h2></td></tr>
+<tr><td style="padding-top:5px"> 
+<table width="420" border="0" cellpadding="4" cellspacing="2" style="padding-top:3px;border-bottom-width: 1px; border-bottom-style: solid;border-bottom-color: #efefef;">
+
+<tr><td width="130" valign="top"><center><img src="/images/meteo-prevision/32.png" width="32" height="32" alt="Meteo Dimanche Soleil sur Zarzis"></center></td>
+  <td style="font-family:Arial; font-size:13px; font-weight:bold"><table width="180" border="0" cellspacing="1" cellpadding="2">
+    <tr>
+      <td width="50" align="right"><font size="3" face="Arial" color="#FF0000"><b>23&deg;C</b></font></td>
+      <td width="10" align="center">&nbsp;</td>
+      <td align="left"><font color="#2F51C6" size="3" face="Arial"><b>17&deg;C</b></font></td>
+    </tr>
+  </table>
+    </td></tr>
+<tr><td colspan="2" valign="top">
+  <div style="line-height:18px;"><font color="#999933">Humidit&eacute; relative: 51% 
+  &nbsp;Visibilit&eacute;: 10.0km
+  </font></div></td></tr></table>
+<br><a href="/meteo/meteo-Djerba/" class="meteoville">Prévisions des 4 prochains jours &agrave; Zarzis:</a>
+
+<table width="420" border="0" cellpadding="4" cellspacing="2" style="padding-top:10px ;border-bottom-width: 1px; border-bottom-style: solid;border-bottom-color: #efefef;">
+
+<tr><td width="130" valign="top"  style="font-family:Arial; font-size:17px; font-weight:bold"><font color="#999966">Lundi</font></td>
+<td style="font-family:Arial; font-size:17px; font-weight:bold"><span style="font-family:Arial; font-size:17px; font-weight:bold"><font color="#FF6600">Assez ensoleillé</font></span></td></tr>
+<tr><td width="130" valign="top"><center><img src="/images/meteo-prevision/34.png" width="32" height="32" alt="Meteo Lundi Assez ensoleillé sur Zarzis"></center></td>
+  <td style="font-family:Arial; font-size:13px; font-weight:bold"><table width="180" border="0" cellspacing="1" cellpadding="2">
+    <tr>
+      <td width="50" align="right"><font size="3" face="Arial" color="#FF0000"><b>23&deg;C</b></font></td>
+      <td width="10" align="center">&nbsp;</td>
+      <td align="left"><font color="#2F51C6" size="3" face="Arial"><b>15&deg;C</b></font></td>
+    </tr>
+  </table>
+    </td></tr>
+<tr><td colspan="2" valign="top"></td></tr></table>
+
+<table width="420" border="0" cellpadding="4" cellspacing="2" style="padding-top:3px;border-bottom-width: 1px; border-bottom-style: solid;border-bottom-color: #efefef;">
+
+<tr><td width="130" valign="top"  style="font-family:Arial; font-size:17px; font-weight:bold"><font color="#999966">Mardi</font></td>
+<td style="font-family:Arial; font-size:17px; font-weight:bold"><span style="font-family:Arial; font-size:17px; font-weight:bold"><font color="#FF6600">Assez ensoleillé</font></span></td></tr>
+<tr><td width="130" valign="top"><center><img src="/images/meteo-prevision/34.png" width="32" height="32" alt="Meteo Mardi Assez ensoleillé sur Zarzis"></center></td>
+  <td style="font-family:Arial; font-size:13px; font-weight:bold"><table width="180" border="0" cellspacing="1" cellpadding="2">
+    <tr>
+      <td width="50" align="right"><font size="3" face="Arial" color="#FF0000"><b>26&deg;C</b></font></td>
+      <td width="10" align="center">&nbsp;</td>
+      <td align="left"><font color="#2F51C6" size="3" face="Arial"><b>19&deg;C</b></font></td>
+    </tr>
+  </table>
+    </td></tr>
+<tr><td colspan="2" valign="top"></td></tr></table>
+
+<table width="420" border="0" cellpadding="4" cellspacing="2" style="padding-top:3px;border-bottom-width: 1px; border-bottom-style: solid;border-bottom-color: #efefef;">
+
+<tr><td width="130" valign="top"  style="font-family:Arial; font-size:17px; font-weight:bold"><font color="#999966">Mercredi</font></td>
+<td style="font-family:Arial; font-size:17px; font-weight:bold"><span style="font-family:Arial; font-size:17px; font-weight:bold"><font color="#FF6600">Nuages le matin / Soleil l'aprés midi</font></span></td></tr>
+<tr><td width="130" valign="top"><center><img src="/images/meteo-prevision/30.png" width="32" height="32" alt="Meteo Mercredi Nuages le matin / Soleil l'aprés midi sur Zarzis"></center></td>
+  <td style="font-family:Arial; font-size:13px; font-weight:bold"><table width="180" border="0" cellspacing="1" cellpadding="2">
+    <tr>
+      <td width="50" align="right"><font size="3" face="Arial" color="#FF0000"><b>26&deg;C</b></font></td>
+      <td width="10" align="center">&nbsp;</td>
+      <td align="left"><font color="#2F51C6" size="3" face="Arial"><b>19&deg;C</b></font></td>
+    </tr>
+  </table>
+    </td></tr>
+<tr><td colspan="2" valign="top"></td></tr></table>
+
+<table width="420" border="0" cellpadding="4" cellspacing="2" style="padding-top:3px;border-bottom-width: 1px; border-bottom-style: solid;border-bottom-color: #efefef;">
+
+<tr><td width="130" valign="top"  style="font-family:Arial; font-size:17px; font-weight:bold"><font color="#999966">Jeudi</font></td>
+<td style="font-family:Arial; font-size:17px; font-weight:bold"><span style="font-family:Arial; font-size:17px; font-weight:bold"><font color="#FF6600">Assez ensoleillé</font></span></td></tr>
+<tr><td width="130" valign="top"><center><img src="/images/meteo-prevision/34.png" width="32" height="32" alt="Meteo Jeudi Assez ensoleillé sur Zarzis"></center></td>
+  <td style="font-family:Arial; font-size:13px; font-weight:bold"><table width="180" border="0" cellspacing="1" cellpadding="2">
+    <tr>
+      <td width="50" align="right"><font size="3" face="Arial" color="#FF0000"><b>24&deg;C</b></font></td>
+      <td width="10" align="center">&nbsp;</td>
+      <td align="left"><font color="#2F51C6" size="3" face="Arial"><b>19&deg;C</b></font></td>
+    </tr>
+  </table>
+    </td></tr>
+<tr><td colspan="2" valign="top"></td></tr></table>
+</td></tr>
+<tr><td><span class="meteoprevisions">Le temp &agrave; <a href="/meteo/meteo-Djerba/" class="meteolink">Zarzis</a> sera &quot;Soleil&quot; pour la journ&eacute;e.<br>
+Demain le temp &eacute;voluera vers &quot;Assez ensoleillé&quot; et la temp&eacute;rature sera comprise entre 15&deg;C et 23&deg;C.</span> </td></tr></table></td>
+<td width="190" valign="top"><table width="190" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+<tr><td><div style="width:300px; margin-right:3px;"><div class="rightcadre">
+<a href="/meteo/meteo-zarzis/meteo-zarzis-10-jours.html" class="footerlink2">M&eacute;t&eacute;o Zarzis 10 jours</a><br>
+<a href="/meteo/meteo-zarzis/meteo-zarzis-7-jours.html" class="footerlink2">M&eacute;t&eacute;o Zarzis 7 jours</a><br> <a href="/meteo/meteo-zarzis/meteo-zarzis-temperatures-moyennes.html" class="footerlink2">Temp&eacute;ratures moyennes pour Zarzis</a><br>
+<a href="/meteo/sat/" class="footerlink2">Images Satellite</a><br>
+<a href="/meteo/carte/" class="footerlink2">Cartes pr&eacute;visions sur 10 jours</a><br>
+
+
+</div></div>
+<br>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8764809568352552";
+/* Tunisiem_300_250 */
+google_ad_slot = "1686327028";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> 
+<div style="width:300px; margin-right:3px; margin-top:10px">
+
+<div class="rightcadre">
+<ul>
+<li class="menurightList1"><a href="/meteo/meteo-Djerba/" class="footerlink2">Djerba</a> </li>
+<li class="menurightList2"><a href="/meteo/meteo-Hammamet/" class="footerlink2">Hammamet</a> </li>
+<li class="menurightList1"><a href="/meteo/meteo-Sousse/" class="footerlink2">Sousse</a> </li>
+<li class="menurightList2"><a href="/meteo/meteo-Tabarka/" class="footerlink2">Tabarka</a> </li>
+<li class="menurightList1"><a href="/meteo/meteo-Tozeur/" class="footerlink2">Tozeur</a> </li>
+<li class="menurightList2"><a href="/meteo/meteo-Tunis/" class="footerlink2">Tunis</a> </li>
+<li class="menurightList1"><a href="/meteo/meteo-monastir/" class="footerlink2">monastir</a> </li>
+<li class="menurightList2"><a href="/meteo/meteo-Bizerte/" class="footerlink2">Bizerte</a> </li>
+<li class="menurightList1"><a href="/meteo/meteo-Carthage/" class="footerlink2">Carthage</a> </li>
+<li class="menurightList2"><a href="/meteo/meteo-Chebba/" class="footerlink2">Chebba</a> </li>
+<li class="menurightList1"><a href="/meteo/meteo-Gabes/" class="footerlink2">Gabes</a> </li>
+<li class="menurightList2"><a href="/meteo/meteo-Gafsa/" class="footerlink2">Gafsa</a> </li>
+<li class="menurightList1"><a href="/meteo/meteo-Gammarth/" class="footerlink2">Gammarth</a> </li>
+<li class="menurightList2"><a href="/meteo/meteo-Djerba-Houmet-Essouk/" class="footerlink2">Houmet Essouk Djerba</a> </li>
+<li class="menurightList1"><a href="/meteo/meteo-Kairouan/" class="footerlink2">Kairouan</a> </li>
+<li class="menurightList2"><a href="/meteo/meteo-Kantaoui/" class="footerlink2">Kantaoui</a> </li>
+<li class="menurightList1"><a href="/meteo/meteo-Kelibia/" class="footerlink2">Kelibia</a> </li>
+<li class="menurightList2"><a href="/meteo/meteo-La-Marsa/" class="footerlink2">La Marsa</a> </li>
+<li class="menurightList1"><a href="/meteo/meteo-Le-bardo/" class="footerlink2">Le Bardo</a> </li>
+<li class="menurightList2"><a href="/meteo/meteo-mahdia/" class="footerlink2">Mahdia</a> </li>
+<li class="menurightList1"><a href="/meteo/meteo-Mahres/" class="footerlink2">Mahres</a> </li>
+<li class="menurightList2"><a href="/meteo/meteo-Menzel-Bourguiba/" class="footerlink2">Menzel Bourguiba</a> </li>
+</ul>
+</div></div> <div class="addthis_toolbox addthis_default_style" style="margin-top:10px"><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_counter addthis_pill_style"></a></div><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f684c605ea0cf40"></script>
+</td></tr></table></td></tr></table>
+</td></tr></table></td></tr>
+<tr><td><table width="758" border="0" cellspacing="0" bgcolor="#FFFFFF" style="padding: 0px 3px 2px 3px">
+<tr><td>
+<table width="752" border="0" cellpadding="2" cellspacing="0" class="footercadre"><tr><td>
+<div id="leftnav">
+<p>Le site <a href="/"  class="footerlink">Tunisie m&eacute;t&eacute;o</a> propose les <a href="/meteo/carte/" class="footerlink">pr&eacute;visions</a> <a href="/" class="footerlink">m&eacute;t&eacute;o</a> actualis&eacute;es quotidiennement pour la <a href="/" class="footerlink">Tunisie</a> avec plus de 28 villes dont <a href="/meteo/meteo-djerba/" class="footerlink">Djerba</a>, <a href="/meteo/meteo-Hammamet/" class="footerlink">Hammamet</a>, <a href="/meteo/meteo-Tunis/" class="footerlink">Tunis</a>, <a href="/meteo/meteo-Sousse/"  class="footerlink">Sousse</a>, <a href="/meteo/meteo-Monastir/" class="footerlink">Monastir</a> ainsi que des promotions pour votre s&eacute;jour en Tunisie. Retrouvez ainsi la <a href="/" class="footerlink">m&eacute;t&eacute;o de Tunisie</a>. Pour la m&eacute;t&eacute;o en <a href="http://www.meteoegypte.com" class="footerlink">Egypte</a> consultez: <a href="http://www.meteoegypte.com" class="footerlink">m&eacute;t&eacute;o Egypte</a> ou encore au <a href="http://www.meteo-maroc.com/" class="footerlink">Maroc</a> avec <a href="http://www.meteo-maroc.com/" class="footerlink">m&eacute;t&eacute;o Maroc</a>, <a href="http://www.turquiemeteo.com/" class="footerlink">Turquie</a>, <a href="http://www.meteo-suisse.com/" class="footerlink">Suisse</a> ou la <a href="http://www.meteo-maroc.com/" class="footerlink">Thailande</a>.<br /><br />
+Retrouvez &eacute;galement les pr&eacute;visions pour <a href="/meteo/meteo-Djerba/meteo-Djerba-10-jours.html" class="footerlink">Djerba</a>, <a href="/meteo/meteo-Hammamet/meteo-Hammamet-10-jours.html" class="footerlink">Hammamet</a>, <a href="/meteo/meteo-Tunis/meteo-Tunis-10-jours.html" class="footerlink">Tunis</a>, <a href="/meteo/meteo-Sousse/meteo-Sousse-10-jours.html" class="footerlink">Sousse</a>, <a href="/meteo/meteo-Monastir/meteo-Monastir-10-jours.html" class="footerlink">Monastir</a>.<br />
+Pour vos h&ocirc;tels d&eacute;couvrez sur <a href="http://www.winoo.com/tunisie/hotel/" class="footerlink">H&ocirc;tels de Tunisie</a>. Plus d'information sur <a href="http://www.meteodjerba.com/" class="footerlink">Djerba</a> avec <a href="http://www.meteodjerba.com/" class="footerlink">M&eacute;t&eacute;o Djerba</a>. <br /><br />
+Pour vos h&ocirc;tels d&eacute;couvrez sur <a href="http://www.winoo.com/tunisie/hotel/" class="footerlink">H&ocirc;tels de Tunisie</a>. Plus d'information sur <a href="http://www.meteodjerba.com/" class="footerlink">Djerba</a> avec <a href="http://www.meteodjerba.com/" class="footerlink">M&eacute;t&eacute;o Djerba</a>. <br /><br />
+Notre site propose l'annuaire des <a href="/hotel/" class="footerlink">h&ocirc;tels en Tunisie</a>, avec la liste compl&egrave;te des <a href="/hotel/hotels-Djerba/" class="footerlink">H&ocirc;tel &agrave; </a><a href="/hotel/hotels-Djerba/" class="footerlink">Djerba</a>, <a href="/hotel/hotels-Sousse/" class="footerlink">Sousse</a>, <a href="/hotel/hotels-Tunis/" class="footerlink">Tunis</a>, <a href="/hotel/hotels-Monastir/" class="footerlink">Monastir</a>, <a href="/hotel/hotels-Hammamet/" class="footerlink">Hammamet</a> <a href="/hotel/hotels-Mahdia/" class="footerlink">Mahdia</a><br /><br/>
+
+Tunisie m&eacute;t&eacute;o tous droits r&eacute;serv&eacute;s 2005 - 2013 - Site actualis&eacute; le 05-05-2013<br/></p></div>
+<div id="footercontent">
+
+<h2>Nos <a href="/" class="footerlink2">pr&eacute;visions</a> <a href="/" class="footerlink2">m&eacute;t&eacute;o</a> pour la <a href="http://www.tunisiemeteo.com/" class="footerlink2">M&eacute;t&eacute;o en Tunisie</a></h2>
+<ul>
+<li class="footerList1"><a href="/meteo/meteo-Djerba/" class="footer">M&eacute;t&eacute;o Djerba</a> </li>
+<li class="footerList2"><a href="/meteo/meteo-Hammamet/" class="footer">M&eacute;t&eacute;o Hammamet</a> </li>
+<li class="footerList1"><a href="/meteo/meteo-Sousse/" class="footer">M&eacute;t&eacute;o Sousse</a> </li>
+<li class="footerList2"><a href="/meteo/meteo-Tabarka/" class="footer">M&eacute;t&eacute;o Tabarka</a> </li>
+<li class="footerList1"><a href="/meteo/meteo-Tozeur/" class="footer">M&eacute;t&eacute;o Tozeur</a> </li>
+<li class="footerList2"><a href="/meteo/meteo-Tunis/" class="footer">M&eacute;t&eacute;o Tunis</a> </li>
+<li class="footerList1"><a href="/meteo/meteo-monastir/" class="footer">M&eacute;t&eacute;o monastir</a> </li>
+<li class="footerList2"><a href="/meteo/meteo-Bizerte/" class="footer">M&eacute;t&eacute;o Bizerte</a> </li>
+<li class="footerList1"><a href="/meteo/meteo-Carthage/" class="footer">M&eacute;t&eacute;o Carthage</a> </li>
+<li class="footerList2"><a href="/meteo/meteo-Chebba/" class="footer">M&eacute;t&eacute;o Chebba</a> </li>
+<li class="footerList1"><a href="/meteo/meteo-Gabes/" class="footer">M&eacute;t&eacute;o Gabes</a> </li>
+<li class="footerList2"><a href="/meteo/meteo-Gafsa/" class="footer">M&eacute;t&eacute;o Gafsa</a> </li>
+<li class="footerList1"><a href="/meteo/meteo-Gammarth/" class="footer">M&eacute;t&eacute;o Gammarth</a> </li>
+<li class="footerList2"><a href="/meteo/meteo-Djerba-Houmet-Essouk/" class="footer">M&eacute;t&eacute;o Houmet Essouk Djerba</a> </li>
+<li class="footerList1"><a href="/meteo/meteo-Kairouan/" class="footer">M&eacute;t&eacute;o Kairouan</a> </li>
+<li class="footerList2"><a href="/meteo/meteo-Kantaoui/" class="footer">M&eacute;t&eacute;o Kantaoui</a> </li>
+<li class="footerList1"><a href="/meteo/meteo-Kelibia/" class="footer">M&eacute;t&eacute;o Kelibia</a> </li>
+<li class="footerList2"><a href="/meteo/meteo-La-Marsa/" class="footer">M&eacute;t&eacute;o La Marsa</a> </li>
+<li class="footerList1"><a href="/meteo/meteo-Le-bardo/" class="footer">M&eacute;t&eacute;o Le Bardo</a> </li>
+<li class="footerList2"><a href="/meteo/meteo-mahdia/" class="footer">M&eacute;t&eacute;o Mahdia</a> </li>
+<li class="footerList1"><a href="/meteo/meteo-Mahres/" class="footer">M&eacute;t&eacute;o Mahres</a> </li>
+<li class="footerList2"><a href="/meteo/meteo-Menzel-Bourguiba/" class="footer">M&eacute;t&eacute;o Menzel Bourguiba</a> </li>
+<li class="footerList1"><a href="/meteo/meteo-Remada/" class="footer">M&eacute;t&eacute;o Remada</a> </li>
+<li class="footerList2"><a href="/meteo/meteo-Sfax/" class="footer">M&eacute;t&eacute;o Sfax</a> </li>
+<li class="footerList1"><a href="/meteo/meteo-Sidi-bousaid/" class="footer">M&eacute;t&eacute;o Sidi Bousaid</a> </li>
+<li class="footerList2"><a href="/meteo/meteo-Thala/" class="footer">M&eacute;t&eacute;o Thala</a> </li>
+<li class="footerList1"><a href="/meteo/meteo-Yasmine-Hammamet/" class="footer">M&eacute;t&eacute;o Yasmine Hammamet</a> </li>
+<li class="footerList2"><a href="/meteo/meteo-Zarzis/" class="footer">M&eacute;t&eacute;o Zarzis</a> </li>
+</ul> 
+<h2><a href="http://www.tunisiemeteo.com/hotel/" class="footerlink2">Annuaire</a> pour trouver un  <a href="http://www.tunisiemeteo.com/hotel/" class="footerlink2">H&ocirc;tel Tunisie</a></h2>
+<ul>
+<li class="footerList1"><a href="/hotel/hotel-Djerba/" class="footer">Hotel  Djerba</a> </li>
+<li class="footerList2"><a href="/hotel/hotel-Sousse/" class="footer">Hotel  Sousse</a> </li>
+<li class="footerList1"><a href="/hotel/hotel-Monastir/" class="footer">Hotel  Monastir</a> </li>
+<li class="footerList2"><a href="/hotel/hotel-Tunis/" class="footer">Hotel  Tunis</a> </li>
+<li class="footerList1"><a href="/hotel/hotel-Hammamet/" class="footer">Hotel  Hammamet</a> </li>
+<li class="footerList2"><a href="/hotel/hotel-Sousse-nord/" class="footer">Hotel  Sousse nord</a> </li>
+<li class="footerList1"><a href="/hotel/hotel-Tabarka/" class="footer">Hotel  Tabarka</a> </li>
+<li class="footerList2"><a href="/hotel/hotel-Zarzis/" class="footer">Hotel  Zarzis</a> </li>
+</ul><br />
+</div></td></tr></table></td></tr></table></td></tr></table>
+</body></html>

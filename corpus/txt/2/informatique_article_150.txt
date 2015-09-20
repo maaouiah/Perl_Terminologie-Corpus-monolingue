@@ -1,0 +1,224 @@
+	     			
+					 				
+				
+				
+				
+			 				
+				
+				
+				
+				
+				
+				
+				
+	
+	 		
+		
+		
+				 			
+			
+			
+		 			
+							 					
+					
+  Inscrivez-vous !
+  
+
+
+		 			
+			
+			
+							
+											
+						 				
+ 				
+
+					                        
+          
+          
+                                                                                                                  Menu
+                                     
+                                                                                                                                            						
+						 Accueil
+						
+						 Les Sujets et Les Articles
+
+ Informatique
+
+ Programmation C#
+
+ Sécurité & Hacking
+
+ Astuces Windows
+
+ Divx & P2P
+
+ GSM
+
+ Cryptographie
+
+ Webmaster
+
+ Cours Delphi Programmation
+
+ Hoax
+
+ MSN
+
+ Divers
+
+ News
+
+ Jeux Video
+
+ Android OS
+
+ Excel
+
+
+						
+						 Communauté
+
+ Forums
+
+ T'Chat IRC
+·
+ Proposer un article
+·
+ Messages Privés
+
+
+						
+						 Downloads et Liens Web
+
+ Téléchargements
+
+ Liens
+
+ Peer To Peer
+
+
+						
+						 Contenu
+
+ Content
+
+ Encyclopedie
+
+ Reviews
+
+ Top 10
+
+ FAQ
+
+
+						
+						 Infos
+
+ Statistiques
+
+ Search
+
+ Votre Compte
+
+
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Partenaires
+                                     
+                                                                                                                                            Ogame
+Angry Birds Solution
+  
+Aide Ogame
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+                        
+          
+          
+                                                                                                               Accélérer l'affichage des pages - Firefox  
+                                      
+                                                                                      	
+				  	Par défaut, Firefox attend 250 millisecondes avant de commencer à afficher les pages Web que vous visitez. Or, si votre ordinateur est assez rapide, vous pouvez faire en sorte que les pages soient affichées même si toutes les données ne sont pas encore reçues.Pour cela, ouvrez le fichier prefs.js avec le bloc-notes. Celui-ci se trouve dans le dossier C:Documents and Settings[votre nom d'utilisateur]Application Data PhoenixProfiles default[ID de profil]. Ajoutez-y alors le code suivant :// Affichage immédiat des pages:user_pref("nglayout.initialpaint.delay" , 0);
+Enregistrez alors le fichier prefs.js. 
+ 	
+
+                                      
+                                                                                      Posté le Dimanche 27 novembre 2005 à 07:05:00 par robotx
+
+                                      
+                          
+                                      
+          
+          
+                  
+  "Accélérer l'affichage des pages - Firefox" | Connexion/Créer un compte | 0 commentaires
+Les commentaires sont la propriété de leurs auteurs. Nous ne sommes pas responsables de leurs contenus !
+
+Les commentaires anonymes ne sont pas autorisés, veuillez vous enregistrer
+
+ 
+                        
+          
+          
+                                                                                                                  Liens connexes
+                                     
+                                                                                                                                            · Plus à propos de 8 Webmaster· Nouvelles transmises par robotxL'article le plus lu à propos de 8 Webmaster:Mettre de la musique en streaming sur son site web
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Estimer cet Article
+                                     
+                                                                                                                                            Score Moyen: 3.4Votes: 5Merci de prendre une seconde et de voter pour cet article:     
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Options
+                                     
+                                                                                                                                              Format imprimable  Format PDF  Envoyer cet article à un(e) ami(e)
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+News ©
+
+audit et mesure d'audience visiteurs internet par Conditions d'utilisation                         
+Tous les logos et marques sont des Propriétés respectives. Les commentaires sont la propriété respective de ceux qui les postent, tout le reste © 2006-2011 est personnel.
+
+
+
+
+                   Tous droits réservés. PHP-MaXiMuS est un logiciel libre en version GNU/GPL license  .Copyright 2005 PHP-MaXiMuS  .[ Page générée en 0.1679 sec ] [ (PHP: 78% - SQL: 22%) ]  [ Requêtes SQL: 56 ]  [ 258 pages vues la dernière heure ]       

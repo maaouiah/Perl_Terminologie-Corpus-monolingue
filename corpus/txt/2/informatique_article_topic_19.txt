@@ -1,0 +1,189 @@
+	     			
+					 				
+				
+				
+				
+			 				
+				
+				
+				
+				
+				
+				
+				
+	
+	 		
+		
+		
+				 			
+			
+			
+		 			
+							 					
+					
+  Inscrivez-vous !
+  
+
+
+		 			
+			
+			
+							
+											
+						 				
+ 				
+
+					                        
+          
+          
+                                                                                                                  Menu
+                                     
+                                                                                                                                            						
+						 Accueil
+						
+						 Les Sujets et Les Articles
+
+ Informatique
+
+ Programmation C#
+
+ Sécurité & Hacking
+
+ Astuces Windows
+
+ Divx & P2P
+
+ GSM
+
+ Cryptographie
+
+ Webmaster
+
+ Cours Delphi Programmation
+
+ Hoax
+
+ MSN
+
+ Divers
+
+ News
+
+ Jeux Video
+
+ Android OS
+
+ Excel
+
+
+						
+						 Communauté
+
+ Forums
+
+ T'Chat IRC
+·
+ Proposer un article
+·
+ Messages Privés
+
+
+						
+						 Downloads et Liens Web
+
+ Téléchargements
+
+ Liens
+
+ Peer To Peer
+
+
+						
+						 Contenu
+
+ Content
+
+ Encyclopedie
+
+ Reviews
+
+ Top 10
+
+ FAQ
+
+
+						
+						 Infos
+
+ Statistiques
+
+ Search
+
+ Votre Compte
+
+
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Partenaires
+                                     
+                                                                                                                                            Ogame
+Angry Birds Solution
+  
+Aide Ogame
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+                        
+          
+          
+                                                                                                                &nbsp Modifier une cellule dans plusieurs feuilles Excel  
+                                      
+                                                                                      Il arrive souvent d'avoir plusieurs feuilles avec un format identique et dans lesquelles seules les données changent. Par exemple : avoir un classeur Excel pour faire ses comptes et créer une feuille Excel par mois.Chaque feuille Excel contient donc les mêmes formules mais pas les mêmes données.Lorsque vous voulez ajouter ou modifier un champ dans une des cellules, vous n'êtes pas obligé de le faire pour chacune des feuilles XL.En effet, vous pouvez demander à Excel d'ajouter une formule/une donnée dans une même cellule sur toutes les feuilles sélectionnées.Pour sélectionner toutes les feuilles Excel, faites un clic droit sur le nom d'une des feuilles et sélectionnez "Sélectionnez toutes les feuilles".Pour ne sélectionner qu'une partie des feuilles Excel, maintenez la touche CTRL enfoncée et cliquez sur toutes les feuilles à sélectionner.Vous pouvez maintenant ajouter une formule, une donnée ou un format dans une des feuilles sélectionnez et la modification s'effectuera sur toutes les autres feuilles sélectionnez.C'est très pratique quand on se sert d'une feuille Excel comme d'une sorte de modèle (template).N'oubliez pas de désélectionner ensuite les feuilles Excel sinon toutes les modifications seront répercutées.Pour désélectionnez une feuille, cliquez dessus en maintenant à nouveau la touche CTRL ou utilisez l'option du menu contextuel (clic droit).Attention lorsque vous utilisez cette fonctionnalité à ne pas écraser des données existantes car Excel ne demande pas de confirmation. 
+                                      
+                                                                                      Transmis par zmaster le Jeudi 23 juin 2011 à 00:00:00  (1276 lectures)(Suite... | 1 commentaire | Score: 0)
+
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                &nbsp Inverser lignes et colonnes dans un tableau Excel  
+                                      
+                                                                                      Sélectionnez la zone contenant votre tableau, faites un Copier (clic droit ou CTRL + C). Rendez-vous dans la feuille Excel ou vous voulez copier votre tableau inversé, faites clic droit > Coller spécial, dans la fenêtre qui s’ouvre, sélectionnez Transposé. Le tableau collé aura les lignes et les colonnes inversées par rapport au tableau Excel initial. 
+                                      
+                                                                                      Transmis par zmaster le Vendredi 17 juin 2011 à 00:11:18  (947 lectures)(commentaires ? | Score: 5)
+
+                                      
+                          
+                                      
+          
+          
+                  
+  News ©
+
+audit et mesure d'audience visiteurs internet par Conditions d'utilisation                         
+Tous les logos et marques sont des Propriétés respectives. Les commentaires sont la propriété respective de ceux qui les postent, tout le reste © 2006-2011 est personnel.
+
+
+
+
+                   Tous droits réservés. PHP-MaXiMuS est un logiciel libre en version GNU/GPL license  .Copyright 2005 PHP-MaXiMuS  .[ Page générée en 0.6218 sec ] [ (PHP: 78% - SQL: 22%) ]  [ Requêtes SQL: 53 ]  [ 285 pages vues la dernière heure ]       

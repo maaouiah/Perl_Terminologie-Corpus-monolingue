@@ -1,0 +1,332 @@
+
+			VOS IDENTIFIANTS
+Fermer
+			
+		
+	
+
+ 	Informatique
+
+Image & Son
+
+Téléphonie & GPS
+
+Jeux & Consoles
+
+Consommables
+
+Connectique
+
+Logiciels
+
+
+			Mon panierMon panier0 article :0,00 €
+							
+
+quantité : 
+
+					Nous vous proposons également : Prix unitaireQuantitéPOURSUIVRE MES ACHATSVOIR MON PANIER											
+				
+			
+		
+	
+
+Mon compteMon compte		Connexion			Mot de passe oublié ?		
+ConnexionS'enregistrer - simple et rapideCréer un compte	
+
+
+
+
+						10 jours pour changer d'avis
+Paiement en plusieurs fois*
+Paiement en ligne sécurisé
+Débit à l'expédition*
+Packs Garanties & Services
+
+		
+	
+		                                                 Rechercher                                                 			Tous les articles			Faq		            Rechercher        	
+
+
+Accueil
+Informatique
+Réseau
+Carte réseau
+
+	Imprimé le  15/05/2012 à 16:02zoom		
+	
+Photos non contractuelles
+TRENDnet TU2-ETGTRENDnet TU2-ETG - adaptateur USB vers Gigabit 10/100/1000 Mbps (USB 2.0)
+
+Note client : 8 / 10 (2 avis)2 avis - donnez le vôtre		Le TU2-ETG est un adaptateur réseau USB permettant de se brancher immédiatement à un réseau 10/100/1000 Mbps depuis un ordinateur de bureau ou un notebook compatible USB.Lire la suite					
+Etre informé d'une baisse de prix
+Ajouter à mes préférés
+Imprimer la fiche produit
+Envoyer cette fiche à un ami
+Ce produit a été ajouté à vos préférés.
+
+	
+
+34€90TTCdont éco-participation 0,01 €		Quantité : -+
+Commander ce produit	
+Disponible en envoi immédiatDisponible en envoi immédiat
+En option, expédition vers un Relais Colis
+En option, livraison jeudi 17 mai 2012 avant 10h*
+Option non disponible
+Option non disponible
+
+Disponibilités en boutiqueLDLC Paris (15ème)
+LDLC Lyon (9ème)
+
+
+
+		Fermer	
+
+		FermerEnvoyer cette fiche à un ami			Vous souhaitez faire connaître ce produit à un ami ? Renseignez ses coordonnées dans le formulaire suivant. Un mail lui sera envoyé et il aura la possibilité de venir consulter cette fiche article.Votre ami(e) Nom  Email  VousNom  Email  Message(facultatif)envoyer
+		
+	
+		FermerEtre prévenu d'une baisse de prix			Pour être prévenu par mail d'une baisse de prix de cet article, renseignez vos coordonnées ainsi que le montant en euros du seuil de déclenchement de votre alerte.Seuil d'alerte (Montant en euros)Votre adresse emailenvoyer		
+	
+		Fermer	
+
+
+			
+		Descriptif TRENDnet TU2-ETG :
+Descriptif
+Fiche technique
+Ce qu'en pensent nos clients
+Haut de page
+			Voir les autres produits TRENDnetCarte réseau TRENDnet		
+Partagez cette fiche :			                                                                                                                    		
+Le TU2-ETG est un adaptateur réseau USB permettant de se brancher immédiatement à un réseau 10/100/1000 Mbps depuis un ordinateur de bureau ou un notebook compatible USB. Conforme à la norme USB 2.0 et rétrocompatible avec USB 1.0 et 1.1, il permet de partager de fichier et des imprimantes et d’avoir accès à l’Internet à large bande afin de surfer sur le web.
+    Compatible avec les normes USB 2.0 et 1.1
+    Compatible avec les normes IEEE 802.3, 802.3u et 802.3ab
+    Port Gigabit RJ-45 à auto-négociation et auto-MDIX
+    Supporte le fonctionnement en modes full duplex et half-duplex
+    Supporte le mode veille et le mode hibernation pour réveil à distance via liaison ou Magic Packet
+    Compatible avec Windows 2000/XP/Vista et Nintendo Wii
+    Alimentation via le port USB. Aucun adaptateur secteur extérieur n'est nécessaire
+    Voyants lumineux de diagnostic et Plug & Play
+    Garantie limitée de 5 ans
+
+
+	
+
+		Fiche technique TRENDnet TU2-ETG :
+Descriptif
+Fiche technique
+Ce qu'en pensent nos clients
+Haut de page
+Sélectionnez vos critères
+  
+
+Informations générales
+
+		
+                                    Marque
+            
+                            TRENDnet
+
+                                    Modèle
+            
+                            TU2-ETG
+
+Spécifications techniques
+
+		
+                                    Type de carte réseau
+            
+                            Carte Filaire Externe
+
+                                    Bus
+            
+                            USB 2.0
+
+                                    Norme(s) réseau
+            
+                            10/100/1000 Mbps
+
+                                    Connecteur(s)
+            
+                            Gigabit Ethernet 10/100/1000 - RJ45 Femelle
+
+                                    Socket Boot ROM
+            
+                            Non
+
+voir les produits correspondants
+Produit référencé le : 17/11/2008 | Dernière modification le : 03/05/2012	
+
+		Ce qu'en pensent nos clients : Descriptif
+Fiche technique
+Ce qu'en pensent nos clients
+Haut de page
+Note client : 2 avis - donnez le vôtre                                                                            par odjb,le 11 maiConforme à ce que j'attendaisQuelques problèmes pour le faire fonctionner sous linux. Je n'ai pas réussi à l'utiliser avec linux 2.6 mais ça marche très bien avec la version 3.2 (Ubuntu 12.04).Attention, c'est de l'USB2 (plafonné à 480Mbits/s) donc, pas question d'avoir du gigabit ...Lire la suite &rsaquo;Trouvez-vous cette critique utile ? ouinon56% d'avis positifs
+
+
+
+
+                                                                            par Amaury,le 10 févrierRempli son rôleLa carte réseau de mon ordinateur portable commençait à rendre l'âme (déconnexions fréquentes), alors j'ai commandé ce produit. Il rempli bien son rôle, avec pour ma part un débit compris entre 12 et 18 Mo/s, débit que j'aurai espéré plus rapide. A posséder si cela peut vous dépanner. Testé sous Windows 7.Lire la suite &rsaquo;Trouvez-vous cette critique utile ? ouinon56% d'avis positifs
+
+
+
+
+
+	
+		Haut de page			Meilleures ventes de la catégorie : 															Fermer					
+
+						Fermer					
+
+VoircommanderD-Link DGE-528TCarte PCI Gigabit cuivre 10/100/1000 Mbps10€90TTC
+
+VoircommanderTP-LINK TL-WN781NDTP-LINK TL-WN781ND - Carte PCI Express Wi-Fi N (150 Mbps)14€50TTC
+
+VoircommanderTP-LINK WN951NTP-LINK WN951N - Carte PCI sans fil Wi-Fi N 300 Mbps 3T3R26€90TTC
+
+VoircommanderNetgear WNA1100Netgear WNA1100 - Clé USB 2.0 sans fil Wi-Fi N 150 Mbps11€90TTC
+
+VoircommanderTRENDnet TEW-649UBTRENDnet TEW-649UB - Mini Clé USB WiFi N 300 Mbps14€90TTC
+
+				
+			
+				
+			
+		
+			Nos clients ont également acheté : 															Fermer					
+
+						Fermer					
+
+VoircommanderSerre-câble adhésifSerre-câble adhésif (diamètre maximum: 9 mm)0€75TTC
+
+VoircommanderCâble RJ45 catégorie 5e FTP 0.5 m (Beige)Câble RJ45 catégorie 5e FTP 0.5 m (Beige)1€99TTC
+
+VoircommanderCâble RJ45 catégorie 6 SSTP 2 m (Vert)Câble RJ45 catégorie 6 SSTP 2 m (Vert)5€99TTC
+
+VoircommanderCâble RJ45 catégorie 5e FTP 3 m (Beige)Câble RJ45 catégorie 5e FTP 3 m (Beige)4€49TTC
+
+VoircommanderCâble RJ45 catégorie 6 SSTP 1 m (Vert)Câble RJ45 catégorie 6 SSTP 1 m (Vert)4€99TTC
+
+				
+			
+				
+			
+		
+
+	
+		Produits similaires :Haut de page												Fermer				
+
+					Fermer				
+
+TRENDnet TEW-645UBTRENDnet TEW-645UB - Clé USB 2.0 WiFi N 300 Mbps avec antenne 3dBi34€90TTC
+
+Linksys AE2500Adaptateur WiFi sans-fil N 300 Mbps Dual Band34€90TTC
+
+Netgear WNDA3100Netgear WNDA3100 - Clé USB Wireless N 300 Mbps Dual Band29€90TTC
+
+TRENDnet TEW-664UBTRENDnet TEW-664UB - Clé USB WiFi N 300 Mbps Dual Band32€90TTC
+
+
+			
+		
+			
+		
+
+	
+*Avec l’option Chronopost International Demain chez vous, votre commande est livrée avant 10h ou 13h selon votre localité de livraison, le lendemain de la prise en charge de votre colis par Chronopost à l'adresse de votre choix (en France métropolitaine). Votre éligibilité à la livraison avant 10h ou 13h vous sera confirmée au moment du choix de votre mode de livraison. En cas d'absence, le colis est mis en instance dans le bureau de Poste le plus proche.
+
+			
+
+	
+
+
+						Débit à l'expéditionNous ne prélevons pas votre carte bancaire avant la préparation de votre commande !
+Paiement en 3 foisPar carte bancaire à partir de 100 euros TTC
+Livraison outre-merNous livrons dans les DOM-TOM en HT !
+Livraison expressLivré demain avant 13h !
+
+Moyens de paiement acceptés :
+
+
+
+
+
+
+
+
+Aide
+Nos services
+Retourner un article
+Modes de livraison
+Le groupe LDLC
+Devenez affilié !
+CGV
+Offres d'emploi
+Une question, un besoin précis ? Découvrez toutes nos rubriques d'aide
+
+
+		
+	
+Dans la même thématique : 
+trendnet tu2-etg
+ | 
+tu2-etg
+ | 
+adaptateur trendnet usb/rj45 10/100/1000 mbps (tu2-etg)
+ | 
+adaptateur usb / ethernet tu2etg trendnet 
+ | 
+trendnet tu2-etg test
+ | 
+trendnet tu2 etg
+ | 
+tu2-etg prix
+ | 
+tu2 etg
+ | 
+test tu2-etg
+ | 
+adaptateur usb ethernet 1000
+Liens relatifs :
+Achat NEC 17" LCD - AccuSync LCD71VM (garantie constructeur 3 ans sur site)
+Achat Belkin Pack de 3 housses en cuir F8Z017EA
+Vente Shuttle
+Acheter Sony Corporation
+Thrustmaster F1 Dual Analog Ferrari F60 Exclusive Edition pas cher
+					Commandez facile avec LDLC.com, spécialiste de la vente à distance de produits informatiques (Souris PC Logitech Sans-fil, Ecran PC ASUSTeK LED, Appareil photo compact Sony Ecran LCD, TV Ecran plat Samsung LED), Ordinateur portable et High Tech. Si vous hésitez sur l'achat de matériel informatique (Smartphone LG Ecran tactile, Cartouche imprimante HP Noir, Câble HDMI Générique, Clé USB Corsair 32 Go), de pièces détachées ou encore de périphériques, référez-vous aux avis de nos clients et aux différents tests. Profitez également de tous nos services pour acheter en toute sérénité : les packs Garanties & Services (classique, confort, expert), les options de livraison (relais colis, retrait dans nos points de vente...livraison dom tom) et les modes de paiement sécurisés (CB, en trois fois...). Enfin, pour répondre à toutes vos questions, rendez-vous sur votre espace d'aide. Abonnez-vous à notre newsletter pour être informé de nos offres promotionnelles toute l'année. Découvrez notre espace Bonnes Affaires pour plus de petits prix, et des remises exceptionnelles durant les soldes. Pour tous vos cadeaux de Noël, de Saint Valentin, comme les produits suivants : Appareil photo Reflex Canon Vidéo HD, imprimante multifonction laser, processeur intel core i7, boitier pc gamer, camera ip wifi...pensez à LDLC.com pour retrouver tout le matériel high-tech au meilleur prix. Accès direct : camescope numerique haute definition, videoprojecteur HD, webcam usb, microphone usb, autoradio usb, netbook intel atom, souris hello kitty, sony xperia, samsung galaxy s2.
+
+		
+	
+LDLC.comworkwork18 chemin des Cuers69574DardillyFrancework04 27 46 6000
+
+
+FranceChoix du paysFrance
+Belgique
+Suisse
+
+
+
+Groupe LDLC.comLes autres sites du groupe LDLC.com :LDLC-Pro.comVotre espace de vente dédiée aux professionnels (artisans, PME/PMI, administration, revendeurs...)
+MagineaDes produits actuels et tendance pour aménager votre maison et son extérieur.
+AnikopL'innovation gestion au service du point de vente.
+PlugsquareVente d'instruments et d'équipement musical.
+Hardware.frLe Guide du Hardware & de l'optimisation PC.
+
+
+
+Nos boutiques                            Boutique de Lyon                                LDLC.com Boutique Lyon                                work                                                                    work                                    22 et 24, rue de la Gare
+                                    69009                                     LYON                                    France                                                                work04 26 68 49 00                                Ouverture du Mardi au Samedi de 10h30 à 19h00.                                Voir le site de la boutique                            
+                            Boutique de Paris                                LDLC.com Boutique Paris                                work                                                                    work                                    12 et 14, rue de l'Eglise
+                                    75015                                     PARIS                                    France                                                                work01 45 78 78 28                                Ouverture du Mardi au Samedi de 10h00 à 19h00.                                Voir le site de la boutique                            
+
+
+
+Aide
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,222 @@
+	     			
+					 				
+				
+				
+				
+			 				
+				
+				
+				
+				
+				
+				
+				
+	
+	 		
+		
+		
+				 			
+			
+			
+		 			
+							 					
+					
+  Inscrivez-vous !
+  
+
+
+		 			
+			
+			
+							
+											
+						 				
+ 				
+
+					                        
+          
+          
+                                                                                                                  Menu
+                                     
+                                                                                                                                            						
+						 Accueil
+						
+						 Les Sujets et Les Articles
+
+ Informatique
+
+ Programmation C#
+
+ Sécurité & Hacking
+
+ Astuces Windows
+
+ Divx & P2P
+
+ GSM
+
+ Cryptographie
+
+ Webmaster
+
+ Cours Delphi Programmation
+
+ Hoax
+
+ MSN
+
+ Divers
+
+ News
+
+ Jeux Video
+
+ Android OS
+
+ Excel
+
+
+						
+						 Communauté
+
+ Forums
+
+ T'Chat IRC
+·
+ Proposer un article
+·
+ Messages Privés
+
+
+						
+						 Downloads et Liens Web
+
+ Téléchargements
+
+ Liens
+
+ Peer To Peer
+
+
+						
+						 Contenu
+
+ Content
+
+ Encyclopedie
+
+ Reviews
+
+ Top 10
+
+ FAQ
+
+
+						
+						 Infos
+
+ Statistiques
+
+ Search
+
+ Votre Compte
+
+
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Partenaires
+                                     
+                                                                                                                                            Ogame
+Angry Birds Solution
+  
+Aide Ogame
+
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+                        
+          
+          
+                                                                                                               Microsoft peaufine son tout-en-un sécuritaire  
+                                      
+                                                                                      	
+				  	adam2 a écrit : L'éditeur a lancé, vendredi 13 mai, une version beta de Windows OneCare, un service avec antivirus, firewall, et antispyware.On le savait dans  les cartons de Microsoft depuis des mois  . Vendredi 13 mai, l'éditeur a annoncé qu'il a franchi un nouveau pas vers la commercialisation de son antivirus. Mais plutôt que de le lancer tout seul, Microsoft a choisi de l'intégrer à un nouveau service tout-en-un, Windows OneCare. Une nouvelle qui inquiète les éditeurs d'antivirus et qui fait frémir d'impatience les hackers.  « Avec Windows OneCare, nous répondons tout simplement à la demande de nos clients d'avoir un PC qui marche », résume Frédéric Favre, directeur de la division plate-forme Windows chez Microsoft France.OneCare comporte pour cela un antivirus (nouveau), un antispyware ( déjà disponible depuis janvier ) et un firewall plus complet que celui de Windows XP. Il intègre aussi des fonctions de sauvegarde automatique de données sur CD ou DVD, mais également de défragmentation des disques durs et de récupération des fichiers endommagés.Pour l'instant, le service n'existe qu'en version beta, réservée aux employés de Microsoft aux Etats-Unis. L'édition grand public devrait être commercialisée en fin d'année. Mais, l'éditeur ne fournit aucune précision sur son mode de commercialisation : pack logiciels, services en ligne par abonnement, tarif...Même si certains éditeurs en sont persuadés, Microsoft n'envisage pas d'intégrer OneCare à tous les PC vendus avec Windows. Il est vrai que cela lui attirerait les foudres de la Commission européenne, qui l'a déjà condamné pour abus de position dominante sur le marché des systèmes d'exploitation.Une cible pour les hackersOfficiellement, l'éditeur fait preuve de modestie : « Nous nous positionnons comme un partenaire des éditeurs d'antivirus », déclare Frédéric Favre. Mais combien de temps l'éditeur de Redmond se contentera-t-il des miettes de ce marché à la croissance exponentielle ? Symantec, spécialiste des antivirus, a ainsi affiché une croissance de ses bénéfices de près de 50 % entre 2003 et 2004.« Nous prenons cette annonce très au sérieux », confirme Stéphane Gili Miro, directeur du développement de Panda Sotware, un autre éditeur d'antivirus. « Mais l'arrivée de Microsoft sur un marché permet généralement de le développer », admet-il. En mettant au service de la sécurité toute la puissance de sa communication, le géant de l'édition permet de sensibiliser un très large public.Symantec se veut plus confiant, mettant en avant Norton Internet Security, sa suite logicielle également complète pour la protection des PC. « Nous connaissons ce marché depuis quinze ans et notre offre est beaucoup plus large, allant au-delà de la plate-forme Windows », déclare Anne-Sophie Clemot, directrice marketing grand public et petites entreprises de Symantec France.Finalement, ce sont peut-être ceux-là même que Microsoft cherche à combattre qui feront les arbitres : les hackers et auteurs de virus. « Mettre le nom de Microsoft sur un produit de sécurité, c'est prendre un grand risque », estime Stéphane Gili Miro. Windows est déjà la cible favorite du monde des hackers, il est à parier que dès sa sortie, OneCare attirera toute leur attention. « Nous l'avions déjà remarqué lorsque Microsoft avait lancé son programme " Une informatique digne de confiance ", il y a trois ans. Les attaques n'avaient fait qu'augmenter », rappelle Raimund Genes, président de Trend Micro Europe. « Ils verront cela comme un défi », affirme-t-il.Enfin, il faudra gagner la confiance des utilisateurs. « Windows OneCare leur apporte beaucoup de soulagements, mais ces services impliquent de donner la main à Microsoft sur le système », estime le cabinet d'analystes Ovum dans un communiqué. « Est-ce qu'ils accepteront de le laisser faire en toute confiance ? Même si c'est pour empêcher des intrusions ? La réponse à ces deux questions est non », conclut Ovum.  	
+
+                                      
+                                                                                      Posté le Mardi 11 octobre 2005 à 20:18:24 par zmaster
+
+                                      
+                          
+                                      
+          
+          
+                  
+  "Microsoft peaufine son tout-en-un sécuritaire" | Connexion/Créer un compte | 0 commentaires
+Les commentaires sont la propriété de leurs auteurs. Nous ne sommes pas responsables de leurs contenus !
+
+Les commentaires anonymes ne sont pas autorisés, veuillez vous enregistrer
+
+ 
+                        
+          
+          
+                                                                                                                  Liens connexes
+                                     
+                                                                                                                                            · Plus à propos de 9 News informatiques· Nouvelles transmises par zmasterL'article le plus lu à propos de 9 News informatiques:Microsoft utilise des logiciels crackés
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Estimer cet Article
+                                     
+                                                                                                                                            Score Moyen: 5Votes: 1Merci de prendre une seconde et de voter pour cet article:     
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+                          
+          
+          
+                                                                                                                  Options
+                                     
+                                                                                                                                              Format imprimable  Format PDF  Envoyer cet article à un(e) ami(e)
+                                                  
+                                      
+                          
+                                      
+          
+          
+                  
+  
+News ©
+
+audit et mesure d'audience visiteurs internet par Conditions d'utilisation                         
+Tous les logos et marques sont des Propriétés respectives. Les commentaires sont la propriété respective de ceux qui les postent, tout le reste © 2006-2011 est personnel.
+
+
+
+
+                   Tous droits réservés. PHP-MaXiMuS est un logiciel libre en version GNU/GPL license  .Copyright 2005 PHP-MaXiMuS  .[ Page générée en 0.1782 sec ] [ (PHP: 80% - SQL: 20%) ]  [ Requêtes SQL: 56 ]  [ 248 pages vues la dernière heure ]       
